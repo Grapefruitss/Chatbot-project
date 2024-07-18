@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562903",
+    "travelType": "음식점",
+    "place": "김가네김밥 동서울터미널점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562903_0_su_5_김가네김밥 동서울터미널점_2_001.png",
+      "mapx": 37.5353492183772,
+      "mapy": 127.093405063055,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김가네김밥 동서울터미널점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562903_0_su_5_김가네김밥 동서울터미널점_2_002.png",
+      "mapx": 37.5353492183772,
+      "mapy": 127.093405063055,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김가네김밥 동서울터미널점(광진구)",
+        "간판, 여닫이문, 자전거"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562903_0_su_5_김가네김밥 동서울터미널점_2_003.png",
+      "mapx": 37.5353492183772,
+      "mapy": 127.093405063055,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김가네김밥 동서울터미널점(광진구)",
+        "등받이 의자, 사각 테이블, 정수기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562903_0_su_5_김가네김밥 동서울터미널점_2_004.png",
+      "mapx": 37.5353492183772,
+      "mapy": 127.093405063055,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김가네김밥 동서울터미널점(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562903_0_su_5_김가네김밥 동서울터미널점_2_005.png",
+      "mapx": 37.5353492183772,
+      "mapy": 127.093405063055,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김가네김밥 동서울터미널점(광진구)",
+        "떡볶이, 김밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 강변역로4길 10 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "김가네김밥 동서울터미널점,주소,서울 광진구 강변역로4길 10 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 강변역로4길 10 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "김가네김밥 동서울터미널점,주소,서울 광진구 강변역로4길 10 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "강변역 4번 출구, 올리브영, 강변우성아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "김가네김밥 동서울터미널점,인접,강변역 4번 출구, 올리브영, 강변우성아파트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "강변역 4번 출구, 올리브영, 강변우성아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "김가네김밥 동서울터미널점,인접,강변역 4번 출구, 올리브영, 강변우성아파트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "라면, 라볶이",
+          "answer_wordNum": 2,
+          "fact": [
+            "김가네김밥 동서울터미널점,메뉴,라면, 라볶이"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "강변역 4번 출구, 올리브영, 강변우성아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "김가네김밥 동서울터미널점,인접,강변역 4번 출구, 올리브영, 강변우성아파트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-455-7600",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,연락처,02-455-7600"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "강변역 4번 출구, 올리브영, 강변우성아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "김가네김밥 동서울터미널점,인접,강변역 4번 출구, 올리브영, 강변우성아파트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김가네김밥 동서울터미널점,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

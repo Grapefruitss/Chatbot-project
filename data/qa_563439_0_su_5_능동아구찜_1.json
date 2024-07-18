@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563439",
+    "travelType": "음식점",
+    "place": "능동아구찜",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563439_0_su_5_능동아구찜_1_001.png",
+      "mapx": 37.5572145871483,
+      "mapy": 127.07839001386,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "능동아구찜(군자동)",
+        "간판, 여닫이문, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563439_0_su_5_능동아구찜_1_002.png",
+      "mapx": 37.5572145871483,
+      "mapy": 127.07839001386,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "능동아구찜(군자동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563439_0_su_5_능동아구찜_1_003.png",
+      "mapx": 37.5572145871483,
+      "mapy": 127.07839001386,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "능동아구찜(군자동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563439_0_su_5_능동아구찜_1_004.png",
+      "mapx": 37.5572145871483,
+      "mapy": 127.07839001386,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "능동아구찜(군자동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563439_0_su_5_능동아구찜_1_005.png",
+      "mapx": 37.5572145871483,
+      "mapy": 127.07839001386,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "능동아구찜(군자동)",
+        "아구찜"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "찜",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,전문,찜"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이곳은 몇 명 착석이 가능한가요?",
+          "question_wordNum": 5,
+          "answer": "60명 착석",
+          "answer_wordNum": 2,
+          "fact": [
+            "능동아구찜,가능,60명 착석"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이곳은 어떤 곳인가요?",
+          "question_wordNum": 3,
+          "answer": "식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,이다,식당"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,휴무일,공휴일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이곳은 무엇인가요?",
+          "question_wordNum": 2,
+          "answer": "식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,이다,식당"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "볶음밥, 아구탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "능동아구찜,메뉴,볶음밥, 아구탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1408-9350",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,연락처,0507-1408-9350"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1408-9350",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,연락처,0507-1408-9350"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "볶음밥, 아구탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "능동아구찜,메뉴,볶음밥, 아구탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "능동아구찜,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로 544 능동아구찜 1, 2층",
+          "answer_wordNum": 7,
+          "fact": [
+            "능동아구찜,주소,서울 광진구 천호대로 544 능동아구찜 1, 2층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "찜",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,전문,찜"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "볶음밥, 아구탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "능동아구찜,메뉴,볶음밥, 아구탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,휴무일,공휴일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "볶음밥, 아구탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "능동아구찜,메뉴,볶음밥, 아구탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이곳은 몇 명 착석이 가능한가요?",
+          "question_wordNum": 5,
+          "answer": "60명 착석",
+          "answer_wordNum": 2,
+          "fact": [
+            "능동아구찜,가능,60명 착석"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로 544 능동아구찜 1, 2층",
+          "answer_wordNum": 7,
+          "fact": [
+            "능동아구찜,주소,서울 광진구 천호대로 544 능동아구찜 1, 2층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1408-9350",
+          "answer_wordNum": 1,
+          "fact": [
+            "능동아구찜,연락처,0507-1408-9350"
+          ]
+        }
+      ]
+    }
+  ]
+}

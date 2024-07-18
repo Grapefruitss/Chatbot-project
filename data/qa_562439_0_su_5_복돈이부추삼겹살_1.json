@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562439",
+    "travelType": "음식점",
+    "place": "복돈이부추삼겹살",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562439_0_su_5_복돈이부추삼겹살_1_001.png",
+      "mapx": 37.4853043543209,
+      "mapy": 126.928806283142,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "복돈이부추삼겹살(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562439_0_su_5_복돈이부추삼겹살_1_002.png",
+      "mapx": 37.4853043543209,
+      "mapy": 126.928806283142,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "복돈이부추삼겹살(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562439_0_su_5_복돈이부추삼겹살_1_003.png",
+      "mapx": 37.4853043543209,
+      "mapy": 126.928806283142,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "복돈이부추삼겹살(관악구)",
+        "사각테이블 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562439_0_su_5_복돈이부추삼겹살_1_004.png",
+      "mapx": 37.4853043543209,
+      "mapy": 126.928806283142,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "복돈이부추삼겹살(관악구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562439_0_su_5_복돈이부추삼겹살_1_005.png",
+      "mapx": 37.4853043543209,
+      "mapy": 126.928806283142,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "복돈이부추삼겹살(관악구)",
+        "고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00 - 03:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "복돈이부추삼겹살,영업시간,12:00 - 03:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1325-3840",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,연락처,0507-1325-3840"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신림역 6번 출구, 현대옥 신림역점, 한우낙곱새",
+          "answer_wordNum": 6,
+          "fact": [
+            "복돈이부추삼겹살,인접,신림역 6번 출구, 현대옥 신림역점, 한우낙곱새"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신림역 6번 출구, 현대옥 신림역점, 한우낙곱새",
+          "answer_wordNum": 6,
+          "fact": [
+            "복돈이부추삼겹살,인접,신림역 6번 출구, 현대옥 신림역점, 한우낙곱새"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1325-3840",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,연락처,0507-1325-3840"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 03:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "복돈이부추삼겹살,영업시간,12:00 - 03:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "생삼겹살, 냉동삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "복돈이부추삼겹살,메뉴,생삼겹살, 냉동삼겹살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 신림로65길 10-3",
+          "answer_wordNum": 4,
+          "fact": [
+            "복돈이부추삼겹살,주소,서울 관악구 신림로65길 10-3"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신림역 6번 출구, 현대옥 신림역점, 한우낙곱새",
+          "answer_wordNum": 6,
+          "fact": [
+            "복돈이부추삼겹살,인접,신림역 6번 출구, 현대옥 신림역점, 한우낙곱새"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1325-3840",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,연락처,0507-1325-3840"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신림역 6번 출구, 현대옥 신림역점, 한우낙곱새",
+          "answer_wordNum": 6,
+          "fact": [
+            "복돈이부추삼겹살,인접,신림역 6번 출구, 현대옥 신림역점, 한우낙곱새"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 신림로65길 10-3",
+          "answer_wordNum": 4,
+          "fact": [
+            "복돈이부추삼겹살,주소,서울 관악구 신림로65길 10-3"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신림역 6번 출구, 현대옥 신림역점, 한우낙곱새",
+          "answer_wordNum": 6,
+          "fact": [
+            "복돈이부추삼겹살,인접,신림역 6번 출구, 현대옥 신림역점, 한우낙곱새"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "복돈이부추삼겹살,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 03:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "복돈이부추삼겹살,영업시간,12:00 - 03:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

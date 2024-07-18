@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562562",
+    "travelType": "음식점",
+    "place": "본도시락 사당점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562562_0_su_5_본도시락 사당점_1_001.png",
+      "mapx": 37.4762376694622,
+      "mapy": 126.975941019831,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본도시락 사당점(남현동)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562562_0_su_5_본도시락 사당점_1_002.png",
+      "mapx": 37.4762376694622,
+      "mapy": 126.975941019831,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본도시락 사당점(남현동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562562_0_su_5_본도시락 사당점_1_003.png",
+      "mapx": 37.4762376694622,
+      "mapy": 126.975941019831,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본도시락 사당점(남현동)",
+        "계산대"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562562_0_su_5_본도시락 사당점_1_004.png",
+      "mapx": 37.4762376694622,
+      "mapy": 126.975941019831,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본도시락 사당점(남현동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562562_0_su_5_본도시락 사당점_1_005.png",
+      "mapx": 37.4762376694622,
+      "mapy": 126.975941019831,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본도시락 사당점(남현동)",
+        "도시락"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "식사",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,제공,식사"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 판매하나요?",
+          "question_wordNum": 4,
+          "answer": "프리미엄 한식 도시락",
+          "answer_wordNum": 3,
+          "fact": [
+            "본도시락 사당점,판매,프리미엄 한식 도시락"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 6번 출구, 태양빌딩, 으뜸빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "본도시락 사당점,인접,사당역 6번 출구, 태양빌딩, 으뜸빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 2044",
+          "answer_wordNum": 4,
+          "fact": [
+            "본도시락 사당점,주소,서울 관악구 남부순환로 2044"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 6번 출구, 태양빌딩, 으뜸빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "본도시락 사당점,인접,사당역 6번 출구, 태양빌딩, 으뜸빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 2044",
+          "answer_wordNum": 4,
+          "fact": [
+            "본도시락 사당점,주소,서울 관악구 남부순환로 2044"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3473-4282",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,연락처,02-3473-4282"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00-14:00/20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,영업시간,09:00-14:00/20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3473-4282",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,연락처,02-3473-4282"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00-14:00/20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,영업시간,09:00-14:00/20:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본도시락 사당점,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "분짜 두부면, 우삼겹 묵은지 김치찌개 정식",
+          "answer_wordNum": 6,
+          "fact": [
+            "본도시락 사당점,메뉴,분짜 두부면, 우삼겹 묵은지 김치찌개 정식"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본도시락 사당점,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "분짜 두부면, 우삼겹 묵은지 김치찌개 정식",
+          "answer_wordNum": 6,
+          "fact": [
+            "본도시락 사당점,메뉴,분짜 두부면, 우삼겹 묵은지 김치찌개 정식"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "식사",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,제공,식사"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 6번 출구, 태양빌딩, 으뜸빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "본도시락 사당점,인접,사당역 6번 출구, 태양빌딩, 으뜸빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3473-4282",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,연락처,02-3473-4282"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본도시락 사당점,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "본도시락 사당점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

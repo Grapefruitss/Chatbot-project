@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558477",
+    "travelType": "음식점",
+    "place": "쥬씨 미아와이스퀘어점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558477_0_su_5_쥬씨 미아와이스퀘어점_1_001.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 미아와이스퀘어점(강북구)",
+        "여닫이문, 간판, 난간"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558477_0_su_5_쥬씨 미아와이스퀘어점_1_002.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 미아와이스퀘어점(강북구)",
+        "간판, 유리창, 난간"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558477_0_su_5_쥬씨 미아와이스퀘어점_1_003.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 미아와이스퀘어점(강북구)",
+        "테이블, 원형의자, 콘센트"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558477_0_su_5_쥬씨 미아와이스퀘어점_1_004.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 미아와이스퀘어점(강북구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558477_0_su_5_쥬씨 미아와이스퀘어점_1_005.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 미아와이스퀘어점(강북구)",
+        "음료, 플라스틱컵, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "미아사거리역 1번 출구, 애슐리퀸즈, 공차",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,인접,미아사거리역 1번 출구, 애슐리퀸즈, 공차"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "셋째 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,휴무일,셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-3365-5678",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,연락처,010-3365-5678"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-3365-5678",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,연락처,010-3365-5678"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "미아사거리역 1번 출구, 애슐리퀸즈, 공차",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,인접,미아사거리역 1번 출구, 애슐리퀸즈, 공차"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "미아사거리역 1번 출구, 애슐리퀸즈, 공차",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,인접,미아사거리역 1번 출구, 애슐리퀸즈, 공차"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강북구 도봉로 52",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,주소,서울 강북구 도봉로 52"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,영업시간,09:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "셋째 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,휴무일,셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강북구 도봉로 52",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,주소,서울 강북구 도봉로 52"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "셋째 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,휴무일,셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "미아사거리역 1번 출구, 애슐리퀸즈, 공차",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 미아와이스퀘어점,인접,미아사거리역 1번 출구, 애슐리퀸즈, 공차"
+          ]
+        }
+      ]
+    }
+  ]
+}

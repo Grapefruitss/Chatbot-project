@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "556253",
+    "travelType": "음식점",
+    "place": "만랩커피 교대점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "556253_0_su_5_만랩커피 교대점_1_001.png",
+      "mapx": 37.4921215646695,
+      "mapy": 127.014599693373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만랩커피 교대점(서초동)",
+        "건물, 메뉴판, 간판, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "556253_0_su_5_만랩커피 교대점_1_002.png",
+      "mapx": 37.4921215646695,
+      "mapy": 127.014599693373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만랩커피 교대점(서초동)",
+        "건물, 자동차, 간판, 테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "556253_0_su_5_만랩커피 교대점_1_003.png",
+      "mapx": 37.4921215646695,
+      "mapy": 127.014599693373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만랩커피 교대점(서초동)",
+        "테이블, 등받이 의자, 카운터, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "556253_0_su_5_만랩커피 교대점_1_004.png",
+      "mapx": 37.4921215646695,
+      "mapy": 127.014599693373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만랩커피 교대점(서초동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "556253_0_su_5_만랩커피 교대점_1_005.png",
+      "mapx": 37.4921215646695,
+      "mapy": 127.014599693373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "만랩커피 교대점(서초동)",
+        "커피, 테이블"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "과테말라 메디나 안티구아 SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼",
+          "answer_wordNum": 11,
+          "fact": [
+            "만랩커피 교대점,메뉴,과테말라 메디나 안티구아  SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 서초구 서초대로52길 38 102호 만랩커피 교대점",
+          "answer_wordNum": 7,
+          "fact": [
+            "만랩커피 교대점,주소,서울 서초구 서초대로52길 38 102호 만랩커피 교대점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "교대역 13번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "만랩커피 교대점,인접,교대역 13번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1324-9927",
+          "answer_wordNum": 1,
+          "fact": [
+            "만랩커피 교대점,연락처,0507-1324-9927"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "만랩커피 교대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서초구 서초대로52길 38 102호 만랩커피 교대점",
+          "answer_wordNum": 7,
+          "fact": [
+            "만랩커피 교대점,주소,서울 서초구 서초대로52길 38 102호 만랩커피 교대점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "과테말라 메디나 안티구아 SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼",
+          "answer_wordNum": 11,
+          "fact": [
+            "만랩커피 교대점,메뉴,과테말라 메디나 안티구아  SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "만랩커피 교대점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "과테말라 메디나 안티구아 SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼",
+          "answer_wordNum": 11,
+          "fact": [
+            "만랩커피 교대점,메뉴,과테말라 메디나 안티구아  SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "교대역 13번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "만랩커피 교대점,인접,교대역 13번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1324-9927",
+          "answer_wordNum": 1,
+          "fact": [
+            "만랩커피 교대점,연락처,0507-1324-9927"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/09:00 - 15:00/20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "만랩커피 교대점,영업시간,08:00/09:00 - 15:00/20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "과테말라 메디나 안티구아 SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼",
+          "answer_wordNum": 11,
+          "fact": [
+            "만랩커피 교대점,메뉴,과테말라 메디나 안티구아  SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "교대역 13번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "만랩커피 교대점,인접,교대역 13번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서초구 서초대로52길 38 102호 만랩커피 교대점",
+          "answer_wordNum": 7,
+          "fact": [
+            "만랩커피 교대점,주소,서울 서초구 서초대로52길 38 102호 만랩커피 교대점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1324-9927",
+          "answer_wordNum": 1,
+          "fact": [
+            "만랩커피 교대점,연락처,0507-1324-9927"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "만랩커피 교대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "과테말라 메디나 안티구아 SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼",
+          "answer_wordNum": 11,
+          "fact": [
+            "만랩커피 교대점,메뉴,과테말라 메디나 안티구아  SHB EP 스페셜티 블렌드, 바닐라 크림 콜드브루 라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서초구 서초대로52길 38 102호 만랩커피 교대점",
+          "answer_wordNum": 7,
+          "fact": [
+            "만랩커피 교대점,주소,서울 서초구 서초대로52길 38 102호 만랩커피 교대점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/09:00 - 15:00/20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "만랩커피 교대점,영업시간,08:00/09:00 - 15:00/20:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

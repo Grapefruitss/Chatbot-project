@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563900",
+    "travelType": "음식점",
+    "place": "신미양꼬치",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563900_0_su_5_신미양꼬치_3_001.png",
+      "mapx": 37.50470630116,
+      "mapy": 126.890839289313,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신미양꼬치(구로동)",
+        "간판\n"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563900_0_su_5_신미양꼬치_3_002.png",
+      "mapx": 37.50470630116,
+      "mapy": 126.890839289313,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신미양꼬치(구로동)",
+        "간판\n"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563900_0_su_5_신미양꼬치_3_003.png",
+      "mapx": 37.50470630116,
+      "mapy": 126.890839289313,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신미양꼬치(구로동)",
+        "의자, 테이블\n"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563900_0_su_5_신미양꼬치_3_004.png",
+      "mapx": 37.50470630116,
+      "mapy": 126.890839289313,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신미양꼬치(구로동)",
+        "메뉴판\n\n"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563900_0_su_5_신미양꼬치_3_005.png",
+      "mapx": 37.50470630116,
+      "mapy": 126.890839289313,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신미양꼬치(구로동)",
+        "탕수육"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "양꼬치, 마라상궈",
+          "answer_wordNum": 2,
+          "fact": [
+            "신미양꼬치,메뉴,양꼬치, 마라상궈"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-7551-3005",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,연락처,010-7551-3005"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 구로구 새말로16길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "신미양꼬치,주소,서울 구로구 새말로16길 21"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "양꼬치, 마라상궈",
+          "answer_wordNum": 2,
+          "fact": [
+            "신미양꼬치,메뉴,양꼬치, 마라상궈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신도림역 3번 출구, 하우돈곱창, 우리홈마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "신미양꼬치,인접,신도림역 3번 출구, 하우돈곱창, 우리홈마트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 새말로16길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "신미양꼬치,주소,서울 구로구 새말로16길 21"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 새말로16길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "신미양꼬치,주소,서울 구로구 새말로16길 21"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-7551-3005",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,연락처,010-7551-3005"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-7551-3005",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,연락처,010-7551-3005"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 새말로16길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "신미양꼬치,주소,서울 구로구 새말로16길 21"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,영업시간,12:00~24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-7551-3005",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,연락처,010-7551-3005"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "양꼬치, 마라상궈",
+          "answer_wordNum": 2,
+          "fact": [
+            "신미양꼬치,메뉴,양꼬치, 마라상궈"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "신미양꼬치,영업시간,12:00~24:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

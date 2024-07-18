@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "553929",
+    "travelType": "음식점",
+    "place": "투썸플레이스 강남신사점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "553929_0_su_5_투썸플레이스 강남신사점_1_001.png",
+      "mapx": 37.5174164579157,
+      "mapy": 127.021272236535,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강남신사점(신사동)",
+        "간판, 여닫이문, 배너"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "553929_0_su_5_투썸플레이스 강남신사점_1_002.png",
+      "mapx": 37.5174164579157,
+      "mapy": 127.021272236535,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강남신사점(신사동)",
+        "간판, 배너 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "553929_0_su_5_투썸플레이스 강남신사점_1_003.png",
+      "mapx": 37.5174164579157,
+      "mapy": 127.021272236535,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강남신사점(신사동)",
+        "식탁, 등받이 의자 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "553929_0_su_5_투썸플레이스 강남신사점_1_004.png",
+      "mapx": 37.5174164579157,
+      "mapy": 127.021272236535,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강남신사점(신사동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "553929_0_su_5_투썸플레이스 강남신사점_1_005.png",
+      "mapx": 37.5174164579157,
+      "mapy": 127.021272236535,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강남신사점(신사동)",
+        "커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 스페니쉬 연유 카페라떼",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강남신사점,메뉴,아메리카노, 스페니쉬 연유 카페라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00/10:00-22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,영업시간,09:00/10:00-22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강남신사점,인접,신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1343-0238",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,연락처,0507-1343-0238"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 강남대로152길 22",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강남신사점,주소,서울 강남구 강남대로152길 22"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강남신사점,인접,신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 스페니쉬 연유 카페라떼",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강남신사점,메뉴,아메리카노, 스페니쉬 연유 카페라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 강남대로152길 22",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강남신사점,주소,서울 강남구 강남대로152길 22"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00/10:00-22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,영업시간,09:00/10:00-22:00/23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 스페니쉬 연유 카페라떼",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강남신사점,메뉴,아메리카노, 스페니쉬 연유 카페라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강남신사점,인접,신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1343-0238",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,연락처,0507-1343-0238"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강남신사점,인접,신사역 8번 출구, 케이타워신사, 보물선, 새누리종합관리"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00/10:00-22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강남신사점,영업시간,09:00/10:00-22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 강남대로152길 22",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강남신사점,주소,서울 강남구 강남대로152길 22"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559774",
+    "travelType": "음식점",
+    "place": "명랑핫도그 성수카페거리점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559774_0_su_5_명랑핫도그 성수카페거리점_1_001.png",
+      "mapx": 37.5392085813322,
+      "mapy": 127.054733245896,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 성수카페거리점(성동구)",
+        "여닫이문, 의자 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559774_0_su_5_명랑핫도그 성수카페거리점_1_002.png",
+      "mapx": 37.5392085813322,
+      "mapy": 127.054733245896,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 성수카페거리점(성동구)",
+        "간판, 나무 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559774_0_su_5_명랑핫도그 성수카페거리점_1_003.png",
+      "mapx": 37.5392085813322,
+      "mapy": 127.054733245896,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 성수카페거리점(성동구)",
+        "등받이 의자, 여닫이문 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559774_0_su_5_명랑핫도그 성수카페거리점_1_004.png",
+      "mapx": 37.5392085813322,
+      "mapy": 127.054733245896,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 성수카페거리점(성동구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559774_0_su_5_명랑핫도그 성수카페거리점_1_005.png",
+      "mapx": 37.5392085813322,
+      "mapy": 127.054733245896,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 성수카페거리점(성동구)",
+        "핫도그 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "성수역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 성수카페거리점,인접,성수역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성동구 뚝섬로 391-17",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 성수카페거리점,주소,서울 성동구 뚝섬로 391-17"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6949-4807",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,연락처,02-6949-4807"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "성수역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 성수카페거리점,인접,성수역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "마라로제 떡볶이, 크림치즈 핫도그",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 성수카페거리점,메뉴,마라로제 떡볶이, 크림치즈 핫도그"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/14:30-19:00/20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,영업시간,12:30/14:30-19:00/20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성동구 뚝섬로 391-17",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 성수카페거리점,주소,서울 성동구 뚝섬로 391-17"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6949-4807",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,연락처,02-6949-4807"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "마라로제 떡볶이, 크림치즈 핫도그",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 성수카페거리점,메뉴,마라로제 떡볶이, 크림치즈 핫도그"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "성수역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 성수카페거리점,인접,성수역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/14:30-19:00/20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,영업시간,12:30/14:30-19:00/20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성동구 뚝섬로 391-17",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 성수카페거리점,주소,서울 성동구 뚝섬로 391-17"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/14:30-19:00/20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 성수카페거리점,영업시간,12:30/14:30-19:00/20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "마라로제 떡볶이, 크림치즈 핫도그",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 성수카페거리점,메뉴,마라로제 떡볶이, 크림치즈 핫도그"
+          ]
+        }
+      ]
+    }
+  ]
+}

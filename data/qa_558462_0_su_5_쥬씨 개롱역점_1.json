@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558462",
+    "travelType": "음식점",
+    "place": "쥬씨 개롱역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558462_0_su_5_쥬씨 개롱역점_1_001.png",
+      "mapx": 37.4972078608831,
+      "mapy": 127.13591630406,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 개롱역점(송파구)",
+        "어닝, 여닫이문, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558462_0_su_5_쥬씨 개롱역점_1_002.png",
+      "mapx": 37.4972078608831,
+      "mapy": 127.13591630406,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 개롱역점(송파구)",
+        "간판, 어닝, 창문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558462_0_su_5_쥬씨 개롱역점_1_003.png",
+      "mapx": 37.4972078608831,
+      "mapy": 127.13591630406,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 개롱역점(송파구)",
+        "조명, 시계, 바구니"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558462_0_su_5_쥬씨 개롱역점_1_004.png",
+      "mapx": 37.4972078608831,
+      "mapy": 127.13591630406,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 개롱역점(송파구)",
+        "키오스크"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558462_0_su_5_쥬씨 개롱역점_1_005.png",
+      "mapx": 37.4972078608831,
+      "mapy": 127.13591630406,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 개롱역점(송파구)",
+        "음료, 컵, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 개롱역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "셋째 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 개롱역점,휴무일,셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "개롱역 3번 출구, 김밥천국, 본죽",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 개롱역점,인접,개롱역 3번 출구, 김밥천국, 본죽"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 오금로 414",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 개롱역점,주소,서울 송파구 오금로 414"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 오금로 414",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 개롱역점,주소,서울 송파구 오금로 414"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "개롱역 3번 출구, 김밥천국, 본죽",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 개롱역점,인접,개롱역 3번 출구, 김밥천국, 본죽"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "셋째 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 개롱역점,휴무일,셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 수박",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 개롱역점,메뉴,아메리카노, 수박"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아메리카노, 수박",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 개롱역점,메뉴,아메리카노, 수박"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 오금로 414",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 개롱역점,주소,서울 송파구 오금로 414"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "셋째 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 개롱역점,휴무일,셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "개롱역 3번 출구, 김밥천국, 본죽",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 개롱역점,인접,개롱역 3번 출구, 김밥천국, 본죽"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00/12:00 - 21:00/22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 개롱역점,영업시간,10:00/12:00 - 21:00/22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-5718-4542",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 개롱역점,연락처,010-5718-4542"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 수박",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 개롱역점,메뉴,아메리카노, 수박"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 개롱역점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 오금로 414",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 개롱역점,주소,서울 송파구 오금로 414"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-5718-4542",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 개롱역점,연락처,010-5718-4542"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "개롱역 3번 출구, 김밥천국, 본죽",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 개롱역점,인접,개롱역 3번 출구, 김밥천국, 본죽"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 개롱역점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

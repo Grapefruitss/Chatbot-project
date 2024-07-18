@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558365",
+    "travelType": "음식점",
+    "place": "이삭토스트 경리단길점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558365_0_su_5_이삭토스트 경리단길점_1_001.png",
+      "mapx": 37.5390108638821,
+      "mapy": 126.988513955095,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이삭토스트 경리단길점(용산구)",
+        "간판, 어닝, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558365_0_su_5_이삭토스트 경리단길점_1_002.png",
+      "mapx": 37.5390108638821,
+      "mapy": 126.988513955095,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이삭토스트 경리단길점(용산구)",
+        "간판, 어닝, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558365_0_su_5_이삭토스트 경리단길점_1_003.png",
+      "mapx": 37.5390108638821,
+      "mapy": 126.988513955095,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이삭토스트 경리단길점(용산구)",
+        "철판, 빵, 햄"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558365_0_su_5_이삭토스트 경리단길점_1_004.png",
+      "mapx": 37.5390108638821,
+      "mapy": 126.988513955095,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이삭토스트 경리단길점(용산구)",
+        "메뉴판, 조명"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558365_0_su_5_이삭토스트 경리단길점_1_005.png",
+      "mapx": 37.5390108638821,
+      "mapy": 126.988513955095,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이삭토스트 경리단길점(용산구)",
+        "접시, 빵, 햄"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "햄스페셜 토스트, 햄치즈 토스트",
+          "answer_wordNum": 4,
+          "fact": [
+            "이삭토스트 경리단길점,메뉴,햄스페셜 토스트, 햄치즈 토스트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째 목요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "이삭토스트 경리단길점,휴무일,둘째 목요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "녹사평역 2번 출구, 황토숯불생고기, 대성교회",
+          "answer_wordNum": 5,
+          "fact": [
+            "이삭토스트 경리단길점,인접,녹사평역 2번 출구, 황토숯불생고기, 대성교회"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이삭토스트 경리단길점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이삭토스트 경리단길점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 녹사평대로54길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "이삭토스트 경리단길점,주소,서울 용산구 녹사평대로54길 24"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:30/10:00 - 21:30/22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "이삭토스트 경리단길점,영업시간,09:30/10:00 - 21:30/22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1338-9537",
+          "answer_wordNum": 1,
+          "fact": [
+            "이삭토스트 경리단길점,연락처,0507-1338-9537"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 녹사평대로54길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "이삭토스트 경리단길점,주소,서울 용산구 녹사평대로54길 24"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "녹사평역 2번 출구, 황토숯불생고기, 대성교회",
+          "answer_wordNum": 5,
+          "fact": [
+            "이삭토스트 경리단길점,인접,녹사평역 2번 출구, 황토숯불생고기, 대성교회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1338-9537",
+          "answer_wordNum": 1,
+          "fact": [
+            "이삭토스트 경리단길점,연락처,0507-1338-9537"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:30/10:00 - 21:30/22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "이삭토스트 경리단길점,영업시간,09:30/10:00 - 21:30/22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 녹사평대로54길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "이삭토스트 경리단길점,주소,서울 용산구 녹사평대로54길 24"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째 목요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "이삭토스트 경리단길점,휴무일,둘째 목요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "햄스페셜 토스트, 햄치즈 토스트",
+          "answer_wordNum": 4,
+          "fact": [
+            "이삭토스트 경리단길점,메뉴,햄스페셜 토스트, 햄치즈 토스트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1338-9537",
+          "answer_wordNum": 1,
+          "fact": [
+            "이삭토스트 경리단길점,연락처,0507-1338-9537"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째 목요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "이삭토스트 경리단길점,휴무일,둘째 목요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "녹사평역 2번 출구, 황토숯불생고기, 대성교회",
+          "answer_wordNum": 5,
+          "fact": [
+            "이삭토스트 경리단길점,인접,녹사평역 2번 출구, 황토숯불생고기, 대성교회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1338-9537",
+          "answer_wordNum": 1,
+          "fact": [
+            "이삭토스트 경리단길점,연락처,0507-1338-9537"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 녹사평대로54길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "이삭토스트 경리단길점,주소,서울 용산구 녹사평대로54길 24"
+          ]
+        }
+      ]
+    }
+  ]
+}

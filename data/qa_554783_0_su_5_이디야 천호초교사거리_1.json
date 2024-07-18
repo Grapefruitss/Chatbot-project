@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "554783",
+    "travelType": "음식점",
+    "place": "이디야 천호초교사거리",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "554783_0_su_5_이디야 천호초교사거리_1_001.png",
+      "mapx": 37.5467270340876,
+      "mapy": 127.134809493652,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야 천호초교사거리(천호동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "554783_0_su_5_이디야 천호초교사거리_1_002.png",
+      "mapx": 37.5467270340876,
+      "mapy": 127.134809493652,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야 천호초교사거리(천호동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "554783_0_su_5_이디야 천호초교사거리_1_003.png",
+      "mapx": 37.5467270340876,
+      "mapy": 127.134809493652,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야 천호초교사거리(천호동)",
+        "바테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "554783_0_su_5_이디야 천호초교사거리_1_004.png",
+      "mapx": 37.5467270340876,
+      "mapy": 127.134809493652,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야 천호초교사거리(천호동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "554783_0_su_5_이디야 천호초교사거리_1_005.png",
+      "mapx": 37.5467270340876,
+      "mapy": 127.134809493652,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야 천호초교사거리(천호동)",
+        "커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "굽은다리역 2번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "이디야 천호초교사거리,인접,굽은다리역 2번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "HOT 연유 밀크티, HOT 흑임자크림 라떼",
+          "answer_wordNum": 6,
+          "fact": [
+            "이디야 천호초교사거리,메뉴,HOT 연유 밀크티, HOT 흑임자크림 라떼"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1408-0961",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,연락처,0507-1408-0961"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "HOT 연유 밀크티, HOT 흑임자크림 라떼",
+          "answer_wordNum": 6,
+          "fact": [
+            "이디야 천호초교사거리,메뉴,HOT 연유 밀크티, HOT 흑임자크림 라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,영업시간,08:00/09:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "HOT 연유 밀크티, HOT 흑임자크림 라떼",
+          "answer_wordNum": 6,
+          "fact": [
+            "이디야 천호초교사거리,메뉴,HOT 연유 밀크티, HOT 흑임자크림 라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,영업시간,08:00/09:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "HOT 연유 밀크티, HOT 흑임자크림 라떼",
+          "answer_wordNum": 6,
+          "fact": [
+            "이디야 천호초교사거리,메뉴,HOT 연유 밀크티, HOT 흑임자크림 라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,영업시간,08:00/09:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강동구 구천면로 304 일주빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "이디야 천호초교사거리,주소,서울 강동구 구천면로 304 일주빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/09:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,영업시간,08:00/09:00-22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야 천호초교사거리,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

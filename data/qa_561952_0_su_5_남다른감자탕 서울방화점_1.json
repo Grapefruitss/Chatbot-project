@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561952",
+    "travelType": "음식점",
+    "place": "남다른감자탕 서울방화점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561952_0_su_5_남다른감자탕 서울방화점_1_001.png",
+      "mapx": 37.5679807430624,
+      "mapy": 126.81150216438,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "남다른감자탕 서울방화점(강서구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561952_0_su_5_남다른감자탕 서울방화점_1_002.png",
+      "mapx": 37.5679807430624,
+      "mapy": 126.81150216438,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "남다른감자탕 서울방화점(강서구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561952_0_su_5_남다른감자탕 서울방화점_1_003.png",
+      "mapx": 37.5679807430624,
+      "mapy": 126.81150216438,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "남다른감자탕 서울방화점(강서구)",
+        "사각테이블 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561952_0_su_5_남다른감자탕 서울방화점_1_004.png",
+      "mapx": 37.5679807430624,
+      "mapy": 126.81150216438,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "남다른감자탕 서울방화점(강서구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561952_0_su_5_남다른감자탕 서울방화점_1_005.png",
+      "mapx": 37.5679807430624,
+      "mapy": 126.81150216438,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "남다른감자탕 서울방화점(강서구)",
+        "깻잎"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신방화역 1번 출구, 방화동교회, 올뎃덴탈",
+          "answer_wordNum": 5,
+          "fact": [
+            "남다른감자탕 서울방화점,인접,신방화역 1번 출구, 방화동교회, 올뎃덴탈"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1395-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,연락처,0507-1395-2110"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 금낭화로 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "남다른감자탕 서울방화점,주소,서울 강서구 금낭화로 29"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "남다른뼈전골, 남다른 뼈찜",
+          "answer_wordNum": 3,
+          "fact": [
+            "남다른감자탕 서울방화점,메뉴,남다른뼈전골, 남다른 뼈찜"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "남다른감자탕 서울방화점,영업시간,09:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신방화역 1번 출구, 방화동교회, 올뎃덴탈",
+          "answer_wordNum": 5,
+          "fact": [
+            "남다른감자탕 서울방화점,인접,신방화역 1번 출구, 방화동교회, 올뎃덴탈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1395-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,연락처,0507-1395-2110"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "남다른감자탕 서울방화점,영업시간,09:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 금낭화로 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "남다른감자탕 서울방화점,주소,서울 강서구 금낭화로 29"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "남다른뼈전골, 남다른 뼈찜",
+          "answer_wordNum": 3,
+          "fact": [
+            "남다른감자탕 서울방화점,메뉴,남다른뼈전골, 남다른 뼈찜"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "남다른감자탕 서울방화점,영업시간,09:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신방화역 1번 출구, 방화동교회, 올뎃덴탈",
+          "answer_wordNum": 5,
+          "fact": [
+            "남다른감자탕 서울방화점,인접,신방화역 1번 출구, 방화동교회, 올뎃덴탈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1395-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,연락처,0507-1395-2110"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신방화역 1번 출구, 방화동교회, 올뎃덴탈",
+          "answer_wordNum": 5,
+          "fact": [
+            "남다른감자탕 서울방화점,인접,신방화역 1번 출구, 방화동교회, 올뎃덴탈"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1395-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "남다른감자탕 서울방화점,연락처,0507-1395-2110"
+          ]
+        }
+      ]
+    }
+  ]
+}

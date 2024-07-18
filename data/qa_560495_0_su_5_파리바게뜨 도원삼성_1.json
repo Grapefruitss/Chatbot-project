@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560495",
+    "travelType": "음식점",
+    "place": "파리바게뜨 도원삼성",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560495_0_su_5_파리바게뜨 도원삼성_1_001.png",
+      "mapx": 37.5386030532321,
+      "mapy": 126.954943490673,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 도원삼성(도원동)",
+        "간판, 자동문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560495_0_su_5_파리바게뜨 도원삼성_1_002.png",
+      "mapx": 37.5386030532321,
+      "mapy": 126.954943490673,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 도원삼성(도원동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560495_0_su_5_파리바게뜨 도원삼성_1_003.png",
+      "mapx": 37.5386030532321,
+      "mapy": 126.954943490673,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 도원삼성(도원동)",
+        "진열대, 빵"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560495_0_su_5_파리바게뜨 도원삼성_1_004.png",
+      "mapx": 37.5386030532321,
+      "mapy": 126.954943490673,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 도원삼성(도원동)",
+        "빵"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560495_0_su_5_파리바게뜨 도원삼성_1_005.png",
+      "mapx": 37.5386030532321,
+      "mapy": 126.954943490673,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 도원삼성(도원동)",
+        "빵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 도원삼성,주소,서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "실키롤케이크, 단팥빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 도원삼성,메뉴,실키롤케이크, 단팥빵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "효창공원앞역 6번 출구, 용문동 주민센터, CU",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 도원삼성,인접,효창공원앞역 6번 출구, 용문동 주민센터, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 도원삼성,주소,서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "실키롤케이크, 단팥빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 도원삼성,메뉴,실키롤케이크, 단팥빵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "효창공원앞역 6번 출구, 용문동 주민센터, CU",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 도원삼성,인접,효창공원앞역 6번 출구, 용문동 주민센터, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-714-1711",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,연락처,02-714-1711"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 도원삼성,주소,서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "효창공원앞역 6번 출구, 용문동 주민센터, CU",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 도원삼성,인접,효창공원앞역 6번 출구, 용문동 주민센터, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-714-1711",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,연락처,02-714-1711"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "효창공원앞역 6번 출구, 용문동 주민센터, CU",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 도원삼성,인접,효창공원앞역 6번 출구, 용문동 주민센터, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "실키롤케이크, 단팥빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 도원삼성,메뉴,실키롤케이크, 단팥빵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 도원삼성,주소,서울 용산구 새창로 70 도원동삼성래미안 도원상가 2층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 도원삼성,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "효창공원앞역 6번 출구, 용문동 주민센터, CU",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 도원삼성,인접,효창공원앞역 6번 출구, 용문동 주민센터, CU"
+          ]
+        }
+      ]
+    }
+  ]
+}

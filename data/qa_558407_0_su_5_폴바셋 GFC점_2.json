@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558407",
+    "travelType": "음식점",
+    "place": "폴바셋 GFC점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558407_0_su_5_폴바셋 GFC점_2_001.png",
+      "mapx": 37.5000242405515,
+      "mapy": 127.036508620542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 GFC점(강남구)",
+        "간판, 조명, 진열대"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558407_0_su_5_폴바셋 GFC점_2_002.png",
+      "mapx": 37.5000242405515,
+      "mapy": 127.036508620542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 GFC점(강남구)",
+        "나무, 간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558407_0_su_5_폴바셋 GFC점_2_003.png",
+      "mapx": 37.5000242405515,
+      "mapy": 127.036508620542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 GFC점(강남구)",
+        "테이블, 등받이의자, 조명"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558407_0_su_5_폴바셋 GFC점_2_004.png",
+      "mapx": 37.5000242405515,
+      "mapy": 127.036508620542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 GFC점(강남구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558407_0_su_5_폴바셋 GFC점_2_005.png",
+      "mapx": 37.5000242405515,
+      "mapy": 127.036508620542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 GFC점(강남구)",
+        "음료, 컵, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:30/11:00 - 18:00/21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 GFC점,영업시간,07:30/11:00 - 18:00/21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로 152 강남파이낸스센터 지하1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "폴바셋 GFC점,주소,서울 강남구 테헤란로 152 강남파이낸스센터 지하1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로 152 강남파이낸스센터 지하1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "폴바셋 GFC점,주소,서울 강남구 테헤란로 152 강남파이낸스센터 지하1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "아이스 카페라떼, 아이스 룽고",
+          "answer_wordNum": 4,
+          "fact": [
+            "폴바셋 GFC점,메뉴,아이스 카페라떼, 아이스 룽고"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:30/11:00 - 18:00/21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 GFC점,영업시간,07:30/11:00 - 18:00/21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로 152 강남파이낸스센터 지하1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "폴바셋 GFC점,주소,서울 강남구 테헤란로 152 강남파이낸스센터 지하1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아이스 카페라떼, 아이스 룽고",
+          "answer_wordNum": 4,
+          "fact": [
+            "폴바셋 GFC점,메뉴,아이스 카페라떼, 아이스 룽고"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:30/11:00 - 18:00/21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 GFC점,영업시간,07:30/11:00 - 18:00/21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로 152 강남파이낸스센터 지하1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "폴바셋 GFC점,주소,서울 강남구 테헤란로 152 강남파이낸스센터 지하1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2112-3887",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,연락처,02-2112-3887"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:30/11:00 - 18:00/21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 GFC점,영업시간,07:30/11:00 - 18:00/21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아이스 카페라떼, 아이스 룽고",
+          "answer_wordNum": 4,
+          "fact": [
+            "폴바셋 GFC점,메뉴,아이스 카페라떼, 아이스 룽고"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "역삼역 2번 출구, 사보텐, 생어거스틴",
+          "answer_wordNum": 5,
+          "fact": [
+            "폴바셋 GFC점,인접,역삼역 2번 출구, 사보텐, 생어거스틴"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 GFC점,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

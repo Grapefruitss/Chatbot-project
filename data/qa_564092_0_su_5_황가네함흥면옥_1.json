@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564092",
+    "travelType": "음식점",
+    "place": "황가네함흥면옥",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564092_0_su_5_황가네함흥면옥_1_001.png",
+      "mapx": 37.4903263019471,
+      "mapy": 126.856438730327,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황가네함흥면옥(개봉동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564092_0_su_5_황가네함흥면옥_1_002.png",
+      "mapx": 37.4903263019471,
+      "mapy": 126.856438730327,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황가네함흥면옥(개봉동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564092_0_su_5_황가네함흥면옥_1_003.png",
+      "mapx": 37.4903263019471,
+      "mapy": 126.856438730327,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황가네함흥면옥(개봉동)",
+        "에어컨, 등받이 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564092_0_su_5_황가네함흥면옥_1_004.png",
+      "mapx": 37.4903263019471,
+      "mapy": 126.856438730327,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황가네함흥면옥(개봉동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564092_0_su_5_황가네함흥면옥_1_005.png",
+      "mapx": 37.4903263019471,
+      "mapy": 126.856438730327,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황가네함흥면옥(개봉동)",
+        "회냉면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 개봉로 52-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "황가네함흥면옥,주소,서울 구로구 개봉로 52-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "개봉역 1번 출구, 우리은행, 신협",
+          "answer_wordNum": 5,
+          "fact": [
+            "황가네함흥면옥,인접,개봉역 1번 출구, 우리은행, 신협"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "황가네함흥면옥,휴무일,첫째, 셋째 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 개봉로 52-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "황가네함흥면옥,주소,서울 구로구 개봉로 52-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "물냉면, 회냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "황가네함흥면옥,메뉴,물냉면, 회냉면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,영업시간,11:30~20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2689-6990",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,연락처,02-2689-6990"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "물냉면, 회냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "황가네함흥면옥,메뉴,물냉면, 회냉면"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "황가네함흥면옥,휴무일,첫째, 셋째 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2689-6990",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,연락처,02-2689-6990"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 개봉로 52-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "황가네함흥면옥,주소,서울 구로구 개봉로 52-1"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,영업시간,11:30~20:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2689-6990",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,연락처,02-2689-6990"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 화요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "황가네함흥면옥,휴무일,첫째, 셋째 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "물냉면, 회냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "황가네함흥면옥,메뉴,물냉면, 회냉면"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,영업시간,11:30~20:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2689-6990",
+          "answer_wordNum": 1,
+          "fact": [
+            "황가네함흥면옥,연락처,02-2689-6990"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 개봉로 52-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "황가네함흥면옥,주소,서울 구로구 개봉로 52-1"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562119",
+    "travelType": "음식점",
+    "place": "박명주브라더",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562119_0_su_5_박명주브라더_1_001.png",
+      "mapx": 37.4781670917512,
+      "mapy": 126.957412555096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박명주브라더(관악구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562119_0_su_5_박명주브라더_1_002.png",
+      "mapx": 37.4781670917512,
+      "mapy": 126.957412555096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박명주브라더(관악구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562119_0_su_5_박명주브라더_1_003.png",
+      "mapx": 37.4781670917512,
+      "mapy": 126.957412555096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박명주브라더(관악구)",
+        "사각 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562119_0_su_5_박명주브라더_1_004.png",
+      "mapx": 37.4781670917512,
+      "mapy": 126.957412555096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박명주브라더(관악구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562119_0_su_5_박명주브라더_1_005.png",
+      "mapx": 37.4781670917512,
+      "mapy": 126.957412555096,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박명주브라더(관악구)",
+        "스튜 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "서울대입구역 1번 출구, 꼬르동, 대흥빌",
+          "answer_wordNum": 5,
+          "fact": [
+            "박명주브라더,인접,서울대입구역 1번 출구, 꼬르동, 대흥빌"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "이태리 치킨스튜, 타이 치킨스튜",
+          "answer_wordNum": 4,
+          "fact": [
+            "박명주브라더,메뉴,이태리 치킨스튜, 타이 치킨스튜"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "박명주브라더,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "박명주브라더,영업시간,12:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1428-9411",
+          "answer_wordNum": 1,
+          "fact": [
+            "박명주브라더,연락처,0507-1428-9411"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "서울대입구역 1번 출구, 꼬르동, 대흥빌",
+          "answer_wordNum": 5,
+          "fact": [
+            "박명주브라더,인접,서울대입구역 1번 출구, 꼬르동, 대흥빌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박명주브라더,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 관악구 관악로14길 89",
+          "answer_wordNum": 4,
+          "fact": [
+            "박명주브라더,주소,서울 관악구 관악로14길 89"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박명주브라더,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "박명주브라더,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "박명주브라더,영업시간,12:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "이태리 치킨스튜, 타이 치킨스튜",
+          "answer_wordNum": 4,
+          "fact": [
+            "박명주브라더,메뉴,이태리 치킨스튜, 타이 치킨스튜"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "서울대입구역 1번 출구, 꼬르동, 대흥빌",
+          "answer_wordNum": 5,
+          "fact": [
+            "박명주브라더,인접,서울대입구역 1번 출구, 꼬르동, 대흥빌"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "박명주브라더,영업시간,12:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "박명주브라더,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1428-9411",
+          "answer_wordNum": 1,
+          "fact": [
+            "박명주브라더,연락처,0507-1428-9411"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "이태리 치킨스튜, 타이 치킨스튜",
+          "answer_wordNum": 4,
+          "fact": [
+            "박명주브라더,메뉴,이태리 치킨스튜, 타이 치킨스튜"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박명주브라더,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "박명주브라더,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "박명주브라더,영업시간,12:00 - 22:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

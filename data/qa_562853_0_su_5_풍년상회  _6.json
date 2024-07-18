@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562853",
+    "travelType": "음식점",
+    "place": "풍년상회  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562853_0_su_5_풍년상회  _6_001.png",
+      "mapx": 37.5395970263103,
+      "mapy": 127.085622177869,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍년상회(광진구) ",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562853_0_su_5_풍년상회  _6_002.png",
+      "mapx": 37.5395970263103,
+      "mapy": 127.085622177869,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍년상회(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562853_0_su_5_풍년상회  _6_003.png",
+      "mapx": 37.5395970263103,
+      "mapy": 127.085622177869,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍년상회(광진구)",
+        "화분, 원형 테이블, 에어컨, 환풍기, 맥주상자, 텔레비젼, 밥통"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562853_0_su_5_풍년상회  _6_004.png",
+      "mapx": 37.5395970263103,
+      "mapy": 127.085622177869,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍년상회(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562853_0_su_5_풍년상회  _6_005.png",
+      "mapx": 37.5395970263103,
+      "mapy": 127.085622177869,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "풍년상회(광진구)",
+        "쪽갈비"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-453-9693",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,연락처,02-453-9693"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍년상회,영업시간,16:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 2번 출구, 청년피자, 화이트365구의점",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,인접,구의역 2번 출구, 청년피자, 화이트365구의점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 아차산로53길 53 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,주소,서울 광진구 아차산로53길 53 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 2번 출구, 청년피자, 화이트365구의점",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,인접,구의역 2번 출구, 청년피자, 화이트365구의점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-453-9693",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,연락처,02-453-9693"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 2번 출구, 청년피자, 화이트365구의점",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,인접,구의역 2번 출구, 청년피자, 화이트365구의점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로53길 53 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,주소,서울 광진구 아차산로53길 53 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍년상회,영업시간,16:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 2번 출구, 청년피자, 화이트365구의점",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,인접,구의역 2번 출구, 청년피자, 화이트365구의점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-453-9693",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,연락처,02-453-9693"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍년상회,영업시간,16:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "풍년상회,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 아차산로53길 53 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,주소,서울 광진구 아차산로53길 53 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "풍년상회,영업시간,16:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 2번 출구, 청년피자, 화이트365구의점",
+          "answer_wordNum": 5,
+          "fact": [
+            "풍년상회,인접,구의역 2번 출구, 청년피자, 화이트365구의점"
+          ]
+        }
+      ]
+    }
+  ]
+}

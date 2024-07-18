@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594463",
+    "travelType": "음식점",
+    "place": "본크라상",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594463_0_su_5_본크라상_2_001.png",
+      "mapx": 37.5780591918073,
+      "mapy": 127.050116425272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본크라상(전농동)",
+        "여닫이문, 입간판, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594463_0_su_5_본크라상_2_002.png",
+      "mapx": 37.5780591918073,
+      "mapy": 127.050116425272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본크라상(전농동)",
+        "건물, 현수막"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594463_0_su_5_본크라상_2_003.png",
+      "mapx": 37.5780591918073,
+      "mapy": 127.050116425272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본크라상(전농동)",
+        "쇼케이스, 진열대"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594463_0_su_5_본크라상_2_004.png",
+      "mapx": 37.5780591918073,
+      "mapy": 127.050116425272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본크라상(전농동)",
+        "아몬드크루아상"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594463_0_su_5_본크라상_2_005.png",
+      "mapx": 37.5780591918073,
+      "mapy": 127.050116425272,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "본크라상(전농동)",
+        "단팥빵, 까눌레"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "카페나이야가라, 서울우유",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,인접,카페나이야가라, 서울우유"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1373-3166",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,연락처,0507-1373-3166"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "크라상, 대파빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,메뉴,크라상, 대파빵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "카페나이야가라, 서울우유",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,인접,카페나이야가라, 서울우유"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,영업시간,08:00-21:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,휴무일,매주 월요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,영업시간,08:00-21:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1373-3166",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,연락처,0507-1373-3166"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,영업시간,08:00-21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "카페나이야가라, 서울우유",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,인접,카페나이야가라, 서울우유"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "크라상, 대파빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,메뉴,크라상, 대파빵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "본크라상,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,영업시간,08:00-21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "본크라상,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 답십리로23길 60-1 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "본크라상,주소,서울 동대문구 답십리로23길 60-1 1층"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "557878",
+    "travelType": "음식점",
+    "place": "셀렉토커피 남가좌점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "557878_0_su_5_셀렉토커피 남가좌점_1_001.png",
+      "mapx": 37.577604202382,
+      "mapy": 126.922970758416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 남가좌점(서대문구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "557878_0_su_5_셀렉토커피 남가좌점_1_002.png",
+      "mapx": 37.577604202382,
+      "mapy": 126.922970758416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 남가좌점(서대문구)",
+        "간판, 파라솔, 나무, 전봇대, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "557878_0_su_5_셀렉토커피 남가좌점_1_003.png",
+      "mapx": 37.577604202382,
+      "mapy": 126.922970758416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 남가좌점(서대문구)",
+        "등받이 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "557878_0_su_5_셀렉토커피 남가좌점_1_004.png",
+      "mapx": 37.577604202382,
+      "mapy": 126.922970758416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 남가좌점(서대문구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "557878_0_su_5_셀렉토커피 남가좌점_1_005.png",
+      "mapx": 37.577604202382,
+      "mapy": 126.922970758416,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 남가좌점(서대문구)",
+        "음료, 음료 캐리어"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "윤경희한의원, 만화카페나무",
+          "answer_wordNum": 2,
+          "fact": [
+            "셀렉토커피 남가좌점,인접,윤경희한의원, 만화카페나무"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서대문구 증가로 132",
+          "answer_wordNum": 4,
+          "fact": [
+            "셀렉토커피 남가좌점,주소,서울 서대문구 증가로 132"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-303-8771",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,연락처,02-303-8771"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서대문구 증가로 132",
+          "answer_wordNum": 4,
+          "fact": [
+            "셀렉토커피 남가좌점,주소,서울 서대문구 증가로 132"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "윤경희한의원, 만화카페나무",
+          "answer_wordNum": 2,
+          "fact": [
+            "셀렉토커피 남가좌점,인접,윤경희한의원, 만화카페나무"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-303-8771",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,연락처,02-303-8771"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "과테말라 아야르자, 시그니처 흑당 라떼 다크",
+          "answer_wordNum": 6,
+          "fact": [
+            "셀렉토커피 남가좌점,메뉴,과테말라 아야르자, 시그니처 흑당 라떼 다크"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "윤경희한의원, 만화카페나무",
+          "answer_wordNum": 2,
+          "fact": [
+            "셀렉토커피 남가좌점,인접,윤경희한의원, 만화카페나무"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-303-8771",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,연락처,02-303-8771"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 남가좌점,영업시간,09:00 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서대문구 증가로 132",
+          "answer_wordNum": 4,
+          "fact": [
+            "셀렉토커피 남가좌점,주소,서울 서대문구 증가로 132"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-303-8771",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 남가좌점,연락처,02-303-8771"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "과테말라 아야르자, 시그니처 흑당 라떼 다크",
+          "answer_wordNum": 6,
+          "fact": [
+            "셀렉토커피 남가좌점,메뉴,과테말라 아야르자, 시그니처 흑당 라떼 다크"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 남가좌점,영업시간,09:00 - 21:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594467",
+    "travelType": "음식점",
+    "place": "소야지",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594467_0_su_5_소야지_2_001.png",
+      "mapx": 37.5779132959398,
+      "mapy": 127.059486159362,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소야지(전농동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594467_0_su_5_소야지_2_002.png",
+      "mapx": 37.5779132959398,
+      "mapy": 127.059486159362,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소야지(전농동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594467_0_su_5_소야지_2_003.png",
+      "mapx": 37.5779132959398,
+      "mapy": 127.059486159362,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소야지(전농동)",
+        "테이블, 등받이의자, 후드, 에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594467_0_su_5_소야지_2_004.png",
+      "mapx": 37.5779132959398,
+      "mapy": 127.059486159362,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소야지(전농동)",
+        "주문서 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594467_0_su_5_소야지_2_005.png",
+      "mapx": 37.5779132959398,
+      "mapy": 127.059486159362,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소야지(전농동)",
+        "고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 사가정로 131",
+          "answer_wordNum": 4,
+          "fact": [
+            "소야지,주소,서울 동대문구 사가정로 131"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "깔삼 삼겹살, 명품 안창살",
+          "answer_wordNum": 4,
+          "fact": [
+            "소야지,메뉴,깔삼 삼겹살, 명품 안창살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:30-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,영업시간,12:30-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청수식당, 이디야커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "소야지,인접,청수식당, 이디야커피"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:30-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,영업시간,12:30-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "깔삼 삼겹살, 명품 안창살",
+          "answer_wordNum": 4,
+          "fact": [
+            "소야지,메뉴,깔삼 삼겹살, 명품 안창살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 사가정로 131",
+          "answer_wordNum": 4,
+          "fact": [
+            "소야지,주소,서울 동대문구 사가정로 131"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청수식당, 이디야커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "소야지,인접,청수식당, 이디야커피"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1306-8992",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,연락처,0507-1306-8992"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:30-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,영업시간,12:30-24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "청수식당, 이디야커피",
+          "answer_wordNum": 2,
+          "fact": [
+            "소야지,인접,청수식당, 이디야커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 사가정로 131",
+          "answer_wordNum": 4,
+          "fact": [
+            "소야지,주소,서울 동대문구 사가정로 131"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1306-8992",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,연락처,0507-1306-8992"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "깔삼 삼겹살, 명품 안창살",
+          "answer_wordNum": 4,
+          "fact": [
+            "소야지,메뉴,깔삼 삼겹살, 명품 안창살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:30-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,영업시간,12:30-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소야지,주차시설,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

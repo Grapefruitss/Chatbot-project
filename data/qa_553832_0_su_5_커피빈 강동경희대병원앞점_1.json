@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "553832",
+    "travelType": "음식점",
+    "place": "커피빈 강동경희대병원앞점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "553832_0_su_5_커피빈 강동경희대병원앞점_1_001.png",
+      "mapx": 37.5526535932606,
+      "mapy": 127.155975988269,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 강동경희대병원앞점(명일동)",
+        "여닫이문, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "553832_0_su_5_커피빈 강동경희대병원앞점_1_002.png",
+      "mapx": 37.5526535932606,
+      "mapy": 127.155975988269,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 강동경희대병원앞점(명일동)",
+        "여닫이문, 유리창, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "553832_0_su_5_커피빈 강동경희대병원앞점_1_003.png",
+      "mapx": 37.5526535932606,
+      "mapy": 127.155975988269,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 강동경희대병원앞점(명일동)",
+        "등받이의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "553832_0_su_5_커피빈 강동경희대병원앞점_1_004.png",
+      "mapx": 37.5526535932606,
+      "mapy": 127.155975988269,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 강동경희대병원앞점(명일동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "553832_0_su_5_커피빈 강동경희대병원앞점_1_005.png",
+      "mapx": 37.5526535932606,
+      "mapy": 127.155975988269,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 강동경희대병원앞점(명일동)",
+        "식빵, 조각케이크, 커피 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "커피빈 강동경희대병원앞점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-481-9938",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,연락처,02-481-9938"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 애플망고 요거트 아이스 블렌디드",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 강동경희대병원앞점,메뉴,아메리카노, 애플망고 요거트 아이스 블렌디드"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "커피빈 강동경희대병원앞점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아메리카노, 애플망고 요거트 아이스 블렌디드",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 강동경희대병원앞점,메뉴,아메리카노, 애플망고 요거트 아이스 블렌디드"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-481-9938",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,연락처,02-481-9938"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-481-9938",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,연락처,02-481-9938"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강동구 동남로 885 양지빌딩 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "커피빈 강동경희대병원앞점,주소,서울 강동구 동남로 885 양지빌딩 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "커피빈 강동경희대병원앞점,영업시간,07:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "아메리카노, 애플망고 요거트 아이스 블렌디드",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 강동경희대병원앞점,메뉴,아메리카노, 애플망고 요거트 아이스 블렌디드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "커피빈 강동경희대병원앞점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강동구 동남로 885 양지빌딩 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "커피빈 강동경희대병원앞점,주소,서울 강동구 동남로 885 양지빌딩 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "커피빈 강동경희대병원앞점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 강동경희대병원앞점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강동구 동남로 885 양지빌딩 1층",
+          "answer_wordNum": 6,
+          "fact": [
+            "커피빈 강동경희대병원앞점,주소,서울 강동구 동남로 885 양지빌딩 1층"
+          ]
+        }
+      ]
+    }
+  ]
+}

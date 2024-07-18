@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562463",
+    "travelType": "음식점",
+    "place": "계탄언니",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562463_0_su_5_계탄언니_3_001.png",
+      "mapx": 37.4755280988508,
+      "mapy": 126.981275188365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄언니(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562463_0_su_5_계탄언니_3_002.png",
+      "mapx": 37.4755280988508,
+      "mapy": 126.981275188365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄언니(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562463_0_su_5_계탄언니_3_003.png",
+      "mapx": 37.4755280988508,
+      "mapy": 126.981275188365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄언니(관악구)",
+        "등받이의자 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562463_0_su_5_계탄언니_3_004.png",
+      "mapx": 37.4755280988508,
+      "mapy": 126.981275188365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄언니(관악구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562463_0_su_5_계탄언니_3_005.png",
+      "mapx": 37.4755280988508,
+      "mapy": 126.981275188365,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄언니(관악구)",
+        "치즈닭"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,영업시간,11:30~22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 4번 출구, 남성중학교, 친수공원",
+          "answer_wordNum": 5,
+          "fact": [
+            "계탄언니,인접,사당역 4번 출구, 남성중학교, 친수공원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-588-9929",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,연락처,02-588-9929"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-588-9929",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,연락처,02-588-9929"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,영업시간,11:30~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 관악구 과천대로 951",
+          "answer_wordNum": 4,
+          "fact": [
+            "계탄언니,주소,서울 관악구 과천대로 951"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "치즈닭, 비빔 막국수",
+          "answer_wordNum": 3,
+          "fact": [
+            "계탄언니,메뉴,치즈닭, 비빔 막국수"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 4번 출구, 남성중학교, 친수공원",
+          "answer_wordNum": 5,
+          "fact": [
+            "계탄언니,인접,사당역 4번 출구, 남성중학교, 친수공원"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-588-9929",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,연락처,02-588-9929"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사당역 4번 출구, 남성중학교, 친수공원",
+          "answer_wordNum": 5,
+          "fact": [
+            "계탄언니,인접,사당역 4번 출구, 남성중학교, 친수공원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 과천대로 951",
+          "answer_wordNum": 4,
+          "fact": [
+            "계탄언니,주소,서울 관악구 과천대로 951"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "치즈닭, 비빔 막국수",
+          "answer_wordNum": 3,
+          "fact": [
+            "계탄언니,메뉴,치즈닭, 비빔 막국수"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-588-9929",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄언니,연락처,02-588-9929"
+          ]
+        }
+      ]
+    }
+  ]
+}

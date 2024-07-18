@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563051",
+    "travelType": "음식점",
+    "place": "콩마당 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563051_0_su_5_콩마당 _8_001.png",
+      "mapx": 37.5463246728326,
+      "mapy": 127.103024075463,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "콩마당(광진구) ",
+        "간판, 여닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563051_0_su_5_콩마당 _8_002.png",
+      "mapx": 37.5463246728326,
+      "mapy": 127.103024075463,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "콩마당(광진구) ",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563051_0_su_5_콩마당 _8_003.png",
+      "mapx": 37.5463246728326,
+      "mapy": 127.103024075463,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "콩마당(광진구) ",
+        "사각 테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563051_0_su_5_콩마당 _8_004.png",
+      "mapx": 37.5463246728326,
+      "mapy": 127.103024075463,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "콩마당(광진구) ",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563051_0_su_5_콩마당 _8_005.png",
+      "mapx": 37.5463246728326,
+      "mapy": 127.103024075463,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "콩마당(광진구) ",
+        "전골"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,영업시간,11:00-21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2201-3965",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,연락처,02-2201-3965"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 아차산로73길 33 대근빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "콩마당,주소,서울 광진구 아차산로73길 33 대근빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,영업시간,11:00-21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2201-3965",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,연락처,02-2201-3965"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,영업시간,11:00-21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "보쌈, 두부버섯전골",
+          "answer_wordNum": 2,
+          "fact": [
+            "콩마당,메뉴,보쌈, 두부버섯전골"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 아차산로73길 33 대근빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "콩마당,주소,서울 광진구 아차산로73길 33 대근빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2201-3965",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,연락처,02-2201-3965"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "보쌈, 두부버섯전골",
+          "answer_wordNum": 2,
+          "fact": [
+            "콩마당,메뉴,보쌈, 두부버섯전골"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "광나루역 1번 출구, 동서울건재상백화점, 대근주택, 청사초롱",
+          "answer_wordNum": 6,
+          "fact": [
+            "콩마당,인접,광나루역 1번 출구, 동서울건재상백화점, 대근주택, 청사초롱"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 아차산로73길 33 대근빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "콩마당,주소,서울 광진구 아차산로73길 33 대근빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "콩마당,영업시간,11:00-21:30"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561137",
+    "travelType": "음식점",
+    "place": "공차 명동점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561137_0_su_5_공차 명동점_1_001.png",
+      "mapx": 37.5643425061408,
+      "mapy": 126.984465902134,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동점(중구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561137_0_su_5_공차 명동점_1_002.png",
+      "mapx": 37.5643425061408,
+      "mapy": 126.984465902134,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동점(중구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561137_0_su_5_공차 명동점_1_003.png",
+      "mapx": 37.5643425061408,
+      "mapy": 126.984465902134,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동점(중구)",
+        "사각 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561137_0_su_5_공차 명동점_1_004.png",
+      "mapx": 37.5643425061408,
+      "mapy": 126.984465902134,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동점(중구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561137_0_su_5_공차 명동점_1_005.png",
+      "mapx": 37.5643425061408,
+      "mapy": 126.984465902134,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동점(중구)",
+        "음료수 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "을지로입구역 6번 출구, 명동돈가스, 하동관",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,인접,을지로입구역 6번 출구, 명동돈가스, 하동관"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-318-0760",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,연락처,02-318-0760"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 21:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 명동점,영업시간,10:00 - 21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "을지로입구역 6번 출구, 명동돈가스, 하동관",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,인접,을지로입구역 6번 출구, 명동돈가스, 하동관"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 중구 명동7길 12-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동점,주소,서울 중구 명동7길 12-1"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "블랙 밀크티, 하우스 스페셜 그린티",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,메뉴,블랙 밀크티, 하우스 스페셜 그린티"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 중구 명동7길 12-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동점,주소,서울 중구 명동7길 12-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-318-0760",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,연락처,02-318-0760"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 21:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 명동점,영업시간,10:00 - 21:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "을지로입구역 6번 출구, 명동돈가스, 하동관",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,인접,을지로입구역 6번 출구, 명동돈가스, 하동관"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "블랙 밀크티, 하우스 스페셜 그린티",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,메뉴,블랙 밀크티, 하우스 스페셜 그린티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-318-0760",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,연락처,02-318-0760"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "을지로입구역 6번 출구, 명동돈가스, 하동관",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,인접,을지로입구역 6번 출구, 명동돈가스, 하동관"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-318-0760",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동점,연락처,02-318-0760"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "을지로입구역 6번 출구, 명동돈가스, 하동관",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동점,인접,을지로입구역 6번 출구, 명동돈가스, 하동관"
+          ]
+        }
+      ]
+    }
+  ]
+}

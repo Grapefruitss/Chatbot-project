@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562628",
+    "travelType": "음식점",
+    "place": "도포식당",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562628_0_su_5_도포식당_1_001.png",
+      "mapx": 37.5640960219113,
+      "mapy": 127.083028019514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도포식당(중곡동)",
+        "간판, 현수막"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562628_0_su_5_도포식당_1_002.png",
+      "mapx": 37.5640960219113,
+      "mapy": 127.083028019514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도포식당(중곡동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562628_0_su_5_도포식당_1_003.png",
+      "mapx": 37.5640960219113,
+      "mapy": 127.083028019514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도포식당(중곡동)",
+        "등받이의자, 테이블, 숙성기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562628_0_su_5_도포식당_1_004.png",
+      "mapx": 37.5640960219113,
+      "mapy": 127.083028019514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도포식당(중곡동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562628_0_su_5_도포식당_1_005.png",
+      "mapx": 37.5640960219113,
+      "mapy": 127.083028019514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도포식당(중곡동)",
+        "삼겹살, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "목살, 삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "도포식당,메뉴,목살, 삼겹살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하나요?",
+          "question_wordNum": 3,
+          "answer": "홈메이드",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,전문,홈메이드"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중곡역 2번 출구, 쭈요일, 엄프로골프아카데미",
+          "answer_wordNum": 5,
+          "fact": [
+            "도포식당,인접,중곡역 2번 출구, 쭈요일, 엄프로골프아카데미"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "목살, 삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "도포식당,메뉴,목살, 삼겹살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1415-3369",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,연락처,0507-1415-3369"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00/13:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,영업시간,12:00/13:00-24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "목살, 삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "도포식당,메뉴,목살, 삼겹살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 389 1층 도포식당",
+          "answer_wordNum": 6,
+          "fact": [
+            "도포식당,주소,서울 광진구 능동로 389 1층 도포식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "목살, 삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "도포식당,메뉴,목살, 삼겹살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 능동로 389 1층 도포식당",
+          "answer_wordNum": 6,
+          "fact": [
+            "도포식당,주소,서울 광진구 능동로 389 1층 도포식당"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1415-3369",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,연락처,0507-1415-3369"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중곡역 2번 출구, 쭈요일, 엄프로골프아카데미",
+          "answer_wordNum": 5,
+          "fact": [
+            "도포식당,인접,중곡역 2번 출구, 쭈요일, 엄프로골프아카데미"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1415-3369",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,연락처,0507-1415-3369"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00/13:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "도포식당,영업시간,12:00/13:00-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "목살, 삼겹살",
+          "answer_wordNum": 2,
+          "fact": [
+            "도포식당,메뉴,목살, 삼겹살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 389 1층 도포식당",
+          "answer_wordNum": 6,
+          "fact": [
+            "도포식당,주소,서울 광진구 능동로 389 1층 도포식당"
+          ]
+        }
+      ]
+    }
+  ]
+}

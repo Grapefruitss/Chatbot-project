@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558626",
+    "travelType": "음식점",
+    "place": "컴포즈커피 개봉한진점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558626_0_su_5_컴포즈커피 개봉한진점_1_001.png",
+      "mapx": 37.4862599178277,
+      "mapy": 126.85551188514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 개봉한진점(개봉동)",
+        "여닫이문, 입간판, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558626_0_su_5_컴포즈커피 개봉한진점_1_002.png",
+      "mapx": 37.4862599178277,
+      "mapy": 126.85551188514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 개봉한진점(개봉동)",
+        "간판, 바이크, 전봇대, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558626_0_su_5_컴포즈커피 개봉한진점_1_003.png",
+      "mapx": 37.4862599178277,
+      "mapy": 126.85551188514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 개봉한진점(개봉동)",
+        "여닫이문, 화분, 조명, 액자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558626_0_su_5_컴포즈커피 개봉한진점_1_004.png",
+      "mapx": 37.4862599178277,
+      "mapy": 126.85551188514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 개봉한진점(개봉동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558626_0_su_5_컴포즈커피 개봉한진점_1_005.png",
+      "mapx": 37.4862599178277,
+      "mapy": 126.85551188514,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 개봉한진점(개봉동)",
+        "와플, 음료, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00/09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "컴포즈커피 개봉한진점,영업시간,08:00/09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2611-2371",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,연락처,02-2611-2371"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 개봉로3길 13",
+          "answer_wordNum": 4,
+          "fact": [
+            "컴포즈커피 개봉한진점,주소,서울 구로구 개봉로3길 13"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광명사거리역 7번 출구, 구로푸른요양원, IF헤어",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 개봉한진점,인접,광명사거리역 7번 출구, 구로푸른요양원, IF헤어"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "컴포즈커피 개봉한진점,영업시간,08:00/09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 개봉로3길 13",
+          "answer_wordNum": 4,
+          "fact": [
+            "컴포즈커피 개봉한진점,주소,서울 구로구 개봉로3길 13"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00/09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "컴포즈커피 개봉한진점,영업시간,08:00/09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "커피밀크쉐이크, 딸기스무디",
+          "answer_wordNum": 2,
+          "fact": [
+            "컴포즈커피 개봉한진점,메뉴,커피밀크쉐이크, 딸기스무디"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "광명사거리역 7번 출구, 구로푸른요양원, IF헤어",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 개봉한진점,인접,광명사거리역 7번 출구, 구로푸른요양원, IF헤어"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "커피밀크쉐이크, 딸기스무디",
+          "answer_wordNum": 2,
+          "fact": [
+            "컴포즈커피 개봉한진점,메뉴,커피밀크쉐이크, 딸기스무디"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2611-2371",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,연락처,02-2611-2371"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 개봉로3길 13",
+          "answer_wordNum": 4,
+          "fact": [
+            "컴포즈커피 개봉한진점,주소,서울 구로구 개봉로3길 13"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "커피밀크쉐이크, 딸기스무디",
+          "answer_wordNum": 2,
+          "fact": [
+            "컴포즈커피 개봉한진점,메뉴,커피밀크쉐이크, 딸기스무디"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광명사거리역 7번 출구, 구로푸른요양원, IF헤어",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 개봉한진점,인접,광명사거리역 7번 출구, 구로푸른요양원, IF헤어"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 개봉한진점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

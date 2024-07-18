@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564590",
+    "travelType": "음식점",
+    "place": "속초오징어어시장 석수역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564590_0_su_5_속초오징어어시장 석수역점_1_001.png",
+      "mapx": 37.4343069861503,
+      "mapy": 126.903532500049,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "속초오징어어시장 석수역점(시흥동)",
+        "자동문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564590_0_su_5_속초오징어어시장 석수역점_1_002.png",
+      "mapx": 37.4343069861503,
+      "mapy": 126.903532500049,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "속초오징어어시장 석수역점(시흥동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564590_0_su_5_속초오징어어시장 석수역점_1_003.png",
+      "mapx": 37.4343069861503,
+      "mapy": 126.903532500049,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "속초오징어어시장 석수역점(시흥동)",
+        "테이블, 등받이 의자, 종이컵"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564590_0_su_5_속초오징어어시장 석수역점_1_004.png",
+      "mapx": 37.4343069861503,
+      "mapy": 126.903532500049,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "속초오징어어시장 석수역점(시흥동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564590_0_su_5_속초오징어어시장 석수역점_1_005.png",
+      "mapx": 37.4343069861503,
+      "mapy": 126.903532500049,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "속초오징어어시장 석수역점(시흥동)",
+        "회, 매운탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6494-0070",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,연락처,02-6494-0070"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "속초오징어어시장 석수역점,영업시간,11:00 - 22:50"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "산오징어, 대방어",
+          "answer_wordNum": 2,
+          "fact": [
+            "속초오징어어시장 석수역점,메뉴,산오징어, 대방어"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "속초오징어어시장 석수역점,주소,서울 금천구 시흥대로 6"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "속초오징어어시장 석수역점,영업시간,11:00 - 22:50"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6494-0070",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,연락처,02-6494-0070"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "산오징어, 대방어",
+          "answer_wordNum": 2,
+          "fact": [
+            "속초오징어어시장 석수역점,메뉴,산오징어, 대방어"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "석수역 1번 출구, 원정이엔씨, 다인치과의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "속초오징어어시장 석수역점,인접,석수역 1번 출구, 원정이엔씨, 다인치과의원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6494-0070",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,연락처,02-6494-0070"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "속초오징어어시장 석수역점,영업시간,11:00 - 22:50"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "산오징어, 대방어",
+          "answer_wordNum": 2,
+          "fact": [
+            "속초오징어어시장 석수역점,메뉴,산오징어, 대방어"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "속초오징어어시장 석수역점,영업시간,11:00 - 22:50"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "속초오징어어시장 석수역점,주소,서울 금천구 시흥대로 6"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:50",
+          "answer_wordNum": 3,
+          "fact": [
+            "속초오징어어시장 석수역점,영업시간,11:00 - 22:50"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "속초오징어어시장 석수역점,주소,서울 금천구 시흥대로 6"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "석수역 1번 출구, 원정이엔씨, 다인치과의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "속초오징어어시장 석수역점,인접,석수역 1번 출구, 원정이엔씨, 다인치과의원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "속초오징어어시장 석수역점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560855",
+    "travelType": "음식점",
+    "place": "배스킨라빈스 양재사옥점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560855_0_su_5_배스킨라빈스 양재사옥점_1_001.png",
+      "mapx": 37.4845144059367,
+      "mapy": 127.037328038827,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "배스킨라빈스 양재사옥점(양재동)",
+        "간판, 배너"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560855_0_su_5_배스킨라빈스 양재사옥점_1_002.png",
+      "mapx": 37.4845144059367,
+      "mapy": 127.037328038827,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "배스킨라빈스 양재사옥점(양재동)",
+        "간판, 아이스크림 냉장고, 배너"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560855_0_su_5_배스킨라빈스 양재사옥점_1_003.png",
+      "mapx": 37.4845144059367,
+      "mapy": 127.037328038827,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "배스킨라빈스 양재사옥점(양재동)",
+        "배너, 테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560855_0_su_5_배스킨라빈스 양재사옥점_1_004.png",
+      "mapx": 37.4845144059367,
+      "mapy": 127.037328038827,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "배스킨라빈스 양재사옥점(양재동)",
+        "메뉴판, 케익"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560855_0_su_5_배스킨라빈스 양재사옥점_1_005.png",
+      "mapx": 37.4845144059367,
+      "mapy": 127.037328038827,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "배스킨라빈스 양재사옥점(양재동)",
+        "케익"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "배스킨라빈스 양재사옥점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "아이스모찌, 아몬드봉봉",
+          "answer_wordNum": 2,
+          "fact": [
+            "배스킨라빈스 양재사옥점,메뉴,아이스모찌, 아몬드봉봉"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "배스킨라빈스 양재사옥점,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-529-4108",
+          "answer_wordNum": 1,
+          "fact": [
+            "배스킨라빈스 양재사옥점,연락처,02-529-4108"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "양재역 5번 출구, 파리바게뜨, 일품헌",
+          "answer_wordNum": 5,
+          "fact": [
+            "배스킨라빈스 양재사옥점,인접,양재역 5번 출구, 파리바게뜨, 일품헌"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-529-4108",
+          "answer_wordNum": 1,
+          "fact": [
+            "배스킨라빈스 양재사옥점,연락처,02-529-4108"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "배스킨라빈스 양재사옥점,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 서초구 남부순환로 2620",
+          "answer_wordNum": 4,
+          "fact": [
+            "배스킨라빈스 양재사옥점,주소,서울 서초구 남부순환로 2620"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "배스킨라빈스 양재사옥점,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "배스킨라빈스 양재사옥점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "아이스모찌, 아몬드봉봉",
+          "answer_wordNum": 2,
+          "fact": [
+            "배스킨라빈스 양재사옥점,메뉴,아이스모찌, 아몬드봉봉"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "양재역 5번 출구, 파리바게뜨, 일품헌",
+          "answer_wordNum": 5,
+          "fact": [
+            "배스킨라빈스 양재사옥점,인접,양재역 5번 출구, 파리바게뜨, 일품헌"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "배스킨라빈스 양재사옥점,영업시간,08:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "배스킨라빈스 양재사옥점,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "양재역 5번 출구, 파리바게뜨, 일품헌",
+          "answer_wordNum": 5,
+          "fact": [
+            "배스킨라빈스 양재사옥점,인접,양재역 5번 출구, 파리바게뜨, 일품헌"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 4,
+          "answer": "아이스모찌, 아몬드봉봉",
+          "answer_wordNum": 2,
+          "fact": [
+            "배스킨라빈스 양재사옥점,메뉴,아이스모찌, 아몬드봉봉"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아이스모찌, 아몬드봉봉",
+          "answer_wordNum": 2,
+          "fact": [
+            "배스킨라빈스 양재사옥점,메뉴,아이스모찌, 아몬드봉봉"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "양재역 5번 출구, 파리바게뜨, 일품헌",
+          "answer_wordNum": 5,
+          "fact": [
+            "배스킨라빈스 양재사옥점,인접,양재역 5번 출구, 파리바게뜨, 일품헌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "배스킨라빈스 양재사옥점,영업시간,08:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-529-4108",
+          "answer_wordNum": 1,
+          "fact": [
+            "배스킨라빈스 양재사옥점,연락처,02-529-4108"
+          ]
+        }
+      ]
+    }
+  ]
+}

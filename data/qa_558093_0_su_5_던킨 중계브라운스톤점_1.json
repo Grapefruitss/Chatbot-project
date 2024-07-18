@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558093",
+    "travelType": "음식점",
+    "place": "던킨 중계브라운스톤점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558093_0_su_5_던킨 중계브라운스톤점_1_001.png",
+      "mapx": 37.6398759609875,
+      "mapy": 127.06428375943,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 중계브라운스톤점(중계동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558093_0_su_5_던킨 중계브라운스톤점_1_002.png",
+      "mapx": 37.6398759609875,
+      "mapy": 127.06428375943,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 중계브라운스톤점(중계동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558093_0_su_5_던킨 중계브라운스톤점_1_003.png",
+      "mapx": 37.6398759609875,
+      "mapy": 127.06428375943,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 중계브라운스톤점(중계동)",
+        "테이블, 등받이 의자, 진열대"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558093_0_su_5_던킨 중계브라운스톤점_1_004.png",
+      "mapx": 37.6398759609875,
+      "mapy": 127.06428375943,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 중계브라운스톤점(중계동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558093_0_su_5_던킨 중계브라운스톤점_1_005.png",
+      "mapx": 37.6398759609875,
+      "mapy": 127.06428375943,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 중계브라운스톤점(중계동)",
+        "도넛"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "콜드브루 아메리카노, 그린티라떼",
+          "answer_wordNum": 3,
+          "fact": [
+            "던킨 중계브라운스톤점,메뉴,콜드브루 아메리카노, 그린티라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-949-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,연락처,02-949-1511"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "하계역 6번 출구, 명천, 맛닭꼬, 사랑의교회, 죠스떡볶이",
+          "answer_wordNum": 7,
+          "fact": [
+            "던킨 중계브라운스톤점,인접,하계역 6번 출구, 명천, 맛닭꼬, 사랑의교회, 죠스떡볶이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 동일로203가길 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "던킨 중계브라운스톤점,주소,서울 노원구 동일로203가길 29"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-949-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,연락처,02-949-1511"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 동일로203가길 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "던킨 중계브라운스톤점,주소,서울 노원구 동일로203가길 29"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "콜드브루 아메리카노, 그린티라떼",
+          "answer_wordNum": 3,
+          "fact": [
+            "던킨 중계브라운스톤점,메뉴,콜드브루 아메리카노, 그린티라떼"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "하계역 6번 출구, 명천, 맛닭꼬, 사랑의교회, 죠스떡볶이",
+          "answer_wordNum": 7,
+          "fact": [
+            "던킨 중계브라운스톤점,인접,하계역 6번 출구, 명천, 맛닭꼬, 사랑의교회, 죠스떡볶이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "콜드브루 아메리카노, 그린티라떼",
+          "answer_wordNum": 3,
+          "fact": [
+            "던킨 중계브라운스톤점,메뉴,콜드브루 아메리카노, 그린티라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-949-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,연락처,02-949-1511"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 동일로203가길 29",
+          "answer_wordNum": 4,
+          "fact": [
+            "던킨 중계브라운스톤점,주소,서울 노원구 동일로203가길 29"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 중계브라운스톤점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

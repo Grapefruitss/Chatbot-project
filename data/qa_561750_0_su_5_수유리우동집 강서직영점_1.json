@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561750",
+    "travelType": "음식점",
+    "place": "수유리우동집 강서직영점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561750_0_su_5_수유리우동집 강서직영점_1_001.png",
+      "mapx": 37.5481028817244,
+      "mapy": 126.835817470595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "수유리우동집 강서직영점(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561750_0_su_5_수유리우동집 강서직영점_1_002.png",
+      "mapx": 37.5481028817244,
+      "mapy": 126.835817470595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "수유리우동집 강서직영점(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561750_0_su_5_수유리우동집 강서직영점_1_003.png",
+      "mapx": 37.5481028817244,
+      "mapy": 126.835817470595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "수유리우동집 강서직영점(강서구)",
+        "사각 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561750_0_su_5_수유리우동집 강서직영점_1_004.png",
+      "mapx": 37.5481028817244,
+      "mapy": 126.835817470595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "수유리우동집 강서직영점(강서구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561750_0_su_5_수유리우동집 강서직영점_1_005.png",
+      "mapx": 37.5481028817244,
+      "mapy": 126.835817470595,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "수유리우동집 강서직영점(강서구)",
+        "우동"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "수유리우동집 강서직영점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "우장산역 3번 출구, 메가커피, 미소야",
+          "answer_wordNum": 5,
+          "fact": [
+            "수유리우동집 강서직영점,인접,우장산역 3번 출구, 메가커피, 미소야"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "수유김밥, 우동",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,메뉴,수유김밥, 우동"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "수유리우동집 강서직영점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 강서로45길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "수유리우동집 강서직영점,주소,서울 강서구 강서로45길 6"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "수유김밥, 우동",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,메뉴,수유김밥, 우동"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "수유리우동집 강서직영점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "우장산역 3번 출구, 메가커피, 미소야",
+          "answer_wordNum": 5,
+          "fact": [
+            "수유리우동집 강서직영점,인접,우장산역 3번 출구, 메가커피, 미소야"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "수유김밥, 우동",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,메뉴,수유김밥, 우동"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 강서로45길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "수유리우동집 강서직영점,주소,서울 강서구 강서로45길 6"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "수유김밥, 우동",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,메뉴,수유김밥, 우동"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2699-9670",
+          "answer_wordNum": 1,
+          "fact": [
+            "수유리우동집 강서직영점,연락처,02-2699-9670"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "수유리우동집 강서직영점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 강서로45길 6",
+          "answer_wordNum": 4,
+          "fact": [
+            "수유리우동집 강서직영점,주소,서울 강서구 강서로45길 6"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "우장산역 3번 출구, 메가커피, 미소야",
+          "answer_wordNum": 5,
+          "fact": [
+            "수유리우동집 강서직영점,인접,우장산역 3번 출구, 메가커피, 미소야"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2699-9670",
+          "answer_wordNum": 1,
+          "fact": [
+            "수유리우동집 강서직영점,연락처,02-2699-9670"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "수유김밥, 우동",
+          "answer_wordNum": 2,
+          "fact": [
+            "수유리우동집 강서직영점,메뉴,수유김밥, 우동"
+          ]
+        }
+      ]
+    }
+  ]
+}

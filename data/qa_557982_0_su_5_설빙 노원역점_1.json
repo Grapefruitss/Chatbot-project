@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "557982",
+    "travelType": "음식점",
+    "place": "설빙 노원역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "557982_0_su_5_설빙 노원역점_1_001.png",
+      "mapx": 37.6563543249568,
+      "mapy": 127.062249590194,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "설빙 노원역점(노원구)",
+        "여닫이 문, 계단"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "557982_0_su_5_설빙 노원역점_1_002.png",
+      "mapx": 37.6563543249568,
+      "mapy": 127.062249590194,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "설빙 노원역점(노원구)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "557982_0_su_5_설빙 노원역점_1_003.png",
+      "mapx": 37.6563543249568,
+      "mapy": 127.062249590194,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "설빙 노원역점(노원구)",
+        "등받이 의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "557982_0_su_5_설빙 노원역점_1_004.png",
+      "mapx": 37.6563543249568,
+      "mapy": 127.062249590194,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "설빙 노원역점(노원구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "557982_0_su_5_설빙 노원역점_1_005.png",
+      "mapx": 37.6563543249568,
+      "mapy": 127.062249590194,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "설빙 노원역점(노원구)",
+        "멜론 빙수, 인절미 토스트, 커피, 쟁반"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "인절미 설빙, 팥인절미설빙",
+          "answer_wordNum": 3,
+          "fact": [
+            "설빙 노원역점,메뉴,인절미 설빙, 팥인절미설빙"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 상계로 65 현성빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "설빙 노원역점,주소,서울 노원구 상계로 65 현성빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1348-8970",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,연락처,0507-1348-8970"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점",
+          "answer_wordNum": 7,
+          "fact": [
+            "설빙 노원역점,인접,노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "인절미 설빙, 팥인절미설빙",
+          "answer_wordNum": 3,
+          "fact": [
+            "설빙 노원역점,메뉴,인절미 설빙, 팥인절미설빙"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1348-8970",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,연락처,0507-1348-8970"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,영업시간,11:30-23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "인절미 설빙, 팥인절미설빙",
+          "answer_wordNum": 3,
+          "fact": [
+            "설빙 노원역점,메뉴,인절미 설빙, 팥인절미설빙"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점",
+          "answer_wordNum": 7,
+          "fact": [
+            "설빙 노원역점,인접,노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 노원구 상계로 65 현성빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "설빙 노원역점,주소,서울 노원구 상계로 65 현성빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1348-8970",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,연락처,0507-1348-8970"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점",
+          "answer_wordNum": 7,
+          "fact": [
+            "설빙 노원역점,인접,노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점",
+          "answer_wordNum": 7,
+          "fact": [
+            "설빙 노원역점,인접,노원역 2번 출구, 올리브영, 배스킨라빈스, 투썸플레이스, 거시기4호점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "인절미 설빙, 팥인절미설빙",
+          "answer_wordNum": 3,
+          "fact": [
+            "설빙 노원역점,메뉴,인절미 설빙, 팥인절미설빙"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 상계로 65 현성빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "설빙 노원역점,주소,서울 노원구 상계로 65 현성빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "설빙 노원역점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

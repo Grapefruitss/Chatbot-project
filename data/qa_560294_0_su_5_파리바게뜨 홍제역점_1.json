@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560294",
+    "travelType": "음식점",
+    "place": "파리바게뜨 홍제역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560294_0_su_5_파리바게뜨 홍제역점_1_001.png",
+      "mapx": 37.589377604787,
+      "mapy": 126.943032798825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 홍제역점(홍제동)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560294_0_su_5_파리바게뜨 홍제역점_1_002.png",
+      "mapx": 37.589377604787,
+      "mapy": 126.943032798825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 홍제역점(홍제동)",
+        "간판, 건물\n"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560294_0_su_5_파리바게뜨 홍제역점_1_003.png",
+      "mapx": 37.589377604787,
+      "mapy": 126.943032798825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 홍제역점(홍제동)",
+        "진열장, 케이크"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560294_0_su_5_파리바게뜨 홍제역점_1_004.png",
+      "mapx": 37.589377604787,
+      "mapy": 126.943032798825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 홍제역점(홍제동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560294_0_su_5_파리바게뜨 홍제역점_1_005.png",
+      "mapx": 37.589377604787,
+      "mapy": 126.943032798825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 홍제역점(홍제동)",
+        "빵, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "홍제역 4번 출구, CU, 홍제파스타",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 홍제역점,인접,홍제역 4번 출구, CU, 홍제파스타"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서대문구 통일로 461",
+          "answer_wordNum": 4,
+          "fact": [
+            "파리바게뜨 홍제역점,주소,서울 서대문구 통일로 461"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 단팥빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 홍제역점,메뉴,아메리카노, 단팥빵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "홍제역 4번 출구, CU, 홍제파스타",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 홍제역점,인접,홍제역 4번 출구, CU, 홍제파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3217-8200",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,연락처,02-3217-8200"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 단팥빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 홍제역점,메뉴,아메리카노, 단팥빵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,영업시간,07:00~23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3217-8200",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,연락처,02-3217-8200"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,영업시간,07:00~23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서대문구 통일로 461",
+          "answer_wordNum": 4,
+          "fact": [
+            "파리바게뜨 홍제역점,주소,서울 서대문구 통일로 461"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "홍제역 4번 출구, CU, 홍제파스타",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 홍제역점,인접,홍제역 4번 출구, CU, 홍제파스타"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 서대문구 통일로 461",
+          "answer_wordNum": 4,
+          "fact": [
+            "파리바게뜨 홍제역점,주소,서울 서대문구 통일로 461"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 단팥빵",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 홍제역점,메뉴,아메리카노, 단팥빵"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "홍제역 4번 출구, CU, 홍제파스타",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 홍제역점,인접,홍제역 4번 출구, CU, 홍제파스타"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3217-8200",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 홍제역점,연락처,02-3217-8200"
+          ]
+        }
+      ]
+    }
+  ]
+}

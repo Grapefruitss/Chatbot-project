@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "556307",
+    "travelType": "음식점",
+    "place": "셀렉토커피 방학역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "556307_0_su_5_셀렉토커피 방학역점_1_001.png",
+      "mapx": 37.6690940252172,
+      "mapy": 127.04475251281,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 방학역점(방학동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "556307_0_su_5_셀렉토커피 방학역점_1_002.png",
+      "mapx": 37.6690940252172,
+      "mapy": 127.04475251281,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 방학역점(방학동)",
+        "건물, 간판, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "556307_0_su_5_셀렉토커피 방학역점_1_003.png",
+      "mapx": 37.6690940252172,
+      "mapy": 127.04475251281,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 방학역점(방학동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "556307_0_su_5_셀렉토커피 방학역점_1_004.png",
+      "mapx": 37.6690940252172,
+      "mapy": 127.04475251281,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 방학역점(방학동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "556307_0_su_5_셀렉토커피 방학역점_1_005.png",
+      "mapx": 37.6690940252172,
+      "mapy": 127.04475251281,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "셀렉토커피 방학역점(방학동)",
+        "커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 도봉구 도봉로152길 16 북한산현대렉시온오피스텔 104호",
+          "answer_wordNum": 6,
+          "fact": [
+            "셀렉토커피 방학역점,주소,서울 도봉구 도봉로152길 16 북한산현대렉시온오피스텔 104호"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00/23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 방학역점,영업시간,10:30 - 22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "시그니처 흑당라떼, 과테말라 아야르자",
+          "answer_wordNum": 4,
+          "fact": [
+            "셀렉토커피 방학역점,메뉴,시그니처 흑당라떼, 과테말라 아야르자"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "방학역 2번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 방학역점,인접,방학역 2번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-4229-6734",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,연락처,010-4229-6734"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "시그니처 흑당라떼, 과테말라 아야르자",
+          "answer_wordNum": 4,
+          "fact": [
+            "셀렉토커피 방학역점,메뉴,시그니처 흑당라떼, 과테말라 아야르자"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "방학역 2번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 방학역점,인접,방학역 2번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 22:00/23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 방학역점,영업시간,10:30 - 22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 도봉구 도봉로152길 16 북한산현대렉시온오피스텔 104호",
+          "answer_wordNum": 6,
+          "fact": [
+            "셀렉토커피 방학역점,주소,서울 도봉구 도봉로152길 16 북한산현대렉시온오피스텔 104호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-4229-6734",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,연락처,010-4229-6734"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00/23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 방학역점,영업시간,10:30 - 22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00/23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "셀렉토커피 방학역점,영업시간,10:30 - 22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "시그니처 흑당라떼, 과테말라 아야르자",
+          "answer_wordNum": 4,
+          "fact": [
+            "셀렉토커피 방학역점,메뉴,시그니처 흑당라떼, 과테말라 아야르자"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "셀렉토커피 방학역점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

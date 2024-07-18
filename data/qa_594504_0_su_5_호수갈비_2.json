@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594504",
+    "travelType": "음식점",
+    "place": "호수갈비",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594504_0_su_5_호수갈비_2_001.png",
+      "mapx": 37.5848909856655,
+      "mapy": 127.052172626664,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호수갈비(전농동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594504_0_su_5_호수갈비_2_002.png",
+      "mapx": 37.5848909856655,
+      "mapy": 127.052172626664,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호수갈비(전농동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594504_0_su_5_호수갈비_2_003.png",
+      "mapx": 37.5848909856655,
+      "mapy": 127.052172626664,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호수갈비(전농동)",
+        "원형 스툴의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594504_0_su_5_호수갈비_2_004.png",
+      "mapx": 37.5848909856655,
+      "mapy": 127.052172626664,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호수갈비(전농동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594504_0_su_5_호수갈비_2_005.png",
+      "mapx": 37.5848909856655,
+      "mapy": 127.052172626664,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호수갈비(전농동)",
+        "삼겹살, 공기밥, 김치찌개, 단무지, 뚝배기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,영업시간,12:00-24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "호수갈비,인접,청량리역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1310-8995",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,연락처,0507-1310-8995"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 서울시립대로27길 53",
+          "answer_wordNum": 4,
+          "fact": [
+            "호수갈비,주소,서울 동대문구 서울시립대로27길 53"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1310-8995",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,연락처,0507-1310-8995"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "호수갈비,인접,청량리역 3번 출구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼겹살, 차돌박이",
+          "answer_wordNum": 2,
+          "fact": [
+            "호수갈비,메뉴,삼겹살, 차돌박이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,영업시간,12:00-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 서울시립대로27길 53",
+          "answer_wordNum": 4,
+          "fact": [
+            "호수갈비,주소,서울 동대문구 서울시립대로27길 53"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "호수갈비,인접,청량리역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹살, 차돌박이",
+          "answer_wordNum": 2,
+          "fact": [
+            "호수갈비,메뉴,삼겹살, 차돌박이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 서울시립대로27길 53",
+          "answer_wordNum": 4,
+          "fact": [
+            "호수갈비,주소,서울 동대문구 서울시립대로27길 53"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1310-8995",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,연락처,0507-1310-8995"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "호수갈비,인접,청량리역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "12:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "호수갈비,영업시간,12:00-24:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561455",
+    "travelType": "음식점",
+    "place": "금고깃집 마곡본점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561455_0_su_5_금고깃집 마곡본점_1_001.png",
+      "mapx": 37.5606177863587,
+      "mapy": 126.833159684952,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금고깃집 마곡본점(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561455_0_su_5_금고깃집 마곡본점_1_002.png",
+      "mapx": 37.5606177863587,
+      "mapy": 126.833159684952,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금고깃집 마곡본점(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561455_0_su_5_금고깃집 마곡본점_1_003.png",
+      "mapx": 37.5606177863587,
+      "mapy": 126.833159684952,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금고깃집 마곡본점(강서구)",
+        "화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561455_0_su_5_금고깃집 마곡본점_1_004.png",
+      "mapx": 37.5606177863587,
+      "mapy": 126.833159684952,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금고깃집 마곡본점(강서구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561455_0_su_5_금고깃집 마곡본점_1_005.png",
+      "mapx": 37.5606177863587,
+      "mapy": 126.833159684952,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "금고깃집 마곡본점(강서구)",
+        "찌개 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "금돼지 본삼겹살, 금돼지 눈꽃특목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "금고깃집 마곡본점,메뉴,금돼지 본삼겹살, 금돼지 눈꽃특목살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 9번 출구, 파스타세끼, GS25",
+          "answer_wordNum": 5,
+          "fact": [
+            "금고깃집 마곡본점,인접,발산역 9번 출구, 파스타세끼, GS25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 마곡동로 61",
+          "answer_wordNum": 4,
+          "fact": [
+            "금고깃집 마곡본점,주소,서울 강서구 마곡동로 61"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 9번 출구, 파스타세끼, GS25",
+          "answer_wordNum": 5,
+          "fact": [
+            "금고깃집 마곡본점,인접,발산역 9번 출구, 파스타세끼, GS25"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,영업시간,11:00~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1386-8295",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,연락처,0507-1386-8295"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "금돼지 본삼겹살, 금돼지 눈꽃특목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "금고깃집 마곡본점,메뉴,금돼지 본삼겹살, 금돼지 눈꽃특목살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,영업시간,11:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 마곡동로 61",
+          "answer_wordNum": 4,
+          "fact": [
+            "금고깃집 마곡본점,주소,서울 강서구 마곡동로 61"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "금돼지 본삼겹살, 금돼지 눈꽃특목살",
+          "answer_wordNum": 4,
+          "fact": [
+            "금고깃집 마곡본점,메뉴,금돼지 본삼겹살, 금돼지 눈꽃특목살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "발산역 9번 출구, 파스타세끼, GS25",
+          "answer_wordNum": 5,
+          "fact": [
+            "금고깃집 마곡본점,인접,발산역 9번 출구, 파스타세끼, GS25"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1386-8295",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,연락처,0507-1386-8295"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "금고깃집 마곡본점,영업시간,11:00~22:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

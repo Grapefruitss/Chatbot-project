@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559357",
+    "travelType": "음식점",
+    "place": "버거킹 상암점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559357_0_su_5_버거킹 상암점_1_001.png",
+      "mapx": 37.5765055871542,
+      "mapy": 126.893889591525,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 상암점(마포구)",
+        "건물, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559357_0_su_5_버거킹 상암점_1_002.png",
+      "mapx": 37.5765055871542,
+      "mapy": 126.893889591525,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 상암점(마포구)",
+        "건물, 간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559357_0_su_5_버거킹 상암점_1_003.png",
+      "mapx": 37.5765055871542,
+      "mapy": 126.893889591525,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 상암점(마포구)",
+        "테이블, 등받이 의자, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559357_0_su_5_버거킹 상암점_1_004.png",
+      "mapx": 37.5765055871542,
+      "mapy": 126.893889591525,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 상암점(마포구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559357_0_su_5_버거킹 상암점_1_005.png",
+      "mapx": 37.5765055871542,
+      "mapy": 126.893889591525,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 상암점(마포구)",
+        "햄버거"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 월드컵북로 344",
+          "answer_wordNum": 4,
+          "fact": [
+            "버거킹 상암점,주소,서울 마포구 월드컵북로 344"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,영업시간,09:00-23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "몬스터와퍼, 콰트로치즈와퍼",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거킹 상암점,메뉴,몬스터와퍼, 콰트로치즈와퍼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "몬스터와퍼, 콰트로치즈와퍼",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거킹 상암점,메뉴,몬스터와퍼, 콰트로치즈와퍼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "디지털미디어시티역 9번 출구, 봉참치, 오소오소",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 상암점,인접,디지털미디어시티역 9번 출구, 봉참치, 오소오소"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 마포구 월드컵북로 344",
+          "answer_wordNum": 4,
+          "fact": [
+            "버거킹 상암점,주소,서울 마포구 월드컵북로 344"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-7462-6718",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,연락처,070-7462-6718"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "디지털미디어시티역 9번 출구, 봉참치, 오소오소",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 상암점,인접,디지털미디어시티역 9번 출구, 봉참치, 오소오소"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,영업시간,09:00-23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-7462-6718",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,연락처,070-7462-6718"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "디지털미디어시티역 9번 출구, 봉참치, 오소오소",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 상암점,인접,디지털미디어시티역 9번 출구, 봉참치, 오소오소"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,영업시간,09:00-23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 월드컵북로 344",
+          "answer_wordNum": 4,
+          "fact": [
+            "버거킹 상암점,주소,서울 마포구 월드컵북로 344"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "몬스터와퍼, 콰트로치즈와퍼",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거킹 상암점,메뉴,몬스터와퍼, 콰트로치즈와퍼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 상암점,영업시간,09:00-23:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

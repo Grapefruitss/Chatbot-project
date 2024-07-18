@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564126",
+    "travelType": "음식점",
+    "place": "솥뚜껑삼겹살",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564126_0_su_5_솥뚜껑삼겹살_18_001.png",
+      "mapx": 37.4953581177106,
+      "mapy": 126.846035797544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "솥뚜껑삼겹살(구로구)",
+        "간판, 여닫이 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564126_0_su_5_솥뚜껑삼겹살_18_002.png",
+      "mapx": 37.4953581177106,
+      "mapy": 126.846035797544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "솥뚜껑삼겹살(구로구)",
+        "풍선간판, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564126_0_su_5_솥뚜껑삼겹살_18_003.png",
+      "mapx": 37.4953581177106,
+      "mapy": 126.846035797544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "솥뚜껑삼겹살(구로구)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564126_0_su_5_솥뚜껑삼겹살_18_004.png",
+      "mapx": 37.4953581177106,
+      "mapy": 126.846035797544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "솥뚜껑삼겹살(구로구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564126_0_su_5_솥뚜껑삼겹살_18_005.png",
+      "mapx": 37.4953581177106,
+      "mapy": 126.846035797544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "솥뚜껑삼겹살(구로구)",
+        "삼겹살, 김치, 콩나물"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "13:00/15:00~22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,영업시간,13:00/15:00~22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "오류동역 4번 출구, CU, KS원룸이",
+          "answer_wordNum": 5,
+          "fact": [
+            "솥뚜껑삼겹살,인접,오류동역 4번 출구, CU, KS원룸이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1449-7947",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,연락처,0507-1449-7947"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "13:00/15:00~22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,영업시간,13:00/15:00~22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1449-7947",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,연락처,0507-1449-7947"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "오류동역 4번 출구, CU, KS원룸이",
+          "answer_wordNum": 5,
+          "fact": [
+            "솥뚜껑삼겹살,인접,오류동역 4번 출구, CU, KS원룸이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 경인로20가길 38 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "솥뚜껑삼겹살,주소,서울 구로구 경인로20가길 38 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생삼겹살, 항정살",
+          "answer_wordNum": 2,
+          "fact": [
+            "솥뚜껑삼겹살,메뉴,생삼겹살, 항정살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "13:00/15:00~22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,영업시간,13:00/15:00~22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "오류동역 4번 출구, CU, KS원룸이",
+          "answer_wordNum": 5,
+          "fact": [
+            "솥뚜껑삼겹살,인접,오류동역 4번 출구, CU, KS원룸이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 경인로20가길 38 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "솥뚜껑삼겹살,주소,서울 구로구 경인로20가길 38 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "13:00/15:00~22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,영업시간,13:00/15:00~22:00/23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "13:00/15:00~22:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,영업시간,13:00/15:00~22:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생삼겹살, 항정살",
+          "answer_wordNum": 2,
+          "fact": [
+            "솥뚜껑삼겹살,메뉴,생삼겹살, 항정살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "솥뚜껑삼겹살,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

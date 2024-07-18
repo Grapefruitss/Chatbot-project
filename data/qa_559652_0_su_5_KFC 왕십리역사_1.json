@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559652",
+    "travelType": "음식점",
+    "place": "KFC 왕십리역사",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559652_0_su_5_KFC 왕십리역사_1_001.png",
+      "mapx": 37.5637836614008,
+      "mapy": 127.037996868465,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 왕십리역사(행당동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559652_0_su_5_KFC 왕십리역사_1_002.png",
+      "mapx": 37.5637836614008,
+      "mapy": 127.037996868465,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 왕십리역사(행당동)",
+        "건물, 간판, 자동차"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559652_0_su_5_KFC 왕십리역사_1_003.png",
+      "mapx": 37.5637836614008,
+      "mapy": 127.037996868465,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 왕십리역사(행당동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559652_0_su_5_KFC 왕십리역사_1_004.png",
+      "mapx": 37.5637836614008,
+      "mapy": 127.037996868465,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 왕십리역사(행당동)",
+        "키오스크"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559652_0_su_5_KFC 왕십리역사_1_005.png",
+      "mapx": 37.5637836614008,
+      "mapy": 127.037996868465,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 왕십리역사(행당동)",
+        "치킨, 콜라"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성동구 행당동 168-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 왕십리역사,주소,서울 성동구 행당동 168-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 왕십리역사,영업시간,10:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2200-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,연락처,02-2200-1511"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 왕십리역사,영업시간,10:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성동구 행당동 168-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 왕십리역사,주소,서울 성동구 행당동 168-1"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2200-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,연락처,02-2200-1511"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2200-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,연락처,02-2200-1511"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성동구 행당동 168-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 왕십리역사,주소,서울 성동구 행당동 168-1"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "닭껍질튀김, 캡팥꽈배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 왕십리역사,메뉴,닭껍질튀김, 캡팥꽈배기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성동구 행당동 168-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 왕십리역사,주소,서울 성동구 행당동 168-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 왕십리역사,영업시간,10:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "왕십리역 12번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 왕십리역사,인접,왕십리역 12번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2200-1511",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,연락처,02-2200-1511"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 왕십리역사,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "닭껍질튀김, 캡팥꽈배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 왕십리역사,메뉴,닭껍질튀김, 캡팥꽈배기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "왕십리역 12번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 왕십리역사,인접,왕십리역 12번 출구"
+          ]
+        }
+      ]
+    }
+  ]
+}

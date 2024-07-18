@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562264",
+    "travelType": "음식점",
+    "place": "막불감동",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562264_0_su_5_막불감동_1_001.png",
+      "mapx": 37.4842950188384,
+      "mapy": 126.928167853107,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "막불감동(신림동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562264_0_su_5_막불감동_1_002.png",
+      "mapx": 37.4842950188384,
+      "mapy": 126.928167853107,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "막불감동(신림동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562264_0_su_5_막불감동_1_003.png",
+      "mapx": 37.4842950188384,
+      "mapy": 126.928167853107,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "막불감동(신림동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562264_0_su_5_막불감동_1_004.png",
+      "mapx": 37.4842950188384,
+      "mapy": 126.928167853107,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "막불감동(신림동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562264_0_su_5_막불감동_1_005.png",
+      "mapx": 37.4842950188384,
+      "mapy": 126.928167853107,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "막불감동(신림동)",
+        "냉면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "신림역 6번 출구, GS25 관악점, 맘스터치 신림역점",
+          "answer_wordNum": 7,
+          "fact": [
+            "막불감동,인접,신림역 6번 출구, GS25 관악점, 맘스터치 신림역점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "직화 불고기, 막국수",
+          "answer_wordNum": 3,
+          "fact": [
+            "막불감동,먹을수있다,직화 불고기, 막국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 1599",
+          "answer_wordNum": 4,
+          "fact": [
+            "막불감동,주소,서울 관악구 남부순환로 1599"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1305-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,연락처,0507-1305-2110"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소가 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 1599",
+          "answer_wordNum": 4,
+          "fact": [
+            "막불감동,주소,서울 관악구 남부순환로 1599"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1305-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,연락처,0507-1305-2110"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "막불감동,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "동치미막국수, 비빔막국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "막불감동,메뉴,동치미막국수, 비빔막국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "신림역 6번 출구, GS25 관악점, 맘스터치 신림역점",
+          "answer_wordNum": 7,
+          "fact": [
+            "막불감동,인접,신림역 6번 출구, GS25 관악점, 맘스터치 신림역점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "직화 불고기, 막국수",
+          "answer_wordNum": 3,
+          "fact": [
+            "막불감동,먹을수있다,직화 불고기, 막국수"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1305-2110",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,연락처,0507-1305-2110"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "막불감동,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "신림역 6번 출구, GS25 관악점, 맘스터치 신림역점",
+          "answer_wordNum": 7,
+          "fact": [
+            "막불감동,인접,신림역 6번 출구, GS25 관악점, 맘스터치 신림역점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 1599",
+          "answer_wordNum": 4,
+          "fact": [
+            "막불감동,주소,서울 관악구 남부순환로 1599"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "막불감동,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "동치미막국수, 비빔막국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "막불감동,메뉴,동치미막국수, 비빔막국수"
+          ]
+        }
+      ]
+    }
+  ]
+}

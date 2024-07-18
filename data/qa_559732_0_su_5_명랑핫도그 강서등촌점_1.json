@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559732",
+    "travelType": "음식점",
+    "place": "명랑핫도그 강서등촌점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559732_0_su_5_명랑핫도그 강서등촌점_1_001.png",
+      "mapx": 37.5602359798031,
+      "mapy": 126.845776312402,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 강서등촌점(강서구)",
+        "간판, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559732_0_su_5_명랑핫도그 강서등촌점_1_002.png",
+      "mapx": 37.5602359798031,
+      "mapy": 126.845776312402,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 강서등촌점(강서구)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559732_0_su_5_명랑핫도그 강서등촌점_1_003.png",
+      "mapx": 37.5602359798031,
+      "mapy": 126.845776312402,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 강서등촌점(강서구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559732_0_su_5_명랑핫도그 강서등촌점_1_004.png",
+      "mapx": 37.5602359798031,
+      "mapy": 126.845776312402,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 강서등촌점(강서구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559732_0_su_5_명랑핫도그 강서등촌점_1_005.png",
+      "mapx": 37.5602359798031,
+      "mapy": 126.845776312402,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "명랑핫도그 강서등촌점(강서구)",
+        "핫도그"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3662-1143",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,연락처,02-3662-1143"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "명랑핫도그 강서등촌점,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "꽈배기, 크림치즈 핫도그",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 강서등촌점,메뉴,꽈배기, 크림치즈 핫도그"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "꽈배기, 크림치즈 핫도그",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 강서등촌점,메뉴,꽈배기, 크림치즈 핫도그"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 공항대로41길 51",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 강서등촌점,주소,서울 강서구 공항대로41길 51"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00-21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,영업시간,12:00-21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3662-1143",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,연락처,02-3662-1143"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00-21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,영업시간,12:00-21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "명랑핫도그 강서등촌점,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3662-1143",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,연락처,02-3662-1143"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 4번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 강서등촌점,인접,발산역 4번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로41길 51",
+          "answer_wordNum": 4,
+          "fact": [
+            "명랑핫도그 강서등촌점,주소,서울 강서구 공항대로41길 51"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3662-1143",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,연락처,02-3662-1143"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "명랑핫도그 강서등촌점,휴무일,매주 월요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "명랑핫도그 강서등촌점,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 4번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "명랑핫도그 강서등촌점,인접,발산역 4번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3662-1143",
+          "answer_wordNum": 1,
+          "fact": [
+            "명랑핫도그 강서등촌점,연락처,02-3662-1143"
+          ]
+        }
+      ]
+    }
+  ]
+}

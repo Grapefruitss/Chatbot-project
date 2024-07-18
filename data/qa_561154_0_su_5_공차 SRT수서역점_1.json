@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561154",
+    "travelType": "음식점",
+    "place": "공차 SRT수서역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561154_0_su_5_공차 SRT수서역점_1_001.png",
+      "mapx": 37.4854186524663,
+      "mapy": 127.104560301199,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 SRT수서역점(수서동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561154_0_su_5_공차 SRT수서역점_1_002.png",
+      "mapx": 37.4854186524663,
+      "mapy": 127.104560301199,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 SRT수서역점(수서동)",
+        "간판, 카운터"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561154_0_su_5_공차 SRT수서역점_1_003.png",
+      "mapx": 37.4854186524663,
+      "mapy": 127.104560301199,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 SRT수서역점(수서동)",
+        "메뉴판, 카운터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561154_0_su_5_공차 SRT수서역점_1_004.png",
+      "mapx": 37.4854186524663,
+      "mapy": 127.104560301199,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 SRT수서역점(수서동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561154_0_su_5_공차 SRT수서역점_1_005.png",
+      "mapx": 37.4854186524663,
+      "mapy": 127.104560301199,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 SRT수서역점(수서동)",
+        "밀크티, 스무디"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 밤고개로 99",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 SRT수서역점,주소,서울 강남구 밤고개로 99"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙밀크티, 타로밀크티",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 SRT수서역점,메뉴,블랙밀크티, 타로밀크티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "수서역 4번 출구, 수서타워, 이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 SRT수서역점,인접,수서역 4번 출구, 수서타워, 이마트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-4110-6888",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,연락처,070-4110-6888"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 밤고개로 99",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 SRT수서역점,주소,서울 강남구 밤고개로 99"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 SRT수서역점,영업시간,08:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "수서역 4번 출구, 수서타워, 이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 SRT수서역점,인접,수서역 4번 출구, 수서타워, 이마트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙밀크티, 타로밀크티",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 SRT수서역점,메뉴,블랙밀크티, 타로밀크티"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 밤고개로 99",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 SRT수서역점,주소,서울 강남구 밤고개로 99"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 SRT수서역점,영업시간,08:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-4110-6888",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,연락처,070-4110-6888"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "수서역 4번 출구, 수서타워, 이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 SRT수서역점,인접,수서역 4번 출구, 수서타워, 이마트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "블랙밀크티, 타로밀크티",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 SRT수서역점,메뉴,블랙밀크티, 타로밀크티"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 SRT수서역점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562366",
+    "travelType": "음식점",
+    "place": "구수옥설렁탕",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562366_0_su_5_구수옥설렁탕_7_001.png",
+      "mapx": 37.4843579965651,
+      "mapy": 126.936501210713,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "구수옥설렁탕(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562366_0_su_5_구수옥설렁탕_7_002.png",
+      "mapx": 37.4843579965651,
+      "mapy": 126.936501210713,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "구수옥설렁탕(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562366_0_su_5_구수옥설렁탕_7_003.png",
+      "mapx": 37.4843579965651,
+      "mapy": 126.936501210713,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "구수옥설렁탕(관악구)",
+        "사각테이블 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562366_0_su_5_구수옥설렁탕_7_004.png",
+      "mapx": 37.4843579965651,
+      "mapy": 126.936501210713,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "구수옥설렁탕(관악구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562366_0_su_5_구수옥설렁탕_7_005.png",
+      "mapx": 37.4843579965651,
+      "mapy": 126.936501210713,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "구수옥설렁탕(관악구)",
+        "설렁탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 1674",
+          "answer_wordNum": 4,
+          "fact": [
+            "구수옥설렁탕,주소,서울 관악구 남부순환로 1674"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "설렁탕, 갈비탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "구수옥설렁탕,메뉴,설렁탕, 갈비탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "봉천역 3번 출구, 미니골드신림본점, 우리호프",
+          "answer_wordNum": 5,
+          "fact": [
+            "구수옥설렁탕,인접,봉천역 3번 출구, 미니골드신림본점, 우리호프"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "설렁탕, 갈비탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "구수옥설렁탕,메뉴,설렁탕, 갈비탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "구수옥설렁탕,영업시간,00:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "봉천역 3번 출구, 미니골드신림본점, 우리호프",
+          "answer_wordNum": 5,
+          "fact": [
+            "구수옥설렁탕,인접,봉천역 3번 출구, 미니골드신림본점, 우리호프"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "구수옥설렁탕,영업시간,00:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로 1674",
+          "answer_wordNum": 4,
+          "fact": [
+            "구수옥설렁탕,주소,서울 관악구 남부순환로 1674"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "봉천역 3번 출구, 미니골드신림본점, 우리호프",
+          "answer_wordNum": 5,
+          "fact": [
+            "구수옥설렁탕,인접,봉천역 3번 출구, 미니골드신림본점, 우리호프"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-883-8860",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,연락처,02-883-8860"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "설렁탕, 갈비탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "구수옥설렁탕,메뉴,설렁탕, 갈비탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-883-8860",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,연락처,02-883-8860"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "설렁탕, 갈비탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "구수옥설렁탕,메뉴,설렁탕, 갈비탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "구수옥설렁탕,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564496",
+    "travelType": "음식점",
+    "place": "강강술래 시흥점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564496_0_su_5_강강술래 시흥점_1_001.png",
+      "mapx": 37.4509932654577,
+      "mapy": 126.901277884409,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "강강술래 시흥점(시흥동)",
+        "미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564496_0_su_5_강강술래 시흥점_1_002.png",
+      "mapx": 37.4509932654577,
+      "mapy": 126.901277884409,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "강강술래 시흥점(시흥동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564496_0_su_5_강강술래 시흥점_1_003.png",
+      "mapx": 37.4509932654577,
+      "mapy": 126.901277884409,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "강강술래 시흥점(시흥동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564496_0_su_5_강강술래 시흥점_1_004.png",
+      "mapx": 37.4509932654577,
+      "mapy": 126.901277884409,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "강강술래 시흥점(시흥동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564496_0_su_5_강강술래 시흥점_1_005.png",
+      "mapx": 37.4509932654577,
+      "mapy": 126.901277884409,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "강강술래 시흥점(시흥동)",
+        "돼지갈비"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 193",
+          "answer_wordNum": 4,
+          "fact": [
+            "강강술래 시흥점,주소,서울 금천구 시흥대로 193"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "금천구청역 1번 출구, 토크코리아, 대원글로벌",
+          "answer_wordNum": 5,
+          "fact": [
+            "강강술래 시흥점,인접,금천구청역 1번 출구, 토크코리아, 대원글로벌"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "영양갈비탕, 소불고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "강강술래 시흥점,메뉴,영양갈비탕, 소불고기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "강강술래 시흥점,영업시간,11:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-808-1888",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,연락처,02-808-1888"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "영양갈비탕, 소불고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "강강술래 시흥점,메뉴,영양갈비탕, 소불고기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "강강술래 시흥점,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "강강술래 시흥점,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "영양갈비탕, 소불고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "강강술래 시흥점,메뉴,영양갈비탕, 소불고기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-808-1888",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,연락처,02-808-1888"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "금천구청역 1번 출구, 토크코리아, 대원글로벌",
+          "answer_wordNum": 5,
+          "fact": [
+            "강강술래 시흥점,인접,금천구청역 1번 출구, 토크코리아, 대원글로벌"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "영양갈비탕, 소불고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "강강술래 시흥점,메뉴,영양갈비탕, 소불고기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "강강술래 시흥점,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 193",
+          "answer_wordNum": 4,
+          "fact": [
+            "강강술래 시흥점,주소,서울 금천구 시흥대로 193"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "영양갈비탕, 소불고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "강강술래 시흥점,메뉴,영양갈비탕, 소불고기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-808-1888",
+          "answer_wordNum": 1,
+          "fact": [
+            "강강술래 시흥점,연락처,02-808-1888"
+          ]
+        }
+      ]
+    }
+  ]
+}

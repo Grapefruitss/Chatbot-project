@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564606",
+    "travelType": "음식점",
+    "place": "소명생고기",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564606_0_su_5_소명생고기_1_001.png",
+      "mapx": 37.4572451666623,
+      "mapy": 126.899937213198,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소명생고기(시흥동)",
+        "자동문, 벤치 의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564606_0_su_5_소명생고기_1_002.png",
+      "mapx": 37.4572451666623,
+      "mapy": 126.899937213198,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소명생고기(시흥동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564606_0_su_5_소명생고기_1_003.png",
+      "mapx": 37.4572451666623,
+      "mapy": 126.899937213198,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소명생고기(시흥동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564606_0_su_5_소명생고기_1_004.png",
+      "mapx": 37.4572451666623,
+      "mapy": 126.899937213198,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소명생고기(시흥동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564606_0_su_5_소명생고기_1_005.png",
+      "mapx": 37.4572451666623,
+      "mapy": 126.899937213198,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "소명생고기(시흥동)",
+        "돼지고기, 김치, 전, 양파, 마늘, 쌈장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "소명생고기,영업시간,08:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 264",
+          "answer_wordNum": 4,
+          "fact": [
+            "소명생고기,주소,서울 금천구 시흥대로 264"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "소명생고기,영업시간,08:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 264",
+          "answer_wordNum": 4,
+          "fact": [
+            "소명생고기,주소,서울 금천구 시흥대로 264"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "금천구청역 1번 출구, 명륜진사갈비, 우림개발",
+          "answer_wordNum": 5,
+          "fact": [
+            "소명생고기,인접,금천구청역 1번 출구, 명륜진사갈비, 우림개발"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 264",
+          "answer_wordNum": 4,
+          "fact": [
+            "소명생고기,주소,서울 금천구 시흥대로 264"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "소명생고기,영업시간,08:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생삼겹, 한우버섯불고기",
+          "answer_wordNum": 2,
+          "fact": [
+            "소명생고기,메뉴,생삼겹, 한우버섯불고기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-893-3233",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,연락처,02-893-3233"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "금천구청역 1번 출구, 명륜진사갈비, 우림개발",
+          "answer_wordNum": 5,
+          "fact": [
+            "소명생고기,인접,금천구청역 1번 출구, 명륜진사갈비, 우림개발"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 264",
+          "answer_wordNum": 4,
+          "fact": [
+            "소명생고기,주소,서울 금천구 시흥대로 264"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "소명생고기,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "금천구청역 1번 출구, 명륜진사갈비, 우림개발",
+          "answer_wordNum": 5,
+          "fact": [
+            "소명생고기,인접,금천구청역 1번 출구, 명륜진사갈비, 우림개발"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "소명생고기,영업시간,08:00 - 24:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

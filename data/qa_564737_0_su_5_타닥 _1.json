@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564737",
+    "travelType": "음식점",
+    "place": "타닥 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564737_0_su_5_타닥 _1_001.png",
+      "mapx": 37.4582229148592,
+      "mapy": 126.893710403536,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "타닥 (독산동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564737_0_su_5_타닥 _1_002.png",
+      "mapx": 37.4582229148592,
+      "mapy": 126.893710403536,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "타닥 (독산동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564737_0_su_5_타닥 _1_003.png",
+      "mapx": 37.4582229148592,
+      "mapy": 126.893710403536,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "타닥 (독산동)",
+        "테이블, 등받이 의자, 전등"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564737_0_su_5_타닥 _1_004.png",
+      "mapx": 37.4582229148592,
+      "mapy": 126.893710403536,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "타닥 (독산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564737_0_su_5_타닥 _1_005.png",
+      "mapx": 37.4582229148592,
+      "mapy": 126.893710403536,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "타닥 (독산동)",
+        "꼬치구이"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:30 - 01:00/02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "타닥,영업시간,17:30 - 01:00/02:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금닭꼬치, 매콤닭꼬치",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,메뉴,소금닭꼬치, 매콤닭꼬치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "금천구청역 1번 출구, CU, 롯데캐슬골드파크2차 아파트",
+          "answer_wordNum": 6,
+          "fact": [
+            "타닥,인접,금천구청역 1번 출구, CU, 롯데캐슬골드파크2차 아파트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1383-7925",
+          "answer_wordNum": 1,
+          "fact": [
+            "타닥,연락처,0507-1383-7925"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금닭꼬치, 매콤닭꼬치",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,메뉴,소금닭꼬치, 매콤닭꼬치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:30 - 01:00/02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "타닥,영업시간,17:30 - 01:00/02:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1383-7925",
+          "answer_wordNum": 1,
+          "fact": [
+            "타닥,연락처,0507-1383-7925"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금닭꼬치, 매콤닭꼬치",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,메뉴,소금닭꼬치, 매콤닭꼬치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "타닥,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "금천구청역 1번 출구, CU, 롯데캐슬골드파크2차 아파트",
+          "answer_wordNum": 6,
+          "fact": [
+            "타닥,인접,금천구청역 1번 출구, CU, 롯데캐슬골드파크2차 아파트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "소금닭꼬치, 매콤닭꼬치",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,메뉴,소금닭꼬치, 매콤닭꼬치"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:30 - 01:00/02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "타닥,영업시간,17:30 - 01:00/02:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 벚꽃로 30 205동 110호, 128호",
+          "answer_wordNum": 7,
+          "fact": [
+            "타닥,주소,서울 금천구 벚꽃로 30 205동 110호, 128호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "금천구청역 1번 출구, CU, 롯데캐슬골드파크2차 아파트",
+          "answer_wordNum": 6,
+          "fact": [
+            "타닥,인접,금천구청역 1번 출구, CU, 롯데캐슬골드파크2차 아파트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 벚꽃로 30 205동 110호, 128호",
+          "answer_wordNum": 7,
+          "fact": [
+            "타닥,주소,서울 금천구 벚꽃로 30 205동 110호, 128호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "타닥,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "타닥,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

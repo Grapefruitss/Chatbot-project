@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594497",
+    "travelType": "음식점",
+    "place": "92닭숯불바베큐",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594497_0_su_5_92닭숯불바베큐_2_001.png",
+      "mapx": 37.5775954065724,
+      "mapy": 127.059523151526,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "92닭숯불바베큐(전농동)",
+        "간판, 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594497_0_su_5_92닭숯불바베큐_2_002.png",
+      "mapx": 37.5775954065724,
+      "mapy": 127.059523151526,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "92닭숯불바베큐(전농동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594497_0_su_5_92닭숯불바베큐_2_003.png",
+      "mapx": 37.5775954065724,
+      "mapy": 127.059523151526,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "92닭숯불바베큐(전농동)",
+        "에어컨, 테이블, 등받이 의자, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594497_0_su_5_92닭숯불바베큐_2_004.png",
+      "mapx": 37.5775954065724,
+      "mapy": 127.059523151526,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "92닭숯불바베큐(전농동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594497_0_su_5_92닭숯불바베큐_2_005.png",
+      "mapx": 37.5775954065724,
+      "mapy": 127.059523151526,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "92닭숯불바베큐(전농동)",
+        "바베큐"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "전통 한식 바베큐, 불닭 통 바베큐",
+          "answer_wordNum": 6,
+          "fact": [
+            "92닭숯불바베큐,메뉴,전통 한식 바베큐, 불닭 통 바베큐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2241-9002",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,연락처,02-2241-9002"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "이삭토스트, 소야지, 리안헤어",
+          "answer_wordNum": 3,
+          "fact": [
+            "92닭숯불바베큐,인접,이삭토스트, 소야지, 리안헤어"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2241-9002",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,연락처,02-2241-9002"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 사가정로 132",
+          "answer_wordNum": 4,
+          "fact": [
+            "92닭숯불바베큐,주소,서울 동대문구 사가정로 132"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 사가정로 132",
+          "answer_wordNum": 4,
+          "fact": [
+            "92닭숯불바베큐,주소,서울 동대문구 사가정로 132"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "이삭토스트, 소야지, 리안헤어",
+          "answer_wordNum": 3,
+          "fact": [
+            "92닭숯불바베큐,인접,이삭토스트, 소야지, 리안헤어"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "전통 한식 바베큐, 불닭 통 바베큐",
+          "answer_wordNum": 6,
+          "fact": [
+            "92닭숯불바베큐,메뉴,전통 한식 바베큐, 불닭 통 바베큐"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 사가정로 132",
+          "answer_wordNum": 4,
+          "fact": [
+            "92닭숯불바베큐,주소,서울 동대문구 사가정로 132"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2241-9002",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,연락처,02-2241-9002"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "이삭토스트, 소야지, 리안헤어",
+          "answer_wordNum": 3,
+          "fact": [
+            "92닭숯불바베큐,인접,이삭토스트, 소야지, 리안헤어"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "92닭숯불바베큐,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "전통 한식 바베큐, 불닭 통 바베큐",
+          "answer_wordNum": 6,
+          "fact": [
+            "92닭숯불바베큐,메뉴,전통 한식 바베큐, 불닭 통 바베큐"
+          ]
+        }
+      ]
+    }
+  ]
+}

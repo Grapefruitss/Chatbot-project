@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560489",
+    "travelType": "음식점",
+    "place": "파리바게뜨 용산해링턴스퀘어점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560489_0_su_5_파리바게뜨 용산해링턴스퀘어점_1_001.png",
+      "mapx": 37.5269056148241,
+      "mapy": 126.966566172294,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 용산해링턴스퀘어점(한강로3가)",
+        "화분, 간판, 자동문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560489_0_su_5_파리바게뜨 용산해링턴스퀘어점_1_002.png",
+      "mapx": 37.5269056148241,
+      "mapy": 126.966566172294,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 용산해링턴스퀘어점(한강로3가)",
+        "배너, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560489_0_su_5_파리바게뜨 용산해링턴스퀘어점_1_003.png",
+      "mapx": 37.5269056148241,
+      "mapy": 126.966566172294,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 용산해링턴스퀘어점(한강로3가)",
+        "진열대, 빵"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560489_0_su_5_파리바게뜨 용산해링턴스퀘어점_1_004.png",
+      "mapx": 37.5269056148241,
+      "mapy": 126.966566172294,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 용산해링턴스퀘어점(한강로3가)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560489_0_su_5_파리바게뜨 용산해링턴스퀘어점_1_005.png",
+      "mapx": 37.5269056148241,
+      "mapy": 126.966566172294,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 용산해링턴스퀘어점(한강로3가)",
+        "빵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신용산역 2번 출구, 한국씨티은행, 용산센트럴파크",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,인접,신용산역 2번 출구, 한국씨티은행, 용산센트럴파크"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,영업시간,07:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1343-8795",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,연락처,0507-1343-8795"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "실키롤케이크, 아메리카노",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,메뉴,실키롤케이크, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 서빙고로 17 104동 1층 34호",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,주소,서울 용산구 서빙고로 17 104동 1층 34호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "실키롤케이크, 아메리카노",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,메뉴,실키롤케이크, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1343-8795",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,연락처,0507-1343-8795"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1343-8795",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,연락처,0507-1343-8795"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신용산역 2번 출구, 한국씨티은행, 용산센트럴파크",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,인접,신용산역 2번 출구, 한국씨티은행, 용산센트럴파크"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,영업시간,07:00~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 용산구 서빙고로 17 104동 1층 34호",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,주소,서울 용산구 서빙고로 17 104동 1층 34호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1343-8795",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,연락처,0507-1343-8795"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 서빙고로 17 104동 1층 34호",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,주소,서울 용산구 서빙고로 17 104동 1층 34호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 있나요?",
+          "question_wordNum": 3,
+          "answer": "신용산역 2번 출구, 한국씨티은행, 용산센트럴파크",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 용산해링턴스퀘어점,인접,신용산역 2번 출구, 한국씨티은행, 용산센트럴파크"
+          ]
+        }
+      ]
+    }
+  ]
+}

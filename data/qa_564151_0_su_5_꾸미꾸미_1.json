@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564151",
+    "travelType": "음식점",
+    "place": "꾸미꾸미",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564151_0_su_5_꾸미꾸미_1_001.png",
+      "mapx": 37.4925963290574,
+      "mapy": 126.84259857035,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "꾸미꾸미(구로구)",
+        "풍선간판, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564151_0_su_5_꾸미꾸미_1_002.png",
+      "mapx": 37.4925963290574,
+      "mapy": 126.84259857035,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "꾸미꾸미(구로구)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564151_0_su_5_꾸미꾸미_1_003.png",
+      "mapx": 37.4925963290574,
+      "mapy": 126.84259857035,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "꾸미꾸미(구로구)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564151_0_su_5_꾸미꾸미_1_004.png",
+      "mapx": 37.4925963290574,
+      "mapy": 126.84259857035,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "꾸미꾸미(구로구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564151_0_su_5_꾸미꾸미_1_005.png",
+      "mapx": 37.4925963290574,
+      "mapy": 126.84259857035,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "꾸미꾸미(구로구)",
+        "쭈꾸미 볶음"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1421-9093",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,연락처,0507-1421-9093"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "꾸미꾸미,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 서해안로 2320",
+          "answer_wordNum": 4,
+          "fact": [
+            "꾸미꾸미,주소,서울 구로구 서해안로 2320"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,영업시간,11:30~23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "직화매운닭발, 직화쭈꾸미덮밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "꾸미꾸미,메뉴,직화매운닭발, 직화쭈꾸미덮밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,영업시간,11:30~23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "오류동역 2번 출구, 한라산도새기, GS25",
+          "answer_wordNum": 5,
+          "fact": [
+            "꾸미꾸미,인접,오류동역 2번 출구, 한라산도새기, GS25"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1421-9093",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,연락처,0507-1421-9093"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "오류동역 2번 출구, 한라산도새기, GS25",
+          "answer_wordNum": 5,
+          "fact": [
+            "꾸미꾸미,인접,오류동역 2번 출구, 한라산도새기, GS25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 서해안로 2320",
+          "answer_wordNum": 4,
+          "fact": [
+            "꾸미꾸미,주소,서울 구로구 서해안로 2320"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,영업시간,11:30~23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "직화매운닭발, 직화쭈꾸미덮밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "꾸미꾸미,메뉴,직화매운닭발, 직화쭈꾸미덮밥"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1421-9093",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,연락처,0507-1421-9093"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 서해안로 2320",
+          "answer_wordNum": 4,
+          "fact": [
+            "꾸미꾸미,주소,서울 구로구 서해안로 2320"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "직화매운닭발, 직화쭈꾸미덮밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "꾸미꾸미,메뉴,직화매운닭발, 직화쭈꾸미덮밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30~23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,영업시간,11:30~23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "꾸미꾸미,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559683",
+    "travelType": "음식점",
+    "place": "KFC 중계은행사거리",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559683_0_su_5_KFC 중계은행사거리_1_001.png",
+      "mapx": 37.6479118263804,
+      "mapy": 127.076251603698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 중계은행사거리(중계동)",
+        "간판, 입간판, 배너, 포스터, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559683_0_su_5_KFC 중계은행사거리_1_002.png",
+      "mapx": 37.6479118263804,
+      "mapy": 127.076251603698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 중계은행사거리(중계동)",
+        "간판, 판촉물, 배너, 입간판, 여닫이문, 포스터"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559683_0_su_5_KFC 중계은행사거리_1_003.png",
+      "mapx": 37.6479118263804,
+      "mapy": 127.076251603698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 중계은행사거리(중계동)",
+        "테이블, 등받이 의자, 조명, 소파, 의자, 포스터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559683_0_su_5_KFC 중계은행사거리_1_004.png",
+      "mapx": 37.6479118263804,
+      "mapy": 127.076251603698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 중계은행사거리(중계동)",
+        "메뉴판, 등받이의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559683_0_su_5_KFC 중계은행사거리_1_005.png",
+      "mapx": 37.6479118263804,
+      "mapy": 127.076251603698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 중계은행사거리(중계동)",
+        "치킨, 감자튀김, 햄버거, 에그타르트"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "비스켓, 캡팥꽈배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 중계은행사거리,메뉴,비스켓, 캡팥꽈배기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 중계은행사거리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "행컵, 맘스터치",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 중계은행사거리,인접,행컵, 맘스터치"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 노원구 한글비석로 227",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 중계은행사거리,주소,서울 노원구 한글비석로 227"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "비스켓, 캡팥꽈배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 중계은행사거리,메뉴,비스켓, 캡팥꽈배기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 중계은행사거리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 한글비석로 227",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 중계은행사거리,주소,서울 노원구 한글비석로 227"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 중계은행사거리,영업시간,11:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "비스켓, 캡팥꽈배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 중계은행사거리,메뉴,비스켓, 캡팥꽈배기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6436-0390",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 중계은행사거리,연락처,02-6436-0390"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 중계은행사거리,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 한글비석로 227",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 중계은행사거리,주소,서울 노원구 한글비석로 227"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "비스켓, 캡팥꽈배기",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 중계은행사거리,메뉴,비스켓, 캡팥꽈배기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 중계은행사거리,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 중계은행사거리,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 중계은행사거리,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 노원구 한글비석로 227",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 중계은행사거리,주소,서울 노원구 한글비석로 227"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "행컵, 맘스터치",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 중계은행사거리,인접,행컵, 맘스터치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 중계은행사거리,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6436-0390",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 중계은행사거리,연락처,02-6436-0390"
+          ]
+        }
+      ]
+    }
+  ]
+}

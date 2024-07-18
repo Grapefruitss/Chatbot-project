@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561288",
+    "travelType": "음식점",
+    "place": "공차 롯데월드점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561288_0_su_5_공차 롯데월드점_1_001.png",
+      "mapx": 37.5113096112036,
+      "mapy": 127.098141751177,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 롯데월드점(잠실동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561288_0_su_5_공차 롯데월드점_1_002.png",
+      "mapx": 37.5113096112036,
+      "mapy": 127.098141751177,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 롯데월드점(잠실동)",
+        "간판, 여닫이문, 입간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561288_0_su_5_공차 롯데월드점_1_003.png",
+      "mapx": 37.5113096112036,
+      "mapy": 127.098141751177,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 롯데월드점(잠실동)",
+        "분리수거대, 소화기, 메뉴판, 카운터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561288_0_su_5_공차 롯데월드점_1_004.png",
+      "mapx": 37.5113096112036,
+      "mapy": 127.098141751177,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 롯데월드점(잠실동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561288_0_su_5_공차 롯데월드점_1_005.png",
+      "mapx": 37.5113096112036,
+      "mapy": 127.098141751177,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 롯데월드점(잠실동)",
+        "스무디, 버블티"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "잠실역 3번 출구, 롯데리아, 더카페",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 롯데월드점,인접,잠실역 3번 출구, 롯데리아, 더카페"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 올림픽로 240 지하 1층 푸드에비뉴",
+          "answer_wordNum": 7,
+          "fact": [
+            "공차 롯데월드점,주소,서울 송파구 올림픽로 240 지하 1층 푸드에비뉴"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙밀크티, 하우스 스페셜 그린티",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 롯데월드점,메뉴,블랙밀크티, 하우스 스페셜 그린티"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 롯데월드점,영업시간,10:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2143-1262",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,연락처,02-2143-1262"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙밀크티, 하우스 스페셜 그린티",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 롯데월드점,메뉴,블랙밀크티, 하우스 스페셜 그린티"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 올림픽로 240 지하 1층 푸드에비뉴",
+          "answer_wordNum": 7,
+          "fact": [
+            "공차 롯데월드점,주소,서울 송파구 올림픽로 240 지하 1층 푸드에비뉴"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "잠실역 3번 출구, 롯데리아, 더카페",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 롯데월드점,인접,잠실역 3번 출구, 롯데리아, 더카페"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 올림픽로 240 지하 1층 푸드에비뉴",
+          "answer_wordNum": 7,
+          "fact": [
+            "공차 롯데월드점,주소,서울 송파구 올림픽로 240 지하 1층 푸드에비뉴"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 롯데월드점,영업시간,10:00 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "잠실역 3번 출구, 롯데리아, 더카페",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 롯데월드점,인접,잠실역 3번 출구, 롯데리아, 더카페"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 올림픽로 240 지하 1층 푸드에비뉴",
+          "answer_wordNum": 7,
+          "fact": [
+            "공차 롯데월드점,주소,서울 송파구 올림픽로 240 지하 1층 푸드에비뉴"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2143-1262",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 롯데월드점,연락처,02-2143-1262"
+          ]
+        }
+      ]
+    }
+  ]
+}

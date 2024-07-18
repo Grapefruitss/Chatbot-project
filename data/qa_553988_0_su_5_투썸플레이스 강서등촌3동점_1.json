@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "553988",
+    "travelType": "음식점",
+    "place": "투썸플레이스 강서등촌3동점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "553988_0_su_5_투썸플레이스 강서등촌3동점_1_001.png",
+      "mapx": 37.5592796685251,
+      "mapy": 126.84571196058,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강서등촌3동점(등촌동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "553988_0_su_5_투썸플레이스 강서등촌3동점_1_002.png",
+      "mapx": 37.5592796685251,
+      "mapy": 126.84571196058,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강서등촌3동점(등촌동)",
+        "건물\n"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "553988_0_su_5_투썸플레이스 강서등촌3동점_1_003.png",
+      "mapx": 37.5592796685251,
+      "mapy": 126.84571196058,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강서등촌3동점(등촌동)",
+        "테이블, 등받이 의자, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "553988_0_su_5_투썸플레이스 강서등촌3동점_1_004.png",
+      "mapx": 37.5592796685251,
+      "mapy": 126.84571196058,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강서등촌3동점(등촌동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "553988_0_su_5_투썸플레이스 강서등촌3동점_1_005.png",
+      "mapx": 37.5592796685251,
+      "mapy": 126.84571196058,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 강서등촌3동점(등촌동)",
+        "케이크, 커피, 냅킨, 쟁반"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "스트로베리초콜릿생크림, 수박주스",
+          "answer_wordNum": 2,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,메뉴,스트로베리초콜릿생크림, 수박주스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,영업시간,08:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 4번 출구, 햇살요양원, 프라임비젼, 플러스존",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,인접,발산역 4번 출구, 햇살요양원, 프라임비젼, 플러스존"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2658-8281",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,연락처,02-2658-8281"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 공항대로41길 34",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,주소,서울 강서구 공항대로41길 34"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,영업시간,08:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 4번 출구, 햇살요양원, 프라임비젼, 플러스존",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,인접,발산역 4번 출구, 햇살요양원, 프라임비젼, 플러스존"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "스트로베리초콜릿생크림, 수박주스",
+          "answer_wordNum": 2,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,메뉴,스트로베리초콜릿생크림, 수박주스"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로41길 34",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,주소,서울 강서구 공항대로41길 34"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "발산역 4번 출구, 햇살요양원, 프라임비젼, 플러스존",
+          "answer_wordNum": 6,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,인접,발산역 4번 출구, 햇살요양원, 프라임비젼, 플러스존"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2658-8281",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,연락처,02-2658-8281"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,영업시간,08:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "스트로베리초콜릿생크림, 수박주스",
+          "answer_wordNum": 2,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,메뉴,스트로베리초콜릿생크림, 수박주스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 공항대로41길 34",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,주소,서울 강서구 공항대로41길 34"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 강서등촌3동점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

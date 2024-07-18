@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558429",
+    "travelType": "음식점",
+    "place": "블루보틀 한남 카페",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558429_0_su_5_블루보틀 한남 카페_2_001.png",
+      "mapx": 37.5365636555465,
+      "mapy": 127.002134363783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "블루보틀 한남 카페(한남동)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558429_0_su_5_블루보틀 한남 카페_2_002.png",
+      "mapx": 37.5365636555465,
+      "mapy": 127.002134363783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "블루보틀 한남 카페(한남동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558429_0_su_5_블루보틀 한남 카페_2_003.png",
+      "mapx": 37.5365636555465,
+      "mapy": 127.002134363783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "블루보틀 한남 카페(한남동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558429_0_su_5_블루보틀 한남 카페_2_004.png",
+      "mapx": 37.5365636555465,
+      "mapy": 127.002134363783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "블루보틀 한남 카페(한남동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558429_0_su_5_블루보틀 한남 카페_2_005.png",
+      "mapx": 37.5365636555465,
+      "mapy": 127.002134363783,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "블루보틀 한남 카페(한남동)",
+        "와플, 커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,휴무일,공휴일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한강진역 2번 출구, 아우어베이커리, 스시노아야",
+          "answer_wordNum": 5,
+          "fact": [
+            "블루보틀 한남 카페,인접,한강진역 2번 출구, 아우어베이커리, 스시노아야"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 한남대로 91 지하1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "블루보틀 한남 카페,주소,서울 용산구 한남대로 91 지하1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "카페",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,이다,카페"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "커피 아이스크림 와플플레이트, 지브랄타",
+          "answer_wordNum": 4,
+          "fact": [
+            "블루보틀 한남 카페,메뉴,커피 아이스크림 와플플레이트, 지브랄타"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한강진역 2번 출구, 아우어베이커리, 스시노아야",
+          "answer_wordNum": 5,
+          "fact": [
+            "블루보틀 한남 카페,인접,한강진역 2번 출구, 아우어베이커리, 스시노아야"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "1533-6906",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,연락처,1533-6906"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "커피 아이스크림 와플플레이트, 지브랄타",
+          "answer_wordNum": 4,
+          "fact": [
+            "블루보틀 한남 카페,메뉴,커피 아이스크림 와플플레이트, 지브랄타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,휴무일,공휴일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "카페",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,이다,카페"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 한남대로 91 지하1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "블루보틀 한남 카페,주소,서울 용산구 한남대로 91 지하1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "블루보틀 한남 카페,영업시간,08:00/09:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "카페",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,이다,카페"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1533-6906",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,연락처,1533-6906"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한강진역 2번 출구, 아우어베이커리, 스시노아야",
+          "answer_wordNum": 5,
+          "fact": [
+            "블루보틀 한남 카페,인접,한강진역 2번 출구, 아우어베이커리, 스시노아야"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 한남대로 91 지하1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "블루보틀 한남 카페,주소,서울 용산구 한남대로 91 지하1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "블루보틀 한남 카페,영업시간,08:00/09:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "블루보틀 한남 카페,휴무일,공휴일"
+          ]
+        }
+      ]
+    }
+  ]
+}

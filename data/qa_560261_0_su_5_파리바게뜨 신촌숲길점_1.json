@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560261",
+    "travelType": "음식점",
+    "place": "파리바게뜨 신촌숲길점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560261_0_su_5_파리바게뜨 신촌숲길점_1_001.png",
+      "mapx": 37.5530750097664,
+      "mapy": 126.933124930392,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 신촌숲길점(창전동)",
+        "간판, 수납보관함, 여닫이문, 상품배너, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560261_0_su_5_파리바게뜨 신촌숲길점_1_002.png",
+      "mapx": 37.5530750097664,
+      "mapy": 126.933124930392,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 신촌숲길점(창전동)",
+        "간판, 건물, 여닫이문, 수납보관함, 거울, 주차방지대, 유리창"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560261_0_su_5_파리바게뜨 신촌숲길점_1_003.png",
+      "mapx": 37.5530750097664,
+      "mapy": 126.933124930392,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 신촌숲길점(창전동)",
+        "진열대, 빵, 냉장고, 샐러드, 안내표, 가격표, 술"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560261_0_su_5_파리바게뜨 신촌숲길점_1_004.png",
+      "mapx": 37.5530750097664,
+      "mapy": 126.933124930392,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 신촌숲길점(창전동)",
+        "케이크, 메뉴표, 냉장고"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560261_0_su_5_파리바게뜨 신촌숲길점_1_005.png",
+      "mapx": 37.5530750097664,
+      "mapy": 126.933124930392,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 신촌숲길점(창전동)",
+        "포크, 샐러드, 머그잔, 쟁반, 휴지"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 마포구 서강로 111",
+          "answer_wordNum": 4,
+          "fact": [
+            "파리바게뜨 신촌숲길점,주소,서울 마포구 서강로 111"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,영업시간,07:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "서강대역 2번 출구, 신협, 독점포차",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 신촌숲길점,인접,서강대역 2번 출구, 신협, 독점포차"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-332-4820",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,연락처,02-332-4820"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "꽈배기도넛, 미니찹쌀도넛",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 신촌숲길점,메뉴,꽈배기도넛, 미니찹쌀도넛"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-332-4820",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,연락처,02-332-4820"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,영업시간,07:00~22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "서강대역 2번 출구, 신협, 독점포차",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 신촌숲길점,인접,서강대역 2번 출구, 신협, 독점포차"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 서강로 111",
+          "answer_wordNum": 4,
+          "fact": [
+            "파리바게뜨 신촌숲길점,주소,서울 마포구 서강로 111"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-332-4820",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,연락처,02-332-4820"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 서강로 111",
+          "answer_wordNum": 4,
+          "fact": [
+            "파리바게뜨 신촌숲길점,주소,서울 마포구 서강로 111"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "꽈배기도넛, 미니찹쌀도넛",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 신촌숲길점,메뉴,꽈배기도넛, 미니찹쌀도넛"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "서강대역 2번 출구, 신협, 독점포차",
+          "answer_wordNum": 5,
+          "fact": [
+            "파리바게뜨 신촌숲길점,인접,서강대역 2번 출구, 신협, 독점포차"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "꽈배기도넛, 미니찹쌀도넛",
+          "answer_wordNum": 2,
+          "fact": [
+            "파리바게뜨 신촌숲길점,메뉴,꽈배기도넛, 미니찹쌀도넛"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 신촌숲길점,영업시간,07:00~22:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558418",
+    "travelType": "음식점",
+    "place": "폴바셋 현대백화점 천호점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558418_0_su_5_폴바셋 현대백화점 천호점_1_001.png",
+      "mapx": 37.5389750482546,
+      "mapy": 127.124440988259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 현대백화점 천호점(천호동)",
+        "미닫이문, 스탠드 배너, 등받이 의자, 테이블 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558418_0_su_5_폴바셋 현대백화점 천호점_1_002.png",
+      "mapx": 37.5389750482546,
+      "mapy": 127.124440988259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 현대백화점 천호점(천호동)",
+        "원형 테이블, 등받이 의자, 스탠드 배너, 간판, 조명 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558418_0_su_5_폴바셋 현대백화점 천호점_1_003.png",
+      "mapx": 37.5389750482546,
+      "mapy": 127.124440988259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 현대백화점 천호점(천호동)",
+        "등받이 의자, 둥근 테이블, 에어컨 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558418_0_su_5_폴바셋 현대백화점 천호점_1_004.png",
+      "mapx": 37.5389750482546,
+      "mapy": 127.124440988259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 현대백화점 천호점(천호동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558418_0_su_5_폴바셋 현대백화점 천호점_1_005.png",
+      "mapx": 37.5389750482546,
+      "mapy": 127.124440988259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "폴바셋 현대백화점 천호점(천호동)",
+        "음료, 아이스크림, 쟁반 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 20:00/20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 현대백화점 천호점,영업시간,10:30 - 20:00/20:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2225-8952",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,연락처,02-2225-8952"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "아이스 카페라떼, 아이스 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "폴바셋 현대백화점 천호점,메뉴,아이스 카페라떼, 아이스 아메리카노"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강동구 천호대로 1005 현대백화점 지하 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "폴바셋 현대백화점 천호점,주소,서울 강동구 천호대로 1005 현대백화점 지하 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2225-8952",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,연락처,02-2225-8952"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천호역 4번 출구, 앤티앤스, 공차",
+          "answer_wordNum": 5,
+          "fact": [
+            "폴바셋 현대백화점 천호점,인접,천호역 4번 출구, 앤티앤스, 공차"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 20:00/20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 현대백화점 천호점,영업시간,10:30 - 20:00/20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "아이스 카페라떼, 아이스 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "폴바셋 현대백화점 천호점,메뉴,아이스 카페라떼, 아이스 아메리카노"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 20:00/20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 현대백화점 천호점,영업시간,10:30 - 20:00/20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 20:00/20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "폴바셋 현대백화점 천호점,영업시간,10:30 - 20:00/20:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천호역 4번 출구, 앤티앤스, 공차",
+          "answer_wordNum": 5,
+          "fact": [
+            "폴바셋 현대백화점 천호점,인접,천호역 4번 출구, 앤티앤스, 공차"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강동구 천호대로 1005 현대백화점 지하 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "폴바셋 현대백화점 천호점,주소,서울 강동구 천호대로 1005 현대백화점 지하 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "폴바셋 현대백화점 천호점,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594416",
+    "travelType": "음식점",
+    "place": "독",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594416_0_su_5_독_2_001.png",
+      "mapx": 37.5853046631316,
+      "mapy": 127.051485112785,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "독(전농동)",
+        "간판, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594416_0_su_5_독_2_002.png",
+      "mapx": 37.5853046631316,
+      "mapy": 127.051485112785,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "독(전농동)",
+        "간판, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594416_0_su_5_독_2_003.png",
+      "mapx": 37.5853046631316,
+      "mapy": 127.051485112785,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "독(전농동)",
+        "테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594416_0_su_5_독_2_004.png",
+      "mapx": 37.5853046631316,
+      "mapy": 127.051485112785,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "독(전농동)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594416_0_su_5_독_2_005.png",
+      "mapx": 37.5853046631316,
+      "mapy": 127.051485112785,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "독(전농동)",
+        "고기구이"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-957-1116",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,연락처,02-957-1116"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,영업시간,16:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "한식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,이다,한식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-957-1116",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,연락처,02-957-1116"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "독,인접,청량리역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,영업시간,16:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이곳은 어디 인근인가요?",
+          "question_wordNum": 3,
+          "answer": "청량리역",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,인근,청량리역"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "독,인접,청량리역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,영업시간,16:00-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "조폭불고기, 김치냉국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "독,메뉴,조폭불고기, 김치냉국수"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하나요?",
+          "question_wordNum": 3,
+          "answer": "불고기",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,전문,불고기"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,영업시간,16:00-24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "조폭불고기, 김치냉국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "독,메뉴,조폭불고기, 김치냉국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 전문으로 하나요?",
+          "question_wordNum": 3,
+          "answer": "불고기",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,전문,불고기"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,영업시간,16:00-24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "독,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "조폭불고기, 김치냉국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "독,메뉴,조폭불고기, 김치냉국수"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 왕산로 278-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "독,주소,서울 동대문구 왕산로 278-1"
+          ]
+        }
+      ]
+    }
+  ]
+}

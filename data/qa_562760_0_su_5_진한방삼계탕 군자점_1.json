@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562760",
+    "travelType": "음식점",
+    "place": "진한방삼계탕 군자점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562760_0_su_5_진한방삼계탕 군자점_1_001.png",
+      "mapx": 37.5526176189391,
+      "mapy": 127.077417150709,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "진한방삼계탕 군자점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562760_0_su_5_진한방삼계탕 군자점_1_002.png",
+      "mapx": 37.5526176189391,
+      "mapy": 127.077417150709,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "진한방삼계탕 군자점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562760_0_su_5_진한방삼계탕 군자점_1_003.png",
+      "mapx": 37.5526176189391,
+      "mapy": 127.077417150709,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "진한방삼계탕 군자점(광진구)",
+        "사각 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562760_0_su_5_진한방삼계탕 군자점_1_004.png",
+      "mapx": 37.5526176189391,
+      "mapy": 127.077417150709,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "진한방삼계탕 군자점(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562760_0_su_5_진한방삼계탕 군자점_1_005.png",
+      "mapx": 37.5526176189391,
+      "mapy": 127.077417150709,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "진한방삼계탕 군자점(광진구)",
+        "삼계탕 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "진한방삼계탕 군자점,영업시간,10:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어린이대공원역 1번 출구, GS칼텍스, 삼성디지털프라자광진점",
+          "answer_wordNum": 5,
+          "fact": [
+            "진한방삼계탕 군자점,인접,어린이대공원역 1번 출구, GS칼텍스, 삼성디지털프라자광진점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "진한방삼계탕 군자점,영업시간,10:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "어린이대공원역 1번 출구, GS칼텍스, 삼성디지털프라자광진점",
+          "answer_wordNum": 5,
+          "fact": [
+            "진한방삼계탕 군자점,인접,어린이대공원역 1번 출구, GS칼텍스, 삼성디지털프라자광진점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-455-6020",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,연락처,02-455-6020"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 254 화인로즈",
+          "answer_wordNum": 5,
+          "fact": [
+            "진한방삼계탕 군자점,주소,서울 광진구 능동로 254 화인로즈"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-455-6020",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,연락처,02-455-6020"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "옻전복삼계탕, 들깨삼계탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "진한방삼계탕 군자점,메뉴,옻전복삼계탕, 들깨삼계탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어린이대공원역 1번 출구, GS칼텍스, 삼성디지털프라자광진점",
+          "answer_wordNum": 5,
+          "fact": [
+            "진한방삼계탕 군자점,인접,어린이대공원역 1번 출구, GS칼텍스, 삼성디지털프라자광진점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "진한방삼계탕 군자점,영업시간,10:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 254 화인로즈",
+          "answer_wordNum": 5,
+          "fact": [
+            "진한방삼계탕 군자점,주소,서울 광진구 능동로 254 화인로즈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-455-6020",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,연락처,02-455-6020"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-455-6020",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,연락처,02-455-6020"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "진한방삼계탕 군자점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "진한방삼계탕 군자점,영업시간,10:30 - 22:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562024",
+    "travelType": "음식점",
+    "place": "장수순대국",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562024_0_su_5_장수순대국_9_001.png",
+      "mapx": 37.5691086312134,
+      "mapy": 126.812989858901,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장수순대국(방화동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562024_0_su_5_장수순대국_9_002.png",
+      "mapx": 37.5691086312134,
+      "mapy": 126.812989858901,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장수순대국(방화동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562024_0_su_5_장수순대국_9_003.png",
+      "mapx": 37.5691086312134,
+      "mapy": 126.812989858901,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장수순대국(방화동)",
+        "테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562024_0_su_5_장수순대국_9_004.png",
+      "mapx": 37.5691086312134,
+      "mapy": 126.812989858901,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장수순대국(방화동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562024_0_su_5_장수순대국_9_005.png",
+      "mapx": 37.5691086312134,
+      "mapy": 126.812989858901,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장수순대국(방화동)",
+        "순대국"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "순대국, 얼큰순대국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장수순대국,메뉴,순대국, 얼큰순대국"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1324-2188",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,연락처,0507-1324-2188"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 월요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "장수순대국,휴무일,둘째, 넷째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장수순대국,영업시간,09:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신방화역 1번 출구, 창, 김준호의대단한갈비 서울방화점",
+          "answer_wordNum": 6,
+          "fact": [
+            "장수순대국,인접,신방화역 1번 출구, 창, 김준호의대단한갈비 서울방화점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "순대국, 얼큰순대국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장수순대국,메뉴,순대국, 얼큰순대국"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장수순대국,영업시간,09:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1324-2188",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,연락처,0507-1324-2188"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 월요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "장수순대국,휴무일,둘째, 넷째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신방화역 1번 출구, 창, 김준호의대단한갈비 서울방화점",
+          "answer_wordNum": 6,
+          "fact": [
+            "장수순대국,인접,신방화역 1번 출구, 창, 김준호의대단한갈비 서울방화점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1324-2188",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,연락처,0507-1324-2188"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "순댓국",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,제공,순댓국"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "순대국, 얼큰순대국",
+          "answer_wordNum": 2,
+          "fact": [
+            "장수순대국,메뉴,순대국, 얼큰순대국"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 방화동로 98",
+          "answer_wordNum": 4,
+          "fact": [
+            "장수순대국,주소,서울 강서구 방화동로 98"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장수순대국,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 방화동로 98",
+          "answer_wordNum": 4,
+          "fact": [
+            "장수순대국,주소,서울 강서구 방화동로 98"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 제공하나요?",
+          "question_wordNum": 4,
+          "answer": "순댓국",
+          "answer_wordNum": 1,
+          "fact": [
+            "장수순대국,제공,순댓국"
+          ]
+        }
+      ]
+    }
+  ]
+}

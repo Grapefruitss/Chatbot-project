@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559924",
+    "travelType": "음식점",
+    "place": "와플대학 신창 캠퍼스",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559924_0_su_5_와플대학 신창 캠퍼스_1_001.png",
+      "mapx": 37.6400993292679,
+      "mapy": 127.039722310239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와플대학 신창 캠퍼스(도봉구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559924_0_su_5_와플대학 신창 캠퍼스_1_002.png",
+      "mapx": 37.6400993292679,
+      "mapy": 127.039722310239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와플대학 신창 캠퍼스(도봉구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559924_0_su_5_와플대학 신창 캠퍼스_1_003.png",
+      "mapx": 37.6400993292679,
+      "mapy": 127.039722310239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와플대학 신창 캠퍼스(도봉구)",
+        "등받이 의자, 사각 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559924_0_su_5_와플대학 신창 캠퍼스_1_004.png",
+      "mapx": 37.6400993292679,
+      "mapy": 127.039722310239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와플대학 신창 캠퍼스(도봉구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559924_0_su_5_와플대학 신창 캠퍼스_1_005.png",
+      "mapx": 37.6400993292679,
+      "mapy": 127.039722310239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와플대학 신창 캠퍼스(도봉구)",
+        "와플 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2088-8913",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,연락처,02-2088-8913"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "파리바게뜨, 낙지애가",
+          "answer_wordNum": 2,
+          "fact": [
+            "와플대학 신창 캠퍼스,인접,파리바게뜨, 낙지애가"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와플대학 신창 캠퍼스,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "애플시나몬와플, 오레오누텔라와플",
+          "answer_wordNum": 2,
+          "fact": [
+            "와플대학 신창 캠퍼스,메뉴,애플시나몬와플, 오레오누텔라와플"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "파리바게뜨, 낙지애가",
+          "answer_wordNum": 2,
+          "fact": [
+            "와플대학 신창 캠퍼스,인접,파리바게뜨, 낙지애가"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 도봉구 덕릉로 254",
+          "answer_wordNum": 4,
+          "fact": [
+            "와플대학 신창 캠퍼스,주소,서울 도봉구 덕릉로 254"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와플대학 신창 캠퍼스,영업시간,11:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와플대학 신창 캠퍼스,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 도봉구 덕릉로 254",
+          "answer_wordNum": 4,
+          "fact": [
+            "와플대학 신창 캠퍼스,주소,서울 도봉구 덕릉로 254"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "애플시나몬와플, 오레오누텔라와플",
+          "answer_wordNum": 2,
+          "fact": [
+            "와플대학 신창 캠퍼스,메뉴,애플시나몬와플, 오레오누텔라와플"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2088-8913",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,연락처,02-2088-8913"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와플대학 신창 캠퍼스,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "애플시나몬와플, 오레오누텔라와플",
+          "answer_wordNum": 2,
+          "fact": [
+            "와플대학 신창 캠퍼스,메뉴,애플시나몬와플, 오레오누텔라와플"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와플대학 신창 캠퍼스,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "파리바게뜨, 낙지애가",
+          "answer_wordNum": 2,
+          "fact": [
+            "와플대학 신창 캠퍼스,인접,파리바게뜨, 낙지애가"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와플대학 신창 캠퍼스,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

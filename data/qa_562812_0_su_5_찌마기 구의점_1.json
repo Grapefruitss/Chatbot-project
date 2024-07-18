@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562812",
+    "travelType": "음식점",
+    "place": "찌마기 구의점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562812_0_su_5_찌마기 구의점_1_001.png",
+      "mapx": 37.5394580954855,
+      "mapy": 127.089267911038,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "찌마기 구의점(광진구)",
+        "간판, 맥주상자, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562812_0_su_5_찌마기 구의점_1_002.png",
+      "mapx": 37.5394580954855,
+      "mapy": 127.089267911038,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "찌마기 구의점(광진구)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562812_0_su_5_찌마기 구의점_1_003.png",
+      "mapx": 37.5394580954855,
+      "mapy": 127.089267911038,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "찌마기 구의점(광진구)",
+        "등받이 의자, 사각 테이블, 냉장고, 정수기, 선풍기, 소스통"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562812_0_su_5_찌마기 구의점_1_004.png",
+      "mapx": 37.5394580954855,
+      "mapy": 127.089267911038,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "찌마기 구의점(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562812_0_su_5_찌마기 구의점_1_005.png",
+      "mapx": 37.5394580954855,
+      "mapy": 127.089267911038,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "찌마기 구의점(광진구)",
+        "조개찜, 종이컵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 2번 출구, 새마을금고, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,인접,구의역 2번 출구, 새마을금고, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "찌마기 구의점,휴무일,둘째, 넷째 수요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1378-9922",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,연락처,0507-1378-9922"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/15:00-24:00/01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,영업시간,12:30/15:00-24:00/01:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 2번 출구, 새마을금고, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,인접,구의역 2번 출구, 새마을금고, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "찌마기 구의점,휴무일,둘째, 넷째 수요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의로 17 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,주소,서울 광진구 구의로 17 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "찌마기 구의점,휴무일,둘째, 넷째 수요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:30/15:00-24:00/01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,영업시간,12:30/15:00-24:00/01:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1378-9922",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,연락처,0507-1378-9922"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "조개찜, 칼국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "찌마기 구의점,메뉴,조개찜, 칼국수"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 2번 출구, 새마을금고, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,인접,구의역 2번 출구, 새마을금고, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "찌마기 구의점,휴무일,둘째, 넷째 수요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의로 17 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,주소,서울 광진구 구의로 17 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/15:00-24:00/01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,영업시간,12:30/15:00-24:00/01:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 2번 출구, 새마을금고, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,인접,구의역 2번 출구, 새마을금고, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의로 17 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "찌마기 구의점,주소,서울 광진구 구의로 17 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 수요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "찌마기 구의점,휴무일,둘째, 넷째 수요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:30/15:00-24:00/01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "찌마기 구의점,영업시간,12:30/15:00-24:00/01:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

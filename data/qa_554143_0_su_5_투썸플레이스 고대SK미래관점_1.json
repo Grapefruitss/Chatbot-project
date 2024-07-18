@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "554143",
+    "travelType": "음식점",
+    "place": "투썸플레이스 고대SK미래관점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "554143_0_su_5_투썸플레이스 고대SK미래관점_1_001.png",
+      "mapx": 37.5887034223667,
+      "mapy": 127.031698331241,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 고대SK미래관점(안암동5가)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "554143_0_su_5_투썸플레이스 고대SK미래관점_1_002.png",
+      "mapx": 37.5887034223667,
+      "mapy": 127.031698331241,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 고대SK미래관점(안암동5가)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "554143_0_su_5_투썸플레이스 고대SK미래관점_1_003.png",
+      "mapx": 37.5887034223667,
+      "mapy": 127.031698331241,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 고대SK미래관점(안암동5가)",
+        "테이블, 벤치의자, 식물, 에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "554143_0_su_5_투썸플레이스 고대SK미래관점_1_004.png",
+      "mapx": 37.5887034223667,
+      "mapy": 127.031698331241,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 고대SK미래관점(안암동5가)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "554143_0_su_5_투썸플레이스 고대SK미래관점_1_005.png",
+      "mapx": 37.5887034223667,
+      "mapy": 127.031698331241,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 고대SK미래관점(안암동5가)",
+        "키위 바나나 주스"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 17:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,영업시간,09:00 - 17:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성북구 안암로 145 고려대학교 SK미래관 지하1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주소,서울 성북구 안암로 145 고려대학교 SK미래관 지하1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳의 인근에 무엇이 있나요?",
+          "question_wordNum": 5,
+          "answer": "고려대역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,인근,고려대역 1번 출구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 인근에 무엇이 있나요?",
+          "question_wordNum": 5,
+          "answer": "고려대역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,인근,고려대역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 17:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,영업시간,09:00 - 17:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성북구 안암로 145 고려대학교 SK미래관 지하1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주소,서울 성북구 안암로 145 고려대학교 SK미래관 지하1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-927-2375",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,연락처,02-927-2375"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-927-2375",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,연락처,02-927-2375"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성북구 안암로 145 고려대학교 SK미래관 지하1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주소,서울 성북구 안암로 145 고려대학교 SK미래관 지하1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 17:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,영업시간,09:00 - 17:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 17:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,영업시간,09:00 - 17:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "09:00 - 17:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,영업시간,09:00 - 17:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 고대SK미래관점,휴무일,매주 토요일, 일요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

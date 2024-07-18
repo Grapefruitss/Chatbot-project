@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "557950",
+    "travelType": "음식점",
+    "place": "탐앤탐스 일원점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "557950_0_su_5_탐앤탐스 일원점_1_001.png",
+      "mapx": 37.4937353718789,
+      "mapy": 127.086549634902,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 일원점(일원동)",
+        "건물, 간판, 나무"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "557950_0_su_5_탐앤탐스 일원점_1_002.png",
+      "mapx": 37.4937353718789,
+      "mapy": 127.086549634902,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 일원점(일원동)",
+        "건물, 간판, 어닝"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "557950_0_su_5_탐앤탐스 일원점_1_003.png",
+      "mapx": 37.4937353718789,
+      "mapy": 127.086549634902,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 일원점(일원동)",
+        "테이블, 등받이의자, 모니터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "557950_0_su_5_탐앤탐스 일원점_1_004.png",
+      "mapx": 37.4937353718789,
+      "mapy": 127.086549634902,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 일원점(일원동)",
+        "메뉴판, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "557950_0_su_5_탐앤탐스 일원점_1_005.png",
+      "mapx": 37.4937353718789,
+      "mapy": 127.086549634902,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 일원점(일원동)",
+        "파스타, 음료, 노트북"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2226-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,연락처,02-2226-4565"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "리얼 단호박 라떼, 카페 아메리카노",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 일원점,메뉴,리얼 단호박 라떼, 카페 아메리카노"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 개포로140길 30",
+          "answer_wordNum": 4,
+          "fact": [
+            "탐앤탐스 일원점,주소,서울 강남구 개포로140길 30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 일원점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "대청역 3번 출구, 강남유명요양원, CU",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 일원점,인접,대청역 3번 출구, 강남유명요양원, CU"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 개포로140길 30",
+          "answer_wordNum": 4,
+          "fact": [
+            "탐앤탐스 일원점,주소,서울 강남구 개포로140길 30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "리얼 단호박 라떼, 카페 아메리카노",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 일원점,메뉴,리얼 단호박 라떼, 카페 아메리카노"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "네이버 스마트 주문",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 일원점,가능,네이버 스마트 주문"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2226-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,연락처,02-2226-4565"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "리얼 단호박 라떼, 카페 아메리카노",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 일원점,메뉴,리얼 단호박 라떼, 카페 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 일원점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 일원점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 일원점,영업시간,07:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "네이버 스마트 주문",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 일원점,가능,네이버 스마트 주문"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "대청역 3번 출구, 강남유명요양원, CU",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 일원점,인접,대청역 3번 출구, 강남유명요양원, CU"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 개포로140길 30",
+          "answer_wordNum": 4,
+          "fact": [
+            "탐앤탐스 일원점,주소,서울 강남구 개포로140길 30"
+          ]
+        }
+      ]
+    }
+  ]
+}

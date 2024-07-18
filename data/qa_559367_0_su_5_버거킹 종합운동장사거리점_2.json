@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559367",
+    "travelType": "음식점",
+    "place": "버거킹 종합운동장사거리점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559367_0_su_5_버거킹 종합운동장사거리점_2_001.png",
+      "mapx": 37.5115603565131,
+      "mapy": 127.079181383259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 종합운동장사거리점(송파구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559367_0_su_5_버거킹 종합운동장사거리점_2_002.png",
+      "mapx": 37.5115603565131,
+      "mapy": 127.079181383259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 종합운동장사거리점(송파구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559367_0_su_5_버거킹 종합운동장사거리점_2_003.png",
+      "mapx": 37.5115603565131,
+      "mapy": 127.079181383259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 종합운동장사거리점(송파구)",
+        "등받이의자 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559367_0_su_5_버거킹 종합운동장사거리점_2_004.png",
+      "mapx": 37.5115603565131,
+      "mapy": 127.079181383259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 종합운동장사거리점(송파구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559367_0_su_5_버거킹 종합운동장사거리점_2_005.png",
+      "mapx": 37.5115603565131,
+      "mapy": 127.079181383259,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거킹 종합운동장사거리점(송파구)",
+        "음식 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00/10:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,영업시간,09:00/10:00-23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "몬스터와퍼, 콰트로치즈와퍼",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거킹 종합운동장사거리점,메뉴,몬스터와퍼, 콰트로치즈와퍼"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "몬스터와퍼, 콰트로치즈와퍼",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거킹 종합운동장사거리점,메뉴,몬스터와퍼, 콰트로치즈와퍼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-7462-6856",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,연락처,070-7462-6856"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "종합운동장역 9번 출구, 다이소, 이디야커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 종합운동장사거리점,인접,종합운동장역 9번 출구, 다이소, 이디야커피"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "종합운동장역 9번 출구, 다이소, 이디야커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 종합운동장사거리점,인접,종합운동장역 9번 출구, 다이소, 이디야커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-7462-6856",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,연락처,070-7462-6856"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "몬스터와퍼, 콰트로치즈와퍼",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거킹 종합운동장사거리점,메뉴,몬스터와퍼, 콰트로치즈와퍼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-7462-6856",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,연락처,070-7462-6856"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "종합운동장역 9번 출구, 다이소, 이디야커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 종합운동장사거리점,인접,종합운동장역 9번 출구, 다이소, 이디야커피"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "종합운동장역 9번 출구, 다이소, 이디야커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거킹 종합운동장사거리점,인접,종합운동장역 9번 출구, 다이소, 이디야커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-7462-6856",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거킹 종합운동장사거리점,연락처,070-7462-6856"
+          ]
+        }
+      ]
+    }
+  ]
+}

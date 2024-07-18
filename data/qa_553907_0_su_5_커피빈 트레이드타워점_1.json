@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "553907",
+    "travelType": "음식점",
+    "place": "커피빈 트레이드타워점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "553907_0_su_5_커피빈 트레이드타워점_1_001.png",
+      "mapx": 37.510356849269,
+      "mapy": 127.061023782931,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 트레이드타워점(삼성동)",
+        "간판, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "553907_0_su_5_커피빈 트레이드타워점_1_002.png",
+      "mapx": 37.510356849269,
+      "mapy": 127.061023782931,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 트레이드타워점(삼성동)",
+        "간판, 유리창, 등받이의자, 원형테이블"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "553907_0_su_5_커피빈 트레이드타워점_1_003.png",
+      "mapx": 37.510356849269,
+      "mapy": 127.061023782931,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 트레이드타워점(삼성동)",
+        "등받이의자, 원형테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "553907_0_su_5_커피빈 트레이드타워점_1_004.png",
+      "mapx": 37.510356849269,
+      "mapy": 127.061023782931,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 트레이드타워점(삼성동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "553907_0_su_5_커피빈 트레이드타워점_1_005.png",
+      "mapx": 37.510356849269,
+      "mapy": 127.061023782931,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 트레이드타워점(삼성동)",
+        "조각케이크, 포크, 음료"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00/10:00-19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,영업시간,07:00/10:00-19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼성역 6번 출구, 이마트24, 카카오프렌즈샵, 스튜디오 톰보이",
+          "answer_wordNum": 7,
+          "fact": [
+            "커피빈 트레이드타워점,인접,삼성역 6번 출구, 이마트24, 카카오프렌즈샵, 스튜디오 톰보이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6002-6470",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,연락처,02-6002-6470"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6002-6470",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,연락처,02-6002-6470"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "애플망고 요거트 아이스 블렌디드, 비프 필리치즈 샌드위치",
+          "answer_wordNum": 7,
+          "fact": [
+            "커피빈 트레이드타워점,메뉴,애플망고 요거트 아이스 블렌디드, 비프 필리치즈 샌드위치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00/10:00-19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,영업시간,07:00/10:00-19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 영동대로 511 트레이드 타워 지하 1층",
+          "answer_wordNum": 8,
+          "fact": [
+            "커피빈 트레이드타워점,주소,서울 강남구 영동대로 511 트레이드 타워 지하 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6002-6470",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,연락처,02-6002-6470"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "삼성역 6번 출구, 이마트24, 카카오프렌즈샵, 스튜디오 톰보이",
+          "answer_wordNum": 7,
+          "fact": [
+            "커피빈 트레이드타워점,인접,삼성역 6번 출구, 이마트24, 카카오프렌즈샵, 스튜디오 톰보이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00/10:00-19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,영업시간,07:00/10:00-19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 영동대로 511 트레이드 타워 지하 1층",
+          "answer_wordNum": 8,
+          "fact": [
+            "커피빈 트레이드타워점,주소,서울 강남구 영동대로 511 트레이드 타워 지하 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00/10:00-19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,영업시간,07:00/10:00-19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "애플망고 요거트 아이스 블렌디드, 비프 필리치즈 샌드위치",
+          "answer_wordNum": 7,
+          "fact": [
+            "커피빈 트레이드타워점,메뉴,애플망고 요거트 아이스 블렌디드, 비프 필리치즈 샌드위치"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 영동대로 511 트레이드 타워 지하 1층",
+          "answer_wordNum": 8,
+          "fact": [
+            "커피빈 트레이드타워점,주소,서울 강남구 영동대로 511 트레이드 타워 지하 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00/10:00-19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 트레이드타워점,영업시간,07:00/10:00-19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "애플망고 요거트 아이스 블렌디드, 비프 필리치즈 샌드위치",
+          "answer_wordNum": 7,
+          "fact": [
+            "커피빈 트레이드타워점,메뉴,애플망고 요거트 아이스 블렌디드, 비프 필리치즈 샌드위치"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 영동대로 511 트레이드 타워 지하 1층",
+          "answer_wordNum": 8,
+          "fact": [
+            "커피빈 트레이드타워점,주소,서울 강남구 영동대로 511 트레이드 타워 지하 1층"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564619",
+    "travelType": "음식점",
+    "place": "조선화로집 금천시흥점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564619_0_su_5_조선화로집 금천시흥점_1_001.png",
+      "mapx": 37.4488042970905,
+      "mapy": 126.902415519167,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "조선화로집 금천시흥점(시흥동)",
+        "간판, 배너, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564619_0_su_5_조선화로집 금천시흥점_1_002.png",
+      "mapx": 37.4488042970905,
+      "mapy": 126.902415519167,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "조선화로집 금천시흥점(시흥동)",
+        "건물, 간판, 나무"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564619_0_su_5_조선화로집 금천시흥점_1_003.png",
+      "mapx": 37.4488042970905,
+      "mapy": 126.902415519167,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "조선화로집 금천시흥점(시흥동)",
+        "테이블, 등받이의자, 물병"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564619_0_su_5_조선화로집 금천시흥점_1_004.png",
+      "mapx": 37.4488042970905,
+      "mapy": 126.902415519167,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "조선화로집 금천시흥점(시흥동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564619_0_su_5_조선화로집 금천시흥점_1_005.png",
+      "mapx": 37.4488042970905,
+      "mapy": 126.902415519167,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "조선화로집 금천시흥점(시흥동)",
+        "석쇠판, 갈비살"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 167",
+          "answer_wordNum": 4,
+          "fact": [
+            "조선화로집 금천시흥점,주소,서울 금천구 시흥대로 167"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "글라스타안경 시흥대로점, 부영전국화물",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,인접,글라스타안경 시흥대로점, 부영전국화물"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "글라스타안경 시흥대로점, 부영전국화물",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,인접,글라스타안경 시흥대로점, 부영전국화물"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 167",
+          "answer_wordNum": 4,
+          "fact": [
+            "조선화로집 금천시흥점,주소,서울 금천구 시흥대로 167"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,영업시간,10:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 167",
+          "answer_wordNum": 4,
+          "fact": [
+            "조선화로집 금천시흥점,주소,서울 금천구 시흥대로 167"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-805-7262",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,연락처,02-805-7262"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "글라스타안경 시흥대로점, 부영전국화물",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,인접,글라스타안경 시흥대로점, 부영전국화물"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-805-7262",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,연락처,02-805-7262"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황제갈비살, 와규등심",
+          "answer_wordNum": 2,
+          "fact": [
+            "조선화로집 금천시흥점,메뉴,황제갈비살, 와규등심"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "조선화로집 금천시흥점,영업시간,10:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "황제갈비살, 와규등심",
+          "answer_wordNum": 2,
+          "fact": [
+            "조선화로집 금천시흥점,메뉴,황제갈비살, 와규등심"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 167",
+          "answer_wordNum": 4,
+          "fact": [
+            "조선화로집 금천시흥점,주소,서울 금천구 시흥대로 167"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-805-7262",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,연락처,02-805-7262"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "조선화로집 금천시흥점,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

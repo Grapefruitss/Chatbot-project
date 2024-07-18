@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564305",
+    "travelType": "음식점",
+    "place": "스시쥬베이",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564305_0_su_5_스시쥬베이_1_001.png",
+      "mapx": 37.4783754559067,
+      "mapy": 126.890452959941,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시쥬베이(가산동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564305_0_su_5_스시쥬베이_1_002.png",
+      "mapx": 37.4783754559067,
+      "mapy": 126.890452959941,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시쥬베이(가산동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564305_0_su_5_스시쥬베이_1_003.png",
+      "mapx": 37.4783754559067,
+      "mapy": 126.890452959941,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시쥬베이(가산동)",
+        "테이블, 등받이의자, 물컵, 냅킨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564305_0_su_5_스시쥬베이_1_004.png",
+      "mapx": 37.4783754559067,
+      "mapy": 126.890452959941,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시쥬베이(가산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564305_0_su_5_스시쥬베이_1_005.png",
+      "mapx": 37.4783754559067,
+      "mapy": 126.890452959941,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시쥬베이(가산동)",
+        "초밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-851-2477",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,연락처,02-851-2477"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "초밥, 우동",
+          "answer_wordNum": 2,
+          "fact": [
+            "스시쥬베이,메뉴,초밥, 우동"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:10/11:30 - 22:30/22:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "스시쥬베이,영업시간,11:10/11:30 - 22:30/22:40"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 가산로 147",
+          "answer_wordNum": 4,
+          "fact": [
+            "스시쥬베이,주소,서울 금천구 가산로 147"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "가산디지털단지역 3번 출구, 가산현대아울렛, 몽구비어, 일사칠",
+          "answer_wordNum": 6,
+          "fact": [
+            "스시쥬베이,인접,가산디지털단지역 3번 출구, 가산현대아울렛, 몽구비어, 일사칠"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:10/11:30 - 22:30/22:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "스시쥬베이,영업시간,11:10/11:30 - 22:30/22:40"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-851-2477",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,연락처,02-851-2477"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:10/11:30 - 22:30/22:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "스시쥬베이,영업시간,11:10/11:30 - 22:30/22:40"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 가산로 147",
+          "answer_wordNum": 4,
+          "fact": [
+            "스시쥬베이,주소,서울 금천구 가산로 147"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가산디지털단지역 3번 출구, 가산현대아울렛, 몽구비어, 일사칠",
+          "answer_wordNum": 6,
+          "fact": [
+            "스시쥬베이,인접,가산디지털단지역 3번 출구, 가산현대아울렛, 몽구비어, 일사칠"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:10/11:30 - 22:30/22:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "스시쥬베이,영업시간,11:10/11:30 - 22:30/22:40"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:10/11:30 - 22:30/22:40",
+          "answer_wordNum": 3,
+          "fact": [
+            "스시쥬베이,영업시간,11:10/11:30 - 22:30/22:40"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가산디지털단지역 3번 출구, 가산현대아울렛, 몽구비어, 일사칠",
+          "answer_wordNum": 6,
+          "fact": [
+            "스시쥬베이,인접,가산디지털단지역 3번 출구, 가산현대아울렛, 몽구비어, 일사칠"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 가산로 147",
+          "answer_wordNum": 4,
+          "fact": [
+            "스시쥬베이,주소,서울 금천구 가산로 147"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시쥬베이,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

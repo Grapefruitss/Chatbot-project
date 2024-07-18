@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "553624",
+    "travelType": "음식점",
+    "place": "스타벅스 을지로내외빌딩R점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "553624_0_su_5_스타벅스 을지로내외빌딩R점_1_001.png",
+      "mapx": 37.5664928978912,
+      "mapy": 126.983681840765,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스타벅스 을지로내외빌딩R점(을지로2가)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "553624_0_su_5_스타벅스 을지로내외빌딩R점_1_002.png",
+      "mapx": 37.5664928978912,
+      "mapy": 126.983681840765,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스타벅스 을지로내외빌딩R점(을지로2가)",
+        "회전문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "553624_0_su_5_스타벅스 을지로내외빌딩R점_1_003.png",
+      "mapx": 37.5664928978912,
+      "mapy": 126.983681840765,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스타벅스 을지로내외빌딩R점(을지로2가)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "553624_0_su_5_스타벅스 을지로내외빌딩R점_1_004.png",
+      "mapx": 37.5664928978912,
+      "mapy": 126.983681840765,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스타벅스 을지로내외빌딩R점(을지로2가)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "553624_0_su_5_스타벅스 을지로내외빌딩R점_1_005.png",
+      "mapx": 37.5664928978912,
+      "mapy": 126.983681840765,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스타벅스 을지로내외빌딩R점(을지로2가)",
+        "샌드위치, 음료"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "을지로입구역 4번 출구, KB국민은행, 하나은행",
+          "answer_wordNum": 5,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,인접,을지로입구역 4번 출구, KB국민은행, 하나은행"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "카페 아메리카노, 카페 라떼",
+          "answer_wordNum": 4,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,메뉴,카페 아메리카노, 카페 라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1522-3232",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,연락처,1522-3232"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "을지로입구역 4번 출구, KB국민은행, 하나은행",
+          "answer_wordNum": 5,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,인접,을지로입구역 4번 출구, KB국민은행, 하나은행"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이곳에서 무엇이 가능한가요?",
+          "question_wordNum": 3,
+          "answer": "주차",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,가능,주차"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00/09:00 - 17:00/20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,영업시간,07:00/09:00 - 17:00/20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 중구 을지로 51",
+          "answer_wordNum": 4,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,주소,서울 중구 을지로 51"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "1522-3232",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,연락처,1522-3232"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "을지로입구역 4번 출구, KB국민은행, 하나은행",
+          "answer_wordNum": 5,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,인접,을지로입구역 4번 출구, KB국민은행, 하나은행"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00/09:00 - 17:00/20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,영업시간,07:00/09:00 - 17:00/20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "카페 아메리카노, 카페 라떼",
+          "answer_wordNum": 4,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,메뉴,카페 아메리카노, 카페 라떼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00/09:00 - 17:00/20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,영업시간,07:00/09:00 - 17:00/20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "을지로입구역 4번 출구, KB국민은행, 하나은행",
+          "answer_wordNum": 5,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,인접,을지로입구역 4번 출구, KB국민은행, 하나은행"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "1522-3232",
+          "answer_wordNum": 1,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,연락처,1522-3232"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 중구 을지로 51",
+          "answer_wordNum": 4,
+          "fact": [
+            "스타벅스 을지로내외빌딩R점,주소,서울 중구 을지로 51"
+          ]
+        }
+      ]
+    }
+  ]
+}

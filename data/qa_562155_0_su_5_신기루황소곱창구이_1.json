@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562155",
+    "travelType": "음식점",
+    "place": "신기루황소곱창구이",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562155_0_su_5_신기루황소곱창구이_1_001.png",
+      "mapx": 37.4792348775474,
+      "mapy": 126.950692441455,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신기루황소곱창구이(봉천동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562155_0_su_5_신기루황소곱창구이_1_002.png",
+      "mapx": 37.4792348775474,
+      "mapy": 126.950692441455,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신기루황소곱창구이(봉천동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562155_0_su_5_신기루황소곱창구이_1_003.png",
+      "mapx": 37.4792348775474,
+      "mapy": 126.950692441455,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신기루황소곱창구이(봉천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562155_0_su_5_신기루황소곱창구이_1_004.png",
+      "mapx": 37.4792348775474,
+      "mapy": 126.950692441455,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신기루황소곱창구이(봉천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562155_0_su_5_신기루황소곱창구이_1_005.png",
+      "mapx": 37.4792348775474,
+      "mapy": 126.950692441455,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "신기루황소곱창구이(봉천동)",
+        "곱창, 양파"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 판매하나요?",
+          "question_wordNum": 4,
+          "answer": "국내산 육우, 한우 곱창, 산미구엘 맥주",
+          "answer_wordNum": 6,
+          "fact": [
+            "신기루황소곱창구이,판매,국내산 육우, 한우 곱창, 산미구엘 맥주"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "곱창",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,전문,곱창"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 3번 출구, 아기네패밀리, 세종사우나",
+          "answer_wordNum": 5,
+          "fact": [
+            "신기루황소곱창구이,인접,서울대입구역 3번 출구, 아기네패밀리, 세종사우나"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 관악로13길 25",
+          "answer_wordNum": 4,
+          "fact": [
+            "신기루황소곱창구이,주소,서울 관악구 관악로13길 25"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 3번 출구, 아기네패밀리, 세종사우나",
+          "answer_wordNum": 5,
+          "fact": [
+            "신기루황소곱창구이,인접,서울대입구역 3번 출구, 아기네패밀리, 세종사우나"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 관악로13길 25",
+          "answer_wordNum": 4,
+          "fact": [
+            "신기루황소곱창구이,주소,서울 관악구 관악로13길 25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-887-5000",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,연락처,02-887-5000"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00/17:00 - 21:30/23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "신기루황소곱창구이,영업시간,16:00/17:00 - 21:30/23:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-887-5000",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,연락처,02-887-5000"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00/17:00 - 21:30/23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "신기루황소곱창구이,영업시간,16:00/17:00 - 21:30/23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황소알곱창구이, 특대창구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "신기루황소곱창구이,메뉴,황소알곱창구이, 특대창구이"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황소알곱창구이, 특대창구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "신기루황소곱창구이,메뉴,황소알곱창구이, 특대창구이"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 판매하나요?",
+          "question_wordNum": 4,
+          "answer": "국내산 육우, 한우 곱창, 산미구엘 맥주",
+          "answer_wordNum": 6,
+          "fact": [
+            "신기루황소곱창구이,판매,국내산 육우, 한우 곱창, 산미구엘 맥주"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "곱창",
+          "answer_wordNum": 1,
+          "fact": [
+            "신기루황소곱창구이,전문,곱창"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 관악로13길 25",
+          "answer_wordNum": 4,
+          "fact": [
+            "신기루황소곱창구이,주소,서울 관악구 관악로13길 25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00/17:00 - 21:30/23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "신기루황소곱창구이,영업시간,16:00/17:00 - 21:30/23:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "황소알곱창구이, 특대창구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "신기루황소곱창구이,메뉴,황소알곱창구이, 특대창구이"
+          ]
+        }
+      ]
+    }
+  ]
+}

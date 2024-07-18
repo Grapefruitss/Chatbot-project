@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562508",
+    "travelType": "음식점",
+    "place": "마라공간마라탕",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562508_0_su_5_마라공간마라탕_1_001.png",
+      "mapx": 37.4753354692121,
+      "mapy": 126.981314804779,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마라공간마라탕(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562508_0_su_5_마라공간마라탕_1_002.png",
+      "mapx": 37.4753354692121,
+      "mapy": 126.981314804779,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마라공간마라탕(관악구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562508_0_su_5_마라공간마라탕_1_003.png",
+      "mapx": 37.4753354692121,
+      "mapy": 126.981314804779,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마라공간마라탕(관악구)",
+        "사각테이블 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562508_0_su_5_마라공간마라탕_1_004.png",
+      "mapx": 37.4753354692121,
+      "mapy": 126.981314804779,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마라공간마라탕(관악구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562508_0_su_5_마라공간마라탕_1_005.png",
+      "mapx": 37.4753354692121,
+      "mapy": 126.981314804779,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마라공간마라탕(관악구)",
+        "마라탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "마라공간마라탕,영업시간,10:00 - 22:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-4524-6572",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,연락처,010-4524-6572"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사당역 4번 출구, 다이소, 남현동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "마라공간마라탕,인접,사당역 4번 출구, 다이소, 남현동주민센터"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "마라탕, 마라샹궈",
+          "answer_wordNum": 2,
+          "fact": [
+            "마라공간마라탕,메뉴,마라탕, 마라샹궈"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 과천대로 949 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "마라공간마라탕,주소,서울 관악구 과천대로 949 2층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "마라공간마라탕,영업시간,10:00 - 22:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-4524-6572",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,연락처,010-4524-6572"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 과천대로 949 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "마라공간마라탕,주소,서울 관악구 과천대로 949 2층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 과천대로 949 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "마라공간마라탕,주소,서울 관악구 과천대로 949 2층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-4524-6572",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,연락처,010-4524-6572"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "마라공간마라탕,영업시간,10:00 - 22:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "마라탕, 마라샹궈",
+          "answer_wordNum": 2,
+          "fact": [
+            "마라공간마라탕,메뉴,마라탕, 마라샹궈"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-4524-6572",
+          "answer_wordNum": 1,
+          "fact": [
+            "마라공간마라탕,연락처,010-4524-6572"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 과천대로 949 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "마라공간마라탕,주소,서울 관악구 과천대로 949 2층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "마라공간마라탕,영업시간,10:00 - 22:30"
+          ]
+        }
+      ]
+    }
+  ]
+}

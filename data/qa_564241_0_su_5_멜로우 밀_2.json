@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564241",
+    "travelType": "음식점",
+    "place": "멜로우 밀",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564241_0_su_5_멜로우 밀_2_001.png",
+      "mapx": 37.4829298140748,
+      "mapy": 126.821392486579,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "멜로우 밀(항동)",
+        "여닫이문, 테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564241_0_su_5_멜로우 밀_2_002.png",
+      "mapx": 37.4829298140748,
+      "mapy": 126.821392486579,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "멜로우 밀(항동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564241_0_su_5_멜로우 밀_2_003.png",
+      "mapx": 37.4829298140748,
+      "mapy": 126.821392486579,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "멜로우 밀(항동)",
+        "테이블, 진열대, 조명등"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564241_0_su_5_멜로우 밀_2_004.png",
+      "mapx": 37.4829298140748,
+      "mapy": 126.821392486579,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "멜로우 밀(항동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564241_0_su_5_멜로우 밀_2_005.png",
+      "mapx": 37.4829298140748,
+      "mapy": 126.821392486579,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "멜로우 밀(항동)",
+        "커피, 빵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "멜로우 밀,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1385-3785",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,연락처,0507-1385-3785"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "에그타르트, 레몬 얼그레이 스모어 쿠키",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,메뉴,에그타르트, 레몬 얼그레이 스모어 쿠키"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 연동로11길 24 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,주소,서울 구로구 연동로11길 24 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "멜로우 밀,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 연동로11길 24 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,주소,서울 구로구 연동로11길 24 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "카페동네, 명태낙지명가",
+          "answer_wordNum": 2,
+          "fact": [
+            "멜로우 밀,인접,카페동네, 명태낙지명가"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 월요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "멜로우 밀,휴무일,매주 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "에그타르트, 레몬 얼그레이 스모어 쿠키",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,메뉴,에그타르트, 레몬 얼그레이 스모어 쿠키"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 연동로11길 24 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,주소,서울 구로구 연동로11길 24 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1385-3785",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,연락처,0507-1385-3785"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00/12:30~19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,영업시간,11:00/12:30~19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "에그타르트, 레몬 얼그레이 스모어 쿠키",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,메뉴,에그타르트, 레몬 얼그레이 스모어 쿠키"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "카페동네, 명태낙지명가",
+          "answer_wordNum": 2,
+          "fact": [
+            "멜로우 밀,인접,카페동네, 명태낙지명가"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 연동로11길 24 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "멜로우 밀,주소,서울 구로구 연동로11길 24 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1385-3785",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,연락처,0507-1385-3785"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00/12:30~19:00/21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "멜로우 밀,영업시간,11:00/12:30~19:00/21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "카페동네, 명태낙지명가",
+          "answer_wordNum": 2,
+          "fact": [
+            "멜로우 밀,인접,카페동네, 명태낙지명가"
+          ]
+        }
+      ]
+    }
+  ]
+}

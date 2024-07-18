@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "557896",
+    "travelType": "음식점",
+    "place": "탐앤탐스 공릉점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "557896_0_su_5_탐앤탐스 공릉점_1_001.png",
+      "mapx": 37.6265212282614,
+      "mapy": 127.074630445538,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 공릉점(공릉동)",
+        "간판, 어닝, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "557896_0_su_5_탐앤탐스 공릉점_1_002.png",
+      "mapx": 37.6265212282614,
+      "mapy": 127.074630445538,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 공릉점(공릉동)",
+        "건물, 간판, 여닫이문, 배너"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "557896_0_su_5_탐앤탐스 공릉점_1_003.png",
+      "mapx": 37.6265212282614,
+      "mapy": 127.074630445538,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 공릉점(공릉동)",
+        "테이블, 등받이의자, 파티션션"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "557896_0_su_5_탐앤탐스 공릉점_1_004.png",
+      "mapx": 37.6265212282614,
+      "mapy": 127.074630445538,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 공릉점(공릉동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "557896_0_su_5_탐앤탐스 공릉점_1_005.png",
+      "mapx": 37.6265212282614,
+      "mapy": 127.074630445538,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 공릉점(공릉동)",
+        "빵, 음료"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "꼰대라떼, 탐의보감 3종",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 공릉점,메뉴,꼰대라떼, 탐의보감 3종"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "00:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,영업시간,00:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "공릉역 4번 출구, 엠타이마사지, 다이소, 선원건업, 롯데리아",
+          "answer_wordNum": 7,
+          "fact": [
+            "탐앤탐스 공릉점,인접,공릉역 4번 출구, 엠타이마사지, 다이소, 선원건업, 롯데리아"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 동일로192길 31 영진빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 공릉점,주소,서울 노원구 동일로192길 31 영진빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "00:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,영업시간,00:00-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-979-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,연락처,02-979-4565"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "꼰대라떼, 탐의보감 3종",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 공릉점,메뉴,꼰대라떼, 탐의보감 3종"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "공릉역 4번 출구, 엠타이마사지, 다이소, 선원건업, 롯데리아",
+          "answer_wordNum": 7,
+          "fact": [
+            "탐앤탐스 공릉점,인접,공릉역 4번 출구, 엠타이마사지, 다이소, 선원건업, 롯데리아"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "00:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,영업시간,00:00-24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "공릉역 4번 출구, 엠타이마사지, 다이소, 선원건업, 롯데리아",
+          "answer_wordNum": 7,
+          "fact": [
+            "탐앤탐스 공릉점,인접,공릉역 4번 출구, 엠타이마사지, 다이소, 선원건업, 롯데리아"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-979-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,연락처,02-979-4565"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소가 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 동일로192길 31 영진빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 공릉점,주소,서울 노원구 동일로192길 31 영진빌딩"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-979-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,연락처,02-979-4565"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 공릉점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "꼰대라떼, 탐의보감 3종",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 공릉점,메뉴,꼰대라떼, 탐의보감 3종"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562246",
+    "travelType": "음식점",
+    "place": "우리동네고기집",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562246_0_su_5_우리동네고기집_1_001.png",
+      "mapx": 37.4741312260839,
+      "mapy": 126.965506669825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우리동네고기집(봉천동)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562246_0_su_5_우리동네고기집_1_002.png",
+      "mapx": 37.4741312260839,
+      "mapy": 126.965506669825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우리동네고기집(봉천동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562246_0_su_5_우리동네고기집_1_003.png",
+      "mapx": 37.4741312260839,
+      "mapy": 126.965506669825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우리동네고기집(봉천동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562246_0_su_5_우리동네고기집_1_004.png",
+      "mapx": 37.4741312260839,
+      "mapy": 126.965506669825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우리동네고기집(봉천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562246_0_su_5_우리동네고기집_1_005.png",
+      "mapx": 37.4741312260839,
+      "mapy": 126.965506669825,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우리동네고기집(봉천동)",
+        "고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "낙성대역 1번 출구, 정직한명품한우, 섹시한떡볶이",
+          "answer_wordNum": 5,
+          "fact": [
+            "우리동네고기집,인접,낙성대역 1번 출구, 정직한명품한우, 섹시한떡볶이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳에선 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "고기",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,먹을수있다,고기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "정육식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,이다,정육식당"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 인헌6길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "우리동네고기집,주소,서울 관악구 인헌6길 24"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "정육식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,이다,정육식당"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 인헌6길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "우리동네고기집,주소,서울 관악구 인헌6길 24"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-871-9938",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,연락처,02-871-9938"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "우리동네고기집,영업시간,11:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "우리동네고기집,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "한돈 제육쌈밥, 한우 차돌된장찌개",
+          "answer_wordNum": 4,
+          "fact": [
+            "우리동네고기집,메뉴,한돈 제육쌈밥, 한우 차돌된장찌개"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 먹을 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "고기",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,먹을수있다,고기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 인헌6길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "우리동네고기집,주소,서울 관악구 인헌6길 24"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "우리동네고기집,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "한돈 제육쌈밥, 한우 차돌된장찌개",
+          "answer_wordNum": 4,
+          "fact": [
+            "우리동네고기집,메뉴,한돈 제육쌈밥, 한우 차돌된장찌개"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "낙성대역 1번 출구, 정직한명품한우, 섹시한떡볶이",
+          "answer_wordNum": 5,
+          "fact": [
+            "우리동네고기집,인접,낙성대역 1번 출구, 정직한명품한우, 섹시한떡볶이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "정육식당",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,이다,정육식당"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-871-9938",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,연락처,02-871-9938"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우리동네고기집,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

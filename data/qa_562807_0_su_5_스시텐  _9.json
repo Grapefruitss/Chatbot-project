@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562807",
+    "travelType": "음식점",
+    "place": "스시텐  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562807_0_su_5_스시텐  _9_001.png",
+      "mapx": 37.5381146951572,
+      "mapy": 127.094039760254,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시텐(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562807_0_su_5_스시텐  _9_002.png",
+      "mapx": 37.5381146951572,
+      "mapy": 127.094039760254,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시텐(광진구)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562807_0_su_5_스시텐  _9_003.png",
+      "mapx": 37.5381146951572,
+      "mapy": 127.094039760254,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시텐(광진구)",
+        "등받이 의자, 사각 테이블, 물병"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562807_0_su_5_스시텐  _9_004.png",
+      "mapx": 37.5381146951572,
+      "mapy": 127.094039760254,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시텐(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562807_0_su_5_스시텐  _9_005.png",
+      "mapx": 37.5381146951572,
+      "mapy": 127.094039760254,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "스시텐 (광진구)",
+        "초밥, 와사비장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-454-9248",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,연락처,02-454-9248"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "우동, 짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "스시텐,메뉴,우동, 짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,영업시간,11:30-21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의강변로 86",
+          "answer_wordNum": 4,
+          "fact": [
+            "스시텐,주소,서울 광진구 구의강변로 86"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-454-9248",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,연락처,02-454-9248"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "강변역 1번 출구, 다성리버텔, 구의공원",
+          "answer_wordNum": 5,
+          "fact": [
+            "스시텐,인접,강변역 1번 출구, 다성리버텔, 구의공원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30-21:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,영업시간,11:30-21:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "강변역 1번 출구, 다성리버텔, 구의공원",
+          "answer_wordNum": 5,
+          "fact": [
+            "스시텐,인접,강변역 1번 출구, 다성리버텔, 구의공원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "우동, 짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "스시텐,메뉴,우동, 짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 구의강변로 86",
+          "answer_wordNum": 4,
+          "fact": [
+            "스시텐,주소,서울 광진구 구의강변로 86"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-454-9248",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,연락처,02-454-9248"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "스시텐,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "강변역 1번 출구, 다성리버텔, 구의공원",
+          "answer_wordNum": 5,
+          "fact": [
+            "스시텐,인접,강변역 1번 출구, 다성리버텔, 구의공원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의강변로 86",
+          "answer_wordNum": 4,
+          "fact": [
+            "스시텐,주소,서울 광진구 구의강변로 86"
+          ]
+        }
+      ]
+    }
+  ]
+}

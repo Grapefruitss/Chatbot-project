@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561273",
+    "travelType": "음식점",
+    "place": "공차 역삼GFC점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561273_0_su_5_공차 역삼GFC점_1_001.png",
+      "mapx": 37.4991051125474,
+      "mapy": 127.036253837544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 역삼GFC점(역삼동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561273_0_su_5_공차 역삼GFC점_1_002.png",
+      "mapx": 37.4991051125474,
+      "mapy": 127.036253837544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 역삼GFC점(역삼동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561273_0_su_5_공차 역삼GFC점_1_003.png",
+      "mapx": 37.4991051125474,
+      "mapy": 127.036253837544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 역삼GFC점(역삼동)",
+        "계산대"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561273_0_su_5_공차 역삼GFC점_1_004.png",
+      "mapx": 37.4991051125474,
+      "mapy": 127.036253837544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 역삼GFC점(역삼동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561273_0_su_5_공차 역삼GFC점_1_005.png",
+      "mapx": 37.4991051125474,
+      "mapy": 127.036253837544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 역삼GFC점(역삼동)",
+        "버블티"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00/08:30~21:30/22:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,영업시간,07:00/08:30~21:30/22:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 논현로85길 13 근영빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 역삼GFC점,주소,서울 강남구 논현로85길 13 근영빌딩"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "대만 버블티",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 역삼GFC점,전문,대만 버블티"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "역삼역 3번 출구, 세븐일레븐, 이여곰탕",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 역삼GFC점,인접,역삼역 3번 출구, 세븐일레븐, 이여곰탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1467-3405",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,연락처,0507-1467-3405"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "바닐라빈 크림 밀크티, 바닐라빈 크림 스무디",
+          "answer_wordNum": 6,
+          "fact": [
+            "공차 역삼GFC점,메뉴,바닐라빈 크림 밀크티, 바닐라빈 크림 스무디"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "매장",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,이다,매장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "대만 버블티",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 역삼GFC점,전문,대만 버블티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "바닐라빈 크림 밀크티, 바닐라빈 크림 스무디",
+          "answer_wordNum": 6,
+          "fact": [
+            "공차 역삼GFC점,메뉴,바닐라빈 크림 밀크티, 바닐라빈 크림 스무디"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1467-3405",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,연락처,0507-1467-3405"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "매장",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,이다,매장"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 논현로85길 13 근영빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 역삼GFC점,주소,서울 강남구 논현로85길 13 근영빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "대만 버블티",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 역삼GFC점,전문,대만 버블티"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00/08:30~21:30/22:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,영업시간,07:00/08:30~21:30/22:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 역삼GFC점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "역삼역 3번 출구, 세븐일레븐, 이여곰탕",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 역삼GFC점,인접,역삼역 3번 출구, 세븐일레븐, 이여곰탕"
+          ]
+        }
+      ]
+    }
+  ]
+}

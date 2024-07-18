@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563094",
+    "travelType": "음식점",
+    "place": "우성식당",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563094_0_su_5_우성식당_10_001.png",
+      "mapx": 37.5348619983071,
+      "mapy": 127.076432557986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우성식당(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563094_0_su_5_우성식당_10_002.png",
+      "mapx": 37.5348619983071,
+      "mapy": 127.076432557986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우성식당(광진구)",
+        "간판, 건물, 자동차, 나무 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563094_0_su_5_우성식당_10_003.png",
+      "mapx": 37.5348619983071,
+      "mapy": 127.076432557986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우성식당(광진구)",
+        "화분 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563094_0_su_5_우성식당_10_004.png",
+      "mapx": 37.5348619983071,
+      "mapy": 127.076432557986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우성식당(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563094_0_su_5_우성식당_10_005.png",
+      "mapx": 37.5348619983071,
+      "mapy": 127.076432557986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우성식당(광진구)",
+        "접시, 상추 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "건대입구역 4번 출구, 태양빌라, 우석빌라",
+          "answer_wordNum": 5,
+          "fact": [
+            "우성식당,인접,건대입구역 4번 출구, 태양빌라, 우석빌라"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-453-4636",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,연락처,02-453-4636"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "우성식당,영업시간,09:00 - 22:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "삼겹살세트, 차돌박이세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "우성식당,메뉴,삼겹살세트, 차돌박이세트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹살세트, 차돌박이세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "우성식당,메뉴,삼겹살세트, 차돌박이세트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "건대입구역 4번 출구, 태양빌라, 우석빌라",
+          "answer_wordNum": 5,
+          "fact": [
+            "우성식당,인접,건대입구역 4번 출구, 태양빌라, 우석빌라"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹살세트, 차돌박이세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "우성식당,메뉴,삼겹살세트, 차돌박이세트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "건대입구역 4번 출구, 태양빌라, 우석빌라",
+          "answer_wordNum": 5,
+          "fact": [
+            "우성식당,인접,건대입구역 4번 출구, 태양빌라, 우석빌라"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 자양번영로 60 -1",
+          "answer_wordNum": 5,
+          "fact": [
+            "우성식당,주소,서울 광진구 자양번영로 60 -1"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "건대입구역 4번 출구, 태양빌라, 우석빌라",
+          "answer_wordNum": 5,
+          "fact": [
+            "우성식당,인접,건대입구역 4번 출구, 태양빌라, 우석빌라"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "삼겹살세트, 차돌박이세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "우성식당,메뉴,삼겹살세트, 차돌박이세트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "우성식당,영업시간,09:00 - 22:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-453-4636",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,연락처,02-453-4636"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우성식당,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹살세트, 차돌박이세트",
+          "answer_wordNum": 2,
+          "fact": [
+            "우성식당,메뉴,삼겹살세트, 차돌박이세트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "우성식당,영업시간,09:00 - 22:30"
+          ]
+        }
+      ]
+    }
+  ]
+}

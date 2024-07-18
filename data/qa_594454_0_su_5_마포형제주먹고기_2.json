@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594454",
+    "travelType": "음식점",
+    "place": "마포형제주먹고기",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594454_0_su_5_마포형제주먹고기_2_001.png",
+      "mapx": 37.5789472896439,
+      "mapy": 127.043070331993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마포형제주먹고기(전농동)",
+        "어닝"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594454_0_su_5_마포형제주먹고기_2_002.png",
+      "mapx": 37.5789472896439,
+      "mapy": 127.043070331993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마포형제주먹고기(전농동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594454_0_su_5_마포형제주먹고기_2_003.png",
+      "mapx": 37.5789472896439,
+      "mapy": 127.043070331993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마포형제주먹고기(전농동)",
+        "테이블, 후드"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594454_0_su_5_마포형제주먹고기_2_004.png",
+      "mapx": 37.5789472896439,
+      "mapy": 127.043070331993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마포형제주먹고기(전농동)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594454_0_su_5_마포형제주먹고기_2_005.png",
+      "mapx": 37.5789472896439,
+      "mapy": 127.043070331993,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마포형제주먹고기(전농동)",
+        "고기, 불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "주먹고기, 생껍데기",
+          "answer_wordNum": 2,
+          "fact": [
+            "마포형제주먹고기,메뉴,주먹고기, 생껍데기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 답십리로 3",
+          "answer_wordNum": 4,
+          "fact": [
+            "마포형제주먹고기,주소,서울 동대문구 답십리로 3"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,영업시간,11:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "고깃집",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,이다,고깃집"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "주먹고기, 생껍데기",
+          "answer_wordNum": 2,
+          "fact": [
+            "마포형제주먹고기,메뉴,주먹고기, 생껍데기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 6번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "마포형제주먹고기,인접,청량리역 6번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "고깃집",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,이다,고깃집"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,영업시간,11:00-24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "마포형제주먹고기,휴무일,둘째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,영업시간,11:00-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "무엇을 먹을 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "국내산 생 돼지고기",
+          "answer_wordNum": 3,
+          "fact": [
+            "마포형제주먹고기,먹을수있다,국내산 생 돼지고기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 답십리로 3",
+          "answer_wordNum": 4,
+          "fact": [
+            "마포형제주먹고기,주소,서울 동대문구 답십리로 3"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "주먹고기, 생껍데기",
+          "answer_wordNum": 2,
+          "fact": [
+            "마포형제주먹고기,메뉴,주먹고기, 생껍데기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "마포형제주먹고기,휴무일,둘째 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-969-7198",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,연락처,02-969-7198"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 6번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "마포형제주먹고기,인접,청량리역 6번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "마포형제주먹고기,영업시간,11:00-24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "주먹고기, 생껍데기",
+          "answer_wordNum": 2,
+          "fact": [
+            "마포형제주먹고기,메뉴,주먹고기, 생껍데기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 답십리로 3",
+          "answer_wordNum": 4,
+          "fact": [
+            "마포형제주먹고기,주소,서울 동대문구 답십리로 3"
+          ]
+        }
+      ]
+    }
+  ]
+}

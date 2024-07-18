@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560616",
+    "travelType": "음식점",
+    "place": "뚜레쥬르 센티움점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560616_0_su_5_뚜레쥬르 센티움점_1_001.png",
+      "mapx": 37.4945889149409,
+      "mapy": 127.119131071387,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 센티움점(가락동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560616_0_su_5_뚜레쥬르 센티움점_1_002.png",
+      "mapx": 37.4945889149409,
+      "mapy": 127.119131071387,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 센티움점(가락동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560616_0_su_5_뚜레쥬르 센티움점_1_003.png",
+      "mapx": 37.4945889149409,
+      "mapy": 127.119131071387,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 센티움점(가락동)",
+        "진열대, 빵, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560616_0_su_5_뚜레쥬르 센티움점_1_004.png",
+      "mapx": 37.4945889149409,
+      "mapy": 127.119131071387,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 센티움점(가락동)",
+        "캔디, 가격표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560616_0_su_5_뚜레쥬르 센티움점_1_005.png",
+      "mapx": 37.4945889149409,
+      "mapy": 127.119131071387,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 센티움점(가락동)",
+        "빵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "레드벨벳 롤, 토마토주스",
+          "answer_wordNum": 3,
+          "fact": [
+            "뚜레쥬르 센티움점,메뉴,레드벨벳 롤, 토마토주스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-407-0044",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,연락처,02-407-0044"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00~21:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,영업시간,07:00~21:00/23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "레드벨벳 롤, 토마토주스",
+          "answer_wordNum": 3,
+          "fact": [
+            "뚜레쥬르 센티움점,메뉴,레드벨벳 롤, 토마토주스"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 게 가능한가요?",
+          "question_wordNum": 5,
+          "answer": "케익예약주문서비스",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,가능,케익예약주문서비스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 송파대로30길 16 송파가락두산위브센티움",
+          "answer_wordNum": 5,
+          "fact": [
+            "뚜레쥬르 센티움점,주소,서울 송파구 송파대로30길 16 송파가락두산위브센티움"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "가락시장역 3번 출구, 화포식당, 거북이빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "뚜레쥬르 센티움점,인접,가락시장역 3번 출구, 화포식당, 거북이빌딩"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00~21:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,영업시간,07:00~21:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 송파대로30길 16 송파가락두산위브센티움",
+          "answer_wordNum": 5,
+          "fact": [
+            "뚜레쥬르 센티움점,주소,서울 송파구 송파대로30길 16 송파가락두산위브센티움"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-407-0044",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,연락처,02-407-0044"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "레드벨벳 롤, 토마토주스",
+          "answer_wordNum": 3,
+          "fact": [
+            "뚜레쥬르 센티움점,메뉴,레드벨벳 롤, 토마토주스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-407-0044",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,연락처,02-407-0044"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00~21:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 센티움점,영업시간,07:00~21:00/23:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

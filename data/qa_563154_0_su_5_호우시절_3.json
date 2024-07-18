@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563154",
+    "travelType": "음식점",
+    "place": "호우시절",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563154_0_su_5_호우시절_3_001.png",
+      "mapx": 37.5324126233308,
+      "mapy": 127.079039937653,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호우시절(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563154_0_su_5_호우시절_3_002.png",
+      "mapx": 37.5324126233308,
+      "mapy": 127.079039937653,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호우시절(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563154_0_su_5_호우시절_3_003.png",
+      "mapx": 37.5324126233308,
+      "mapy": 127.079039937653,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호우시절(광진구)",
+        "등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563154_0_su_5_호우시절_3_004.png",
+      "mapx": 37.5324126233308,
+      "mapy": 127.079039937653,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호우시절(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563154_0_su_5_호우시절_3_005.png",
+      "mapx": 37.5324126233308,
+      "mapy": 127.079039937653,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "호우시절(광진구)",
+        "빵 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 4번 출구, 닉스당구장, 엘리몬드",
+          "answer_wordNum": 5,
+          "fact": [
+            "호우시절,인접,구의역 4번 출구, 닉스당구장, 엘리몬드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호우시절,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1475-1477",
+          "answer_wordNum": 1,
+          "fact": [
+            "호우시절,연락처,0507-1475-1477"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 뚝섬로 623",
+          "answer_wordNum": 4,
+          "fact": [
+            "호우시절,주소,서울 광진구 뚝섬로 623"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생맥주, 치즈샐러드",
+          "answer_wordNum": 2,
+          "fact": [
+            "호우시절,메뉴,생맥주, 치즈샐러드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1475-1477",
+          "answer_wordNum": 1,
+          "fact": [
+            "호우시절,연락처,0507-1475-1477"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00/16:30 - 04:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "호우시절,영업시간,16:00/16:30 - 04:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 4번 출구, 닉스당구장, 엘리몬드",
+          "answer_wordNum": 5,
+          "fact": [
+            "호우시절,인접,구의역 4번 출구, 닉스당구장, 엘리몬드"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 뚝섬로 623",
+          "answer_wordNum": 4,
+          "fact": [
+            "호우시절,주소,서울 광진구 뚝섬로 623"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00/16:30 - 04:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "호우시절,영업시간,16:00/16:30 - 04:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생맥주, 치즈샐러드",
+          "answer_wordNum": 2,
+          "fact": [
+            "호우시절,메뉴,생맥주, 치즈샐러드"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호우시절,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호우시절,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 뚝섬로 623",
+          "answer_wordNum": 4,
+          "fact": [
+            "호우시절,주소,서울 광진구 뚝섬로 623"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생맥주, 치즈샐러드",
+          "answer_wordNum": 2,
+          "fact": [
+            "호우시절,메뉴,생맥주, 치즈샐러드"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 4번 출구, 닉스당구장, 엘리몬드",
+          "answer_wordNum": 5,
+          "fact": [
+            "호우시절,인접,구의역 4번 출구, 닉스당구장, 엘리몬드"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "호우시절,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 4번 출구, 닉스당구장, 엘리몬드",
+          "answer_wordNum": 5,
+          "fact": [
+            "호우시절,인접,구의역 4번 출구, 닉스당구장, 엘리몬드"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00/16:30 - 04:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "호우시절,영업시간,16:00/16:30 - 04:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 뚝섬로 623",
+          "answer_wordNum": 4,
+          "fact": [
+            "호우시절,주소,서울 광진구 뚝섬로 623"
+          ]
+        }
+      ]
+    }
+  ]
+}

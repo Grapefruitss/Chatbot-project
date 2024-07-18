@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563070",
+    "travelType": "음식점",
+    "place": "동경규동 건대점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563070_0_su_5_동경규동 건대점_1_001.png",
+      "mapx": 37.5399829261045,
+      "mapy": 127.069577729358,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동경규동 건대점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563070_0_su_5_동경규동 건대점_1_002.png",
+      "mapx": 37.5399829261045,
+      "mapy": 127.069577729358,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동경규동 건대점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563070_0_su_5_동경규동 건대점_1_003.png",
+      "mapx": 37.5399829261045,
+      "mapy": 127.069577729358,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동경규동 건대점(광진구)",
+        "의자 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563070_0_su_5_동경규동 건대점_1_004.png",
+      "mapx": 37.5399829261045,
+      "mapy": 127.069577729358,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동경규동 건대점(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563070_0_su_5_동경규동 건대점_1_005.png",
+      "mapx": 37.5399829261045,
+      "mapy": 127.069577729358,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동경규동 건대점(광진구)",
+        "숟가락, 젓가락 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1425-1000",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,연락처,0507-1425-1000"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 238",
+          "answer_wordNum": 4,
+          "fact": [
+            "동경규동 건대점,주소,서울 광진구 아차산로 238"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "동경규동 건대점,영업시간,11:00 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "동경규동 건대점,영업시간,11:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1425-1000",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,연락처,0507-1425-1000"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "김치가츠나베, 가츠동",
+          "answer_wordNum": 2,
+          "fact": [
+            "동경규동 건대점,메뉴,김치가츠나베, 가츠동"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "건대입구역 5번 출구, 얼큰이동태탕, 두리아치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "동경규동 건대점,인접,건대입구역 5번 출구, 얼큰이동태탕, 두리아치킨"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 238",
+          "answer_wordNum": 4,
+          "fact": [
+            "동경규동 건대점,주소,서울 광진구 아차산로 238"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1425-1000",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,연락처,0507-1425-1000"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "건대입구역 5번 출구, 얼큰이동태탕, 두리아치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "동경규동 건대점,인접,건대입구역 5번 출구, 얼큰이동태탕, 두리아치킨"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1425-1000",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,연락처,0507-1425-1000"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치가츠나베, 가츠동",
+          "answer_wordNum": 2,
+          "fact": [
+            "동경규동 건대점,메뉴,김치가츠나베, 가츠동"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "건대입구역 5번 출구, 얼큰이동태탕, 두리아치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "동경규동 건대점,인접,건대입구역 5번 출구, 얼큰이동태탕, 두리아치킨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동경규동 건대점,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

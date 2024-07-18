@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561504",
+    "travelType": "음식점",
+    "place": "우미마토 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561504_0_su_5_우미마토 _1_001.png",
+      "mapx": 37.5596348826715,
+      "mapy": 126.83201084043,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우미마토(마곡동)",
+        "간판, 파라솔, 테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561504_0_su_5_우미마토 _1_002.png",
+      "mapx": 37.5596348826715,
+      "mapy": 126.83201084043,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우미마토(마곡동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561504_0_su_5_우미마토 _1_003.png",
+      "mapx": 37.5596348826715,
+      "mapy": 126.83201084043,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우미마토(마곡동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561504_0_su_5_우미마토 _1_004.png",
+      "mapx": 37.5596348826715,
+      "mapy": 126.83201084043,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우미마토(마곡동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561504_0_su_5_우미마토 _1_005.png",
+      "mapx": 37.5596348826715,
+      "mapy": 126.83201084043,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "우미마토(마곡동)",
+        "스시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "마곡역 3번 출구, 씨엘, 푸라닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "우미마토,인접,마곡역 3번 출구, 씨엘, 푸라닭"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "우미마토,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "1인사시미, 소바",
+          "answer_wordNum": 2,
+          "fact": [
+            "우미마토,메뉴,1인사시미, 소바"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "마곡역 3번 출구, 씨엘, 푸라닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "우미마토,인접,마곡역 3번 출구, 씨엘, 푸라닭"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로 219 센테니아 114호",
+          "answer_wordNum": 6,
+          "fact": [
+            "우미마토,주소,서울 강서구 공항대로 219 센테니아 114호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1367-5832",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,연락처,0507-1367-5832"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,영업시간,11:30~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "마곡역 3번 출구, 씨엘, 푸라닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "우미마토,인접,마곡역 3번 출구, 씨엘, 푸라닭"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,영업시간,11:30~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로 219 센테니아 114호",
+          "answer_wordNum": 6,
+          "fact": [
+            "우미마토,주소,서울 강서구 공항대로 219 센테니아 114호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "마곡역 3번 출구, 씨엘, 푸라닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "우미마토,인접,마곡역 3번 출구, 씨엘, 푸라닭"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로 219 센테니아 114호",
+          "answer_wordNum": 6,
+          "fact": [
+            "우미마토,주소,서울 강서구 공항대로 219 센테니아 114호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,영업시간,11:30~22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "우미마토,휴무일,매주 화요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "우미마토,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "1인사시미, 소바",
+          "answer_wordNum": 2,
+          "fact": [
+            "우미마토,메뉴,1인사시미, 소바"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로 219 센테니아 114호",
+          "answer_wordNum": 6,
+          "fact": [
+            "우미마토,주소,서울 강서구 공항대로 219 센테니아 114호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "마곡역 3번 출구, 씨엘, 푸라닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "우미마토,인접,마곡역 3번 출구, 씨엘, 푸라닭"
+          ]
+        }
+      ]
+    }
+  ]
+}
