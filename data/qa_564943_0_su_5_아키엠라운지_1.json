@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564943",
+    "travelType": "음식점",
+    "place": "아키엠라운지",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564943_0_su_5_아키엠라운지_1_001.png",
+      "mapx": 37.5908338844163,
+      "mapy": 127.040076328093,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아키엠라운지(제기동)",
+        "간판, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564943_0_su_5_아키엠라운지_1_002.png",
+      "mapx": 37.5908338844163,
+      "mapy": 127.040076328093,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아키엠라운지(제기동)",
+        "간판, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564943_0_su_5_아키엠라운지_1_003.png",
+      "mapx": 37.5908338844163,
+      "mapy": 127.040076328093,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아키엠라운지(제기동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564943_0_su_5_아키엠라운지_1_004.png",
+      "mapx": 37.5908338844163,
+      "mapy": 127.040076328093,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아키엠라운지(제기동)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564943_0_su_5_아키엠라운지_1_005.png",
+      "mapx": 37.5908338844163,
+      "mapy": 127.040076328093,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "아키엠라운지(제기동)",
+        "쥐포, 음료잔, 소세지"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,영업시간,11:30-01:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "다이닝주점",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,이다,다이닝주점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1312-1510",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,연락처,0507-1312-1510"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": " 무엇을 즐길 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "하이볼, 주류, 커피",
+          "answer_wordNum": 3,
+          "fact": [
+            "아키엠라운지,즐길수있다,하이볼, 주류, 커피"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고려대역 3번 출구, 세종대왕기념관, 공자식탁, 도미노피자",
+          "answer_wordNum": 6,
+          "fact": [
+            "아키엠라운지,인접,고려대역 3번 출구, 세종대왕기념관, 공자식탁, 도미노피자"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇이 가능한가요?",
+          "question_wordNum": 4,
+          "answer": "야간혼술, 야간식사, 야간카페 이용",
+          "answer_wordNum": 4,
+          "fact": [
+            "아키엠라운지,가능,야간혼술, 야간식사, 야간카페 이용"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "경양식 등심 돈까스, 얼그레이 하이볼",
+          "answer_wordNum": 5,
+          "fact": [
+            "아키엠라운지,메뉴,경양식 등심 돈까스, 얼그레이 하이볼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇이 가능한가요?",
+          "question_wordNum": 4,
+          "answer": "야간혼술, 야간식사, 야간카페 이용",
+          "answer_wordNum": 4,
+          "fact": [
+            "아키엠라운지,가능,야간혼술, 야간식사, 야간카페 이용"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇을 즐길 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "하이볼, 주류, 커피",
+          "answer_wordNum": 3,
+          "fact": [
+            "아키엠라운지,즐길수있다,하이볼, 주류, 커피"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,영업시간,11:30-01:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "경양식 등심 돈까스, 얼그레이 하이볼",
+          "answer_wordNum": 5,
+          "fact": [
+            "아키엠라운지,메뉴,경양식 등심 돈까스, 얼그레이 하이볼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고려대역 3번 출구, 세종대왕기념관, 공자식탁, 도미노피자",
+          "answer_wordNum": 6,
+          "fact": [
+            "아키엠라운지,인접,고려대역 3번 출구, 세종대왕기념관, 공자식탁, 도미노피자"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 회기로8길 13 웰섬빌딩 지하 1층 아키엠 라운지",
+          "answer_wordNum": 9,
+          "fact": [
+            "아키엠라운지,주소,서울 동대문구 회기로8길 13 웰섬빌딩 지하 1층 아키엠 라운지"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1312-1510",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,연락처,0507-1312-1510"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "다이닝주점",
+          "answer_wordNum": 1,
+          "fact": [
+            "아키엠라운지,이다,다이닝주점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳에서는 무엇이 가능한가요?",
+          "question_wordNum": 4,
+          "answer": "야간혼술, 야간식사, 야간카페 이용",
+          "answer_wordNum": 4,
+          "fact": [
+            "아키엠라운지,가능,야간혼술, 야간식사, 야간카페 이용"
+          ]
+        }
+      ]
+    }
+  ]
+}

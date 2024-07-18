@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561857",
+    "travelType": "음식점",
+    "place": "숙성의미껍데기 송정역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561857_0_su_5_숙성의미껍데기 송정역점_1_001.png",
+      "mapx": 37.5606496825277,
+      "mapy": 126.809969375452,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성의미껍데기 송정역점(공항동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561857_0_su_5_숙성의미껍데기 송정역점_1_002.png",
+      "mapx": 37.5606496825277,
+      "mapy": 126.809969375452,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성의미껍데기 송정역점(공항동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561857_0_su_5_숙성의미껍데기 송정역점_1_003.png",
+      "mapx": 37.5606496825277,
+      "mapy": 126.809969375452,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성의미껍데기 송정역점(공항동)",
+        "등받이의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561857_0_su_5_숙성의미껍데기 송정역점_1_004.png",
+      "mapx": 37.5606496825277,
+      "mapy": 126.809969375452,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성의미껍데기 송정역점(공항동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561857_0_su_5_숙성의미껍데기 송정역점_1_005.png",
+      "mapx": 37.5606496825277,
+      "mapy": 126.809969375452,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "숙성의미껍데기 송정역점(공항동)",
+        "삼겹살"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "마약껍데기, 마라껍데기",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성의미껍데기 송정역점,메뉴,마약껍데기, 마라껍데기"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "송정역 4번 출구, 뮤노래연습장, 와우노래연습장",
+          "answer_wordNum": 5,
+          "fact": [
+            "숙성의미껍데기 송정역점,인접,송정역 4번 출구, 뮤노래연습장, 와우노래연습장"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 것을 전문으로 하나요?",
+          "question_wordNum": 6,
+          "answer": "고기",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,전문,고기"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "송정역 4번 출구, 뮤노래연습장, 와우노래연습장",
+          "answer_wordNum": 5,
+          "fact": [
+            "숙성의미껍데기 송정역점,인접,송정역 4번 출구, 뮤노래연습장, 와우노래연습장"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "마약껍데기, 마라껍데기",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성의미껍데기 송정역점,메뉴,마약껍데기, 마라껍데기"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 것을 제공하나요?",
+          "question_wordNum": 5,
+          "answer": "숙성 원육",
+          "answer_wordNum": 2,
+          "fact": [
+            "숙성의미껍데기 송정역점,제공,숙성 원육"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2666-1003",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,연락처,02-2666-1003"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00 - 04:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "숙성의미껍데기 송정역점,영업시간,16:00 - 04:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2666-1003",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,연락처,02-2666-1003"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 있나요?",
+          "question_wordNum": 3,
+          "answer": "송정역 4번 출구, 뮤노래연습장, 와우노래연습장",
+          "answer_wordNum": 5,
+          "fact": [
+            "숙성의미껍데기 송정역점,인접,송정역 4번 출구, 뮤노래연습장, 와우노래연습장"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2666-1003",
+          "answer_wordNum": 1,
+          "fact": [
+            "숙성의미껍데기 송정역점,연락처,02-2666-1003"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00 - 04:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "숙성의미껍데기 송정역점,영업시간,16:00 - 04:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 강서구 송정로 66",
+          "answer_wordNum": 4,
+          "fact": [
+            "숙성의미껍데기 송정역점,주소,서울 강서구 송정로 66"
+          ]
+        }
+      ]
+    }
+  ]
+}

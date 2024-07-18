@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563862",
+    "travelType": "음식점",
+    "place": "김돈이 구로점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563862_0_su_5_김돈이 구로점_1_001.png",
+      "mapx": 37.4821171153204,
+      "mapy": 126.899945548524,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김돈이 구로점(구로동)",
+        "간판, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563862_0_su_5_김돈이 구로점_1_002.png",
+      "mapx": 37.4821171153204,
+      "mapy": 126.899945548524,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김돈이 구로점(구로동)",
+        "간판, 입간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563862_0_su_5_김돈이 구로점_1_003.png",
+      "mapx": 37.4821171153204,
+      "mapy": 126.899945548524,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김돈이 구로점(구로동)",
+        "테이블, 스툴 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563862_0_su_5_김돈이 구로점_1_004.png",
+      "mapx": 37.4821171153204,
+      "mapy": 126.899945548524,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김돈이 구로점(구로동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563862_0_su_5_김돈이 구로점_1_005.png",
+      "mapx": 37.4821171153204,
+      "mapy": 126.899945548524,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "김돈이 구로점(구로동)",
+        "돼지고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "흑돼지 근고기, 백돼지 근고기",
+          "answer_wordNum": 4,
+          "fact": [
+            "김돈이 구로점,메뉴,흑돼지 근고기, 백돼지 근고기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,영업시간,16:00~24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구로디지털단지역 6번 출구, 서래전, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "김돈이 구로점,인접,구로디지털단지역 6번 출구, 서래전, 세븐일레븐"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,영업시간,16:00~24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-863-7898",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,연락처,02-863-7898"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구로디지털단지역 6번 출구, 서래전, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "김돈이 구로점,인접,구로디지털단지역 6번 출구, 서래전, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "흑돼지 근고기, 백돼지 근고기",
+          "answer_wordNum": 4,
+          "fact": [
+            "김돈이 구로점,메뉴,흑돼지 근고기, 백돼지 근고기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,영업시간,16:00~24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구로디지털단지역 6번 출구, 서래전, 세븐일레븐",
+          "answer_wordNum": 5,
+          "fact": [
+            "김돈이 구로점,인접,구로디지털단지역 6번 출구, 서래전, 세븐일레븐"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 디지털로32다길 15",
+          "answer_wordNum": 4,
+          "fact": [
+            "김돈이 구로점,주소,서울 구로구 디지털로32다길 15"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,영업시간,16:00~24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 디지털로32다길 15",
+          "answer_wordNum": 4,
+          "fact": [
+            "김돈이 구로점,주소,서울 구로구 디지털로32다길 15"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-863-7898",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,연락처,02-863-7898"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00~24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,영업시간,16:00~24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "김돈이 구로점,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

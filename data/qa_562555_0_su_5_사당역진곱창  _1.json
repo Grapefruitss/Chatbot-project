@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562555",
+    "travelType": "음식점",
+    "place": "사당역진곱창  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562555_0_su_5_사당역진곱창  _1_001.png",
+      "mapx": 37.4759548804299,
+      "mapy": 126.980551653321,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역진곱창(관악구)  ",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562555_0_su_5_사당역진곱창  _1_002.png",
+      "mapx": 37.4759548804299,
+      "mapy": 126.980551653321,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역진곱창(관악구) ",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562555_0_su_5_사당역진곱창  _1_003.png",
+      "mapx": 37.4759548804299,
+      "mapy": 126.980551653321,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역진곱창(관악구)  ",
+        "등받이의자 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562555_0_su_5_사당역진곱창  _1_004.png",
+      "mapx": 37.4759548804299,
+      "mapy": 126.980551653321,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역진곱창(관악구)  ",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562555_0_su_5_사당역진곱창  _1_005.png",
+      "mapx": 37.4759548804299,
+      "mapy": 126.980551653321,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역진곱창(관악구)  ",
+        "불판"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 5번 출구, 펀비어킹, 연안본가",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,인접,사당역 5번 출구, 펀비어킹, 연안본가"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "한우곱창, 한우대창",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역진곱창,메뉴,한우곱창, 한우대창"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남현1길 53 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,주소,서울 관악구 남현1길 53 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 5번 출구, 펀비어킹, 연안본가",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,인접,사당역 5번 출구, 펀비어킹, 연안본가"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-587-6636",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,연락처,02-587-6636"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사당역 5번 출구, 펀비어킹, 연안본가",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,인접,사당역 5번 출구, 펀비어킹, 연안본가"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "한우곱창, 한우대창",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역진곱창,메뉴,한우곱창, 한우대창"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-587-6636",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,연락처,02-587-6636"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사당역 5번 출구, 펀비어킹, 연안본가",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,인접,사당역 5번 출구, 펀비어킹, 연안본가"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우곱창, 한우대창",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역진곱창,메뉴,한우곱창, 한우대창"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사당역 5번 출구, 펀비어킹, 연안본가",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,인접,사당역 5번 출구, 펀비어킹, 연안본가"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역진곱창,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남현1길 53 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역진곱창,주소,서울 관악구 남현1길 53 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우곱창, 한우대창",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역진곱창,메뉴,한우곱창, 한우대창"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "553865",
+    "travelType": "음식점",
+    "place": "커피빈 도심공항점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "553865_0_su_5_커피빈 도심공항점_1_001.png",
+      "mapx": 37.5096322564759,
+      "mapy": 127.059443354483,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 도심공항점(삼성동)",
+        "여닫이문, 입간판, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "553865_0_su_5_커피빈 도심공항점_1_002.png",
+      "mapx": 37.5096322564759,
+      "mapy": 127.059443354483,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 도심공항점(삼성동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "553865_0_su_5_커피빈 도심공항점_1_003.png",
+      "mapx": 37.5096322564759,
+      "mapy": 127.059443354483,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 도심공항점(삼성동)",
+        "등받이의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "553865_0_su_5_커피빈 도심공항점_1_004.png",
+      "mapx": 37.5096322564759,
+      "mapy": 127.059443354483,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 도심공항점(삼성동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "553865_0_su_5_커피빈 도심공항점_1_005.png",
+      "mapx": 37.5096322564759,
+      "mapy": 127.059443354483,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "커피빈 도심공항점(삼성동)",
+        "커피, 스무디"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "베이컨 파 크림치즈 베이글, 말돈소금빵",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,메뉴,베이컨 파 크림치즈 베이글, 말돈소금빵"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로87길 22 한국도심공항터미널",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,주소,서울 강남구 테헤란로87길 22 한국도심공항터미널"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼성역 5번 출구, 알도, 안드레아바나",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,인접,삼성역 5번 출구, 알도, 안드레아바나"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-551-6456",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,연락처,02-551-6456"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼성역 5번 출구, 알도, 안드레아바나",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,인접,삼성역 5번 출구, 알도, 안드레아바나"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-551-6456",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,연락처,02-551-6456"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "베이컨 파 크림치즈 베이글, 말돈소금빵",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,메뉴,베이컨 파 크림치즈 베이글, 말돈소금빵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로87길 22 한국도심공항터미널",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,주소,서울 강남구 테헤란로87길 22 한국도심공항터미널"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로87길 22 한국도심공항터미널",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,주소,서울 강남구 테헤란로87길 22 한국도심공항터미널"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "베이컨 파 크림치즈 베이글, 말돈소금빵",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,메뉴,베이컨 파 크림치즈 베이글, 말돈소금빵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-551-6456",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,연락처,02-551-6456"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로87길 22 한국도심공항터미널",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,주소,서울 강남구 테헤란로87길 22 한국도심공항터미널"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "베이컨 파 크림치즈 베이글, 말돈소금빵",
+          "answer_wordNum": 5,
+          "fact": [
+            "커피빈 도심공항점,메뉴,베이컨 파 크림치즈 베이글, 말돈소금빵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "커피빈 도심공항점,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

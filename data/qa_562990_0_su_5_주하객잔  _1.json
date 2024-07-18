@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562990",
+    "travelType": "음식점",
+    "place": "주하객잔  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562990_0_su_5_주하객잔  _1_001.png",
+      "mapx": 37.5479478384613,
+      "mapy": 127.108340848124,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "주하객잔(광진구)  ",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562990_0_su_5_주하객잔  _1_002.png",
+      "mapx": 37.5479478384613,
+      "mapy": 127.108340848124,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "주하객잔(광진구)  ",
+        "간판, 여닫이문, 화분, 등받이 의자, 조명"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562990_0_su_5_주하객잔  _1_003.png",
+      "mapx": 37.5479478384613,
+      "mapy": 127.108340848124,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "주하객잔(광진구)  ",
+        "등받이 의자, 원형 테이블, 물컵, 냅킨, 숟가락, 젓가락"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562990_0_su_5_주하객잔  _1_004.png",
+      "mapx": 37.5479478384613,
+      "mapy": 127.108340848124,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "주하객잔(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562990_0_su_5_주하객잔  _1_005.png",
+      "mapx": 37.5479478384613,
+      "mapy": 127.108340848124,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "주하객잔(광진구)",
+        "볶음밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "주하객잔,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로78길 170 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "주하객잔,주소,서울 광진구 아차산로78길 170 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "소고기짬뽕, 삼선짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "주하객잔,메뉴,소고기짬뽕, 삼선짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-458-8803",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,연락처,02-458-8803"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "광나루역 2번 출구, 광진청소년센터, SK강평주유소",
+          "answer_wordNum": 5,
+          "fact": [
+            "주하객잔,인접,광나루역 2번 출구, 광진청소년센터, SK강평주유소"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "주하객잔,영업시간,11:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로78길 170 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "주하객잔,주소,서울 광진구 아차산로78길 170 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-458-8803",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,연락처,02-458-8803"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광나루역 2번 출구, 광진청소년센터, SK강평주유소",
+          "answer_wordNum": 5,
+          "fact": [
+            "주하객잔,인접,광나루역 2번 출구, 광진청소년센터, SK강평주유소"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-458-8803",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,연락처,02-458-8803"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "소고기짬뽕, 삼선짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "주하객잔,메뉴,소고기짬뽕, 삼선짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-458-8803",
+          "answer_wordNum": 1,
+          "fact": [
+            "주하객잔,연락처,02-458-8803"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "소고기짬뽕, 삼선짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "주하객잔,메뉴,소고기짬뽕, 삼선짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 아차산로78길 170 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "주하객잔,주소,서울 광진구 아차산로78길 170 1층"
+          ]
+        }
+      ]
+    }
+  ]
+}

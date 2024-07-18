@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562598",
+    "travelType": "음식점",
+    "place": "장군갈비  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562598_0_su_5_장군갈비  _5_001.png",
+      "mapx": 37.5547605921654,
+      "mapy": 127.088154098693,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군갈비(광진구) ",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562598_0_su_5_장군갈비  _5_002.png",
+      "mapx": 37.5547605921654,
+      "mapy": 127.088154098693,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군갈비(광진구)",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562598_0_su_5_장군갈비  _5_003.png",
+      "mapx": 37.5547605921654,
+      "mapy": 127.088154098693,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군갈비(광진구)  ",
+        "사각테이블 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562598_0_su_5_장군갈비  _5_004.png",
+      "mapx": 37.5547605921654,
+      "mapy": 127.088154098693,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군갈비(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562598_0_su_5_장군갈비  _5_005.png",
+      "mapx": 37.5547605921654,
+      "mapy": 127.088154098693,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "장군갈비(광진구) ",
+        "갈비"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "한우생갈비, 한우양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군갈비,메뉴,한우생갈비, 한우양념갈비"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 용마산로 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "장군갈비,주소,서울 광진구 용마산로 11"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-447-3479",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,연락처,02-447-3479"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 용마산로 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "장군갈비,주소,서울 광진구 용마산로 11"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "아차산역 1번 출구, 르블랑예식장, 대성하이츠",
+          "answer_wordNum": 5,
+          "fact": [
+            "장군갈비,인접,아차산역 1번 출구, 르블랑예식장, 대성하이츠"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "한우생갈비, 한우양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군갈비,메뉴,한우생갈비, 한우양념갈비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "아차산역 1번 출구, 르블랑예식장, 대성하이츠",
+          "answer_wordNum": 5,
+          "fact": [
+            "장군갈비,인접,아차산역 1번 출구, 르블랑예식장, 대성하이츠"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-447-3479",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,연락처,02-447-3479"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장군갈비,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-447-3479",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,연락처,02-447-3479"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우생갈비, 한우양념갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "장군갈비,메뉴,한우생갈비, 한우양념갈비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아차산역 1번 출구, 르블랑예식장, 대성하이츠",
+          "answer_wordNum": 5,
+          "fact": [
+            "장군갈비,인접,아차산역 1번 출구, 르블랑예식장, 대성하이츠"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 용마산로 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "장군갈비,주소,서울 광진구 용마산로 11"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "장군갈비,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "장군갈비,영업시간,11:00 - 22:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "556081",
+    "travelType": "음식점",
+    "place": "매머드익스프레스 영등포리마크빌점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "556081_0_su_5_매머드익스프레스 영등포리마크빌점_2_001.png",
+      "mapx": 37.5260704645785,
+      "mapy": 126.905270115037,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 영등포리마크빌점(영등포구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "556081_0_su_5_매머드익스프레스 영등포리마크빌점_2_002.png",
+      "mapx": 37.5260704645785,
+      "mapy": 126.905270115037,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 영등포리마크빌점(영등포구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "556081_0_su_5_매머드익스프레스 영등포리마크빌점_2_003.png",
+      "mapx": 37.5260704645785,
+      "mapy": 126.905270115037,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 영등포리마크빌점(영등포구)",
+        "키오스크, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "556081_0_su_5_매머드익스프레스 영등포리마크빌점_2_004.png",
+      "mapx": 37.5260704645785,
+      "mapy": 126.905270115037,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 영등포리마크빌점(영등포구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "556081_0_su_5_매머드익스프레스 영등포리마크빌점_2_005.png",
+      "mapx": 37.5260704645785,
+      "mapy": 126.905270115037,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 영등포리마크빌점(영등포구)",
+        "커피, 스무디, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "라즈베리 필링 스콘, 캬라멜 필링 스콘",
+          "answer_wordNum": 6,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,메뉴,라즈베리 필링 스콘, 캬라멜 필링 스콘"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "영등포시장역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,인접,영등포시장역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-8834-0928",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,연락처,070-8834-0928"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "영등포시장역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,인접,영등포시장역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 영등포구 영중로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,주소,서울 영등포구 영중로 109"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "라즈베리 필링 스콘, 캬라멜 필링 스콘",
+          "answer_wordNum": 6,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,메뉴,라즈베리 필링 스콘, 캬라멜 필링 스콘"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 영등포구 영중로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,주소,서울 영등포구 영중로 109"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "영등포시장역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,인접,영등포시장역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "영등포시장역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,인접,영등포시장역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:30/08:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,영업시간,07:30/08:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "라즈베리 필링 스콘, 캬라멜 필링 스콘",
+          "answer_wordNum": 6,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,메뉴,라즈베리 필링 스콘, 캬라멜 필링 스콘"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "영등포시장역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,인접,영등포시장역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "라즈베리 필링 스콘, 캬라멜 필링 스콘",
+          "answer_wordNum": 6,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,메뉴,라즈베리 필링 스콘, 캬라멜 필링 스콘"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 영등포구 영중로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "매머드익스프레스 영등포리마크빌점,주소,서울 영등포구 영중로 109"
+          ]
+        }
+      ]
+    }
+  ]
+}

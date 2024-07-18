@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558554",
+    "travelType": "음식점",
+    "place": "연안식당 종암동점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558554_0_su_5_연안식당 종암동점_1_001.png",
+      "mapx": 37.6006139491601,
+      "mapy": 127.03411011041,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연안식당 종암동점(성북구)",
+        "간판, 여닫이문, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558554_0_su_5_연안식당 종암동점_1_002.png",
+      "mapx": 37.6006139491601,
+      "mapy": 127.03411011041,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연안식당 종암동점(성북구)",
+        "간판, 어닝, 창문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558554_0_su_5_연안식당 종암동점_1_003.png",
+      "mapx": 37.6006139491601,
+      "mapy": 127.03411011041,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연안식당 종암동점(성북구)",
+        "조명, 테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558554_0_su_5_연안식당 종암동점_1_004.png",
+      "mapx": 37.6006139491601,
+      "mapy": 127.03411011041,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연안식당 종암동점(성북구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558554_0_su_5_연안식당 종암동점_1_005.png",
+      "mapx": 37.6006139491601,
+      "mapy": 127.03411011041,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "연안식당 종암동점(성북구)",
+        "꼬막무침, 소면, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성북구 종암로 116",
+          "answer_wordNum": 4,
+          "fact": [
+            "연안식당 종암동점,주소,서울 성북구 종암로 116"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "월곡역 1번 출구, 투투노래연습장, 롯데하이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "연안식당 종암동점,인접,월곡역 1번 출구, 투투노래연습장, 롯데하이마트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-942-2922",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,연락처,02-942-2922"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "월곡역 1번 출구, 투투노래연습장, 롯데하이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "연안식당 종암동점,인접,월곡역 1번 출구, 투투노래연습장, 롯데하이마트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성북구 종암로 116",
+          "answer_wordNum": 4,
+          "fact": [
+            "연안식당 종암동점,주소,서울 성북구 종암로 116"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-942-2922",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,연락처,02-942-2922"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-942-2922",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,연락처,02-942-2922"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "꼬막 비빔밥, 꼬막 무침",
+          "answer_wordNum": 4,
+          "fact": [
+            "연안식당 종암동점,메뉴,꼬막 비빔밥, 꼬막 무침"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성북구 종암로 116",
+          "answer_wordNum": 4,
+          "fact": [
+            "연안식당 종암동점,주소,서울 성북구 종암로 116"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성북구 종암로 116",
+          "answer_wordNum": 4,
+          "fact": [
+            "연안식당 종암동점,주소,서울 성북구 종암로 116"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "월곡역 1번 출구, 투투노래연습장, 롯데하이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "연안식당 종암동점,인접,월곡역 1번 출구, 투투노래연습장, 롯데하이마트"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "연안식당 종암동점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "월곡역 1번 출구, 투투노래연습장, 롯데하이마트",
+          "answer_wordNum": 5,
+          "fact": [
+            "연안식당 종암동점,인접,월곡역 1번 출구, 투투노래연습장, 롯데하이마트"
+          ]
+        }
+      ]
+    }
+  ]
+}

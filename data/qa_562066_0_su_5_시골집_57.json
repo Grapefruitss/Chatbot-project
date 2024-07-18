@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562066",
+    "travelType": "음식점",
+    "place": "시골집",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562066_0_su_5_시골집_57_001.png",
+      "mapx": 37.476864337445,
+      "mapy": 126.95846809511,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "시골집(봉천동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562066_0_su_5_시골집_57_002.png",
+      "mapx": 37.476864337445,
+      "mapy": 126.95846809511,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "시골집(봉천동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562066_0_su_5_시골집_57_003.png",
+      "mapx": 37.476864337445,
+      "mapy": 126.95846809511,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "시골집(봉천동)",
+        "테이블, 방석, 메뉴판, 커피자판기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562066_0_su_5_시골집_57_004.png",
+      "mapx": 37.476864337445,
+      "mapy": 126.95846809511,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "시골집(봉천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562066_0_su_5_시골집_57_005.png",
+      "mapx": 37.476864337445,
+      "mapy": 126.95846809511,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "시골집(봉천동)",
+        "생선구이"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:30 - 21:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "시골집,영업시간,11:30 - 21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "소불고기, 생선구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "시골집,메뉴,소불고기, 생선구이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-874-7333",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,연락처,02-874-7333"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 21:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "시골집,영업시간,11:30 - 21:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소불고기, 생선구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "시골집,메뉴,소불고기, 생선구이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "낙성대역 4번 출구, 흑룡강, 우청빌라",
+          "answer_wordNum": 5,
+          "fact": [
+            "시골집,인접,낙성대역 4번 출구, 흑룡강, 우청빌라"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "낙성대역 4번 출구, 흑룡강, 우청빌라",
+          "answer_wordNum": 5,
+          "fact": [
+            "시골집,인접,낙성대역 4번 출구, 흑룡강, 우청빌라"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-874-7333",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,연락처,02-874-7333"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디에 위치하나요?",
+          "question_wordNum": 4,
+          "answer": "인헌 초등학교 맞은편 골목",
+          "answer_wordNum": 4,
+          "fact": [
+            "시골집,위치,인헌 초등학교 맞은편 골목"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 관악구 낙성대로 22-7",
+          "answer_wordNum": 4,
+          "fact": [
+            "시골집,주소,서울 관악구 낙성대로 22-7"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "이 곳은 어디에 위치하나요?",
+          "question_wordNum": 4,
+          "answer": "인헌 초등학교 맞은편 골목",
+          "answer_wordNum": 4,
+          "fact": [
+            "시골집,위치,인헌 초등학교 맞은편 골목"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "쌈밥",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,전문,쌈밥"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소불고기, 생선구이",
+          "answer_wordNum": 2,
+          "fact": [
+            "시골집,메뉴,소불고기, 생선구이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "쌈밥",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,전문,쌈밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30 - 21:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "시골집,영업시간,11:30 - 21:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-874-7333",
+          "answer_wordNum": 1,
+          "fact": [
+            "시골집,연락처,02-874-7333"
+          ]
+        }
+      ]
+    }
+  ]
+}

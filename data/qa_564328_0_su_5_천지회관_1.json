@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564328",
+    "travelType": "음식점",
+    "place": "천지회관",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564328_0_su_5_천지회관_1_001.png",
+      "mapx": 37.4684160473591,
+      "mapy": 126.887662358171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천지회관(가산동)",
+        "간판, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564328_0_su_5_천지회관_1_002.png",
+      "mapx": 37.4684160473591,
+      "mapy": 126.887662358171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천지회관(가산동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564328_0_su_5_천지회관_1_003.png",
+      "mapx": 37.4684160473591,
+      "mapy": 126.887662358171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천지회관(가산동)",
+        "의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564328_0_su_5_천지회관_1_004.png",
+      "mapx": 37.4684160473591,
+      "mapy": 126.887662358171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천지회관(가산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564328_0_su_5_천지회관_1_005.png",
+      "mapx": 37.4684160473591,
+      "mapy": 126.887662358171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천지회관(가산동)",
+        "고기"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "숙성 통삼겹, 통돼지김치전골",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,메뉴,숙성 통삼겹, 통돼지김치전골"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-867-1007",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,연락처,02-867-1007"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,영업시간,11:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "숙성 통삼겹, 통돼지김치전골",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,메뉴,숙성 통삼겹, 통돼지김치전골"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-867-1007",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,연락처,02-867-1007"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 가산디지털1로 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "천지회관,주소,서울 금천구 가산디지털1로 24"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-867-1007",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,연락처,02-867-1007"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "숙성 통삼겹, 통돼지김치전골",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,메뉴,숙성 통삼겹, 통돼지김치전골"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,영업시간,11:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-867-1007",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,연락처,02-867-1007"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,휴무일,매주 토요일, 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 가산디지털1로 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "천지회관,주소,서울 금천구 가산디지털1로 24"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "독산역 2번 출구, 일등카레, 블렌드13",
+          "answer_wordNum": 5,
+          "fact": [
+            "천지회관,인접,독산역 2번 출구, 일등카레, 블렌드13"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소가 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 가산디지털1로 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "천지회관,주소,서울 금천구 가산디지털1로 24"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "숙성 통삼겹, 통돼지김치전골",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,메뉴,숙성 통삼겹, 통돼지김치전골"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "천지회관,영업시간,11:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-867-1007",
+          "answer_wordNum": 1,
+          "fact": [
+            "천지회관,연락처,02-867-1007"
+          ]
+        }
+      ]
+    }
+  ]
+}

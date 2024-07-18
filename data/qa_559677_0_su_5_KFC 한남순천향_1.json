@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559677",
+    "travelType": "음식점",
+    "place": "KFC 한남순천향",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559677_0_su_5_KFC 한남순천향_1_001.png",
+      "mapx": 37.5332099548457,
+      "mapy": 127.004978714609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 한남순천향(한남동)",
+        "간판, 여닫이문, 포스터, 여닫이문, 유리창"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559677_0_su_5_KFC 한남순천향_1_002.png",
+      "mapx": 37.5332099548457,
+      "mapy": 127.004978714609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 한남순천향(한남동)",
+        "간판, 여닫이문, 포스터, 여닫이문, 유리창"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559677_0_su_5_KFC 한남순천향_1_003.png",
+      "mapx": 37.5332099548457,
+      "mapy": 127.004978714609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 한남순천향(한남동)",
+        "등받이 의자, 테이블, 의자, 아기 의자, 조명, 휴지통, 에어컨, 포스터, 안내표지판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559677_0_su_5_KFC 한남순천향_1_004.png",
+      "mapx": 37.5332099548457,
+      "mapy": 127.004978714609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 한남순천향(한남동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559677_0_su_5_KFC 한남순천향_1_005.png",
+      "mapx": 37.5332099548457,
+      "mapy": 127.004978714609,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 한남순천향(한남동)",
+        "치즈볼, 치킨"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-793-3354",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,연락처,02-793-3354"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 대사관로 62",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 한남순천향,주소,서울 용산구 대사관로 62"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 한남순천향,영업시간,10:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "징거버거, 불고기버거",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 한남순천향,메뉴,징거버거, 불고기버거"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "한남역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 한남순천향,인접,한남역 1번 출구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 용산구 대사관로 62",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 한남순천향,주소,서울 용산구 대사관로 62"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 한남순천향,영업시간,10:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "한남역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 한남순천향,인접,한남역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-793-3354",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,연락처,02-793-3354"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "징거버거, 불고기버거",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 한남순천향,메뉴,징거버거, 불고기버거"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-793-3354",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,연락처,02-793-3354"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 한남순천향,영업시간,10:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "한남역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 한남순천향,인접,한남역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 한남순천향,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 용산구 대사관로 62",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 한남순천향,주소,서울 용산구 대사관로 62"
+          ]
+        }
+      ]
+    }
+  ]
+}

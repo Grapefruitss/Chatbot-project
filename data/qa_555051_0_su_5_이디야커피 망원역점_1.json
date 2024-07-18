@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "555051",
+    "travelType": "음식점",
+    "place": "이디야커피 망원역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "555051_0_su_5_이디야커피 망원역점_1_001.png",
+      "mapx": 37.5563763922796,
+      "mapy": 126.910226957389,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야커피 망원역점(서교동)",
+        "건물, 간판, 여닫이 문, 배너"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "555051_0_su_5_이디야커피 망원역점_1_002.png",
+      "mapx": 37.5563763922796,
+      "mapy": 126.910226957389,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야커피 망원역점(서교동)",
+        "건물, 간판, 여닫이 문, 배너"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "555051_0_su_5_이디야커피 망원역점_1_003.png",
+      "mapx": 37.5563763922796,
+      "mapy": 126.910226957389,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야커피 망원역점(서교동)",
+        "테이블, 의자, 조명"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "555051_0_su_5_이디야커피 망원역점_1_004.png",
+      "mapx": 37.5563763922796,
+      "mapy": 126.910226957389,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야커피 망원역점(서교동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "555051_0_su_5_이디야커피 망원역점_1_005.png",
+      "mapx": 37.5563763922796,
+      "mapy": 126.910226957389,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "이디야커피 망원역점(서교동)",
+        "음료"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-323-2144",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,연락처,02-323-2144"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00/07:00 - 23:00/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "이디야커피 망원역점,영업시간,00:00/07:00 - 23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "어디에 인접한 지 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "망원역 1번 출구, 프라임치과의원, 컴포즈커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "이디야커피 망원역점,인접,망원역 1번 출구, 프라임치과의원, 컴포즈커피"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 월드컵로 82-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "이디야커피 망원역점,주소,서울 마포구 월드컵로 82-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "망원역 1번 출구, 프라임치과의원, 컴포즈커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "이디야커피 망원역점,인접,망원역 1번 출구, 프라임치과의원, 컴포즈커피"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "추천할 만한 메뉴가 있나요?",
+          "question_wordNum": 4,
+          "answer": "카페 라떼, 자몽 네이블오렌지",
+          "answer_wordNum": 4,
+          "fact": [
+            "이디야커피 망원역점,메뉴,카페 라떼, 자몽 네이블오렌지"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "카페 라떼, 자몽 네이블오렌지",
+          "answer_wordNum": 4,
+          "fact": [
+            "이디야커피 망원역점,메뉴,카페 라떼, 자몽 네이블오렌지"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "00:00/07:00 - 23:00/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "이디야커피 망원역점,영업시간,00:00/07:00 - 23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 휴무일이 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 마포구 월드컵로 82-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "이디야커피 망원역점,주소,서울 마포구 월드컵로 82-1"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00/07:00 - 23:00/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "이디야커피 망원역점,영업시간,00:00/07:00 - 23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 연락처를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "02-323-2144",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,연락처,02-323-2144"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "망원역 1번 출구, 프라임치과의원, 컴포즈커피",
+          "answer_wordNum": 5,
+          "fact": [
+            "이디야커피 망원역점,인접,망원역 1번 출구, 프라임치과의원, 컴포즈커피"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "이디야커피 망원역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "00:00/07:00 - 23:00/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "이디야커피 망원역점,영업시간,00:00/07:00 - 23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "도로명 주소를 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 월드컵로 82-1",
+          "answer_wordNum": 4,
+          "fact": [
+            "이디야커피 망원역점,주소,서울 마포구 월드컵로 82-1"
+          ]
+        }
+      ]
+    }
+  ]
+}

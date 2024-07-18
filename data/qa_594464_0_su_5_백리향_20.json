@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594464",
+    "travelType": "음식점",
+    "place": "백리향",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594464_0_su_5_백리향_20_001.png",
+      "mapx": 37.5781349304358,
+      "mapy": 127.058605579986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "백리향(전농동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594464_0_su_5_백리향_20_002.png",
+      "mapx": 37.5781349304358,
+      "mapy": 127.058605579986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "백리향(전농동)",
+        "간판, 오토바이"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594464_0_su_5_백리향_20_003.png",
+      "mapx": 37.5781349304358,
+      "mapy": 127.058605579986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "백리향(전농동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594464_0_su_5_백리향_20_004.png",
+      "mapx": 37.5781349304358,
+      "mapy": 127.058605579986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "백리향(전농동)",
+        "차림표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594464_0_su_5_백리향_20_005.png",
+      "mapx": 37.5781349304358,
+      "mapy": 127.058605579986,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "백리향(전농동)",
+        "짜장면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "짜장면, 차돌짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "백리향,메뉴,짜장면, 차돌짬뽕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,영업시간,10:00-20:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-0094-0602",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,연락처,0507-0094-0602"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "어떤 재료를 사용하나요?",
+          "question_wordNum": 3,
+          "answer": "친환경 포장 용기",
+          "answer_wordNum": 3,
+          "fact": [
+            "백리향,사용,친환경 포장 용기"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,영업시간,10:00-20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 전농로16길 22",
+          "answer_wordNum": 4,
+          "fact": [
+            "백리향,주소,서울 동대문구 전농로16길 22"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "짜장면, 차돌짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "백리향,메뉴,짜장면, 차돌짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 전농로16길 22",
+          "answer_wordNum": 4,
+          "fact": [
+            "백리향,주소,서울 동대문구 전농로16길 22"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "짜장면, 차돌짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "백리향,메뉴,짜장면, 차돌짬뽕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,영업시간,10:00-20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-0094-0602",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,연락처,0507-0094-0602"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-20:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "백리향,영업시간,10:00-20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 전농로16길 22",
+          "answer_wordNum": 4,
+          "fact": [
+            "백리향,주소,서울 동대문구 전농로16길 22"
+          ]
+        }
+      ]
+    }
+  ]
+}

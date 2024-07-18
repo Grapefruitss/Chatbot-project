@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562231",
+    "travelType": "음식점",
+    "place": "로향양꼬치 2호점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562231_0_su_5_로향양꼬치 2호점_1_001.png",
+      "mapx": 37.4775840970125,
+      "mapy": 126.95907955492,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "로향양꼬치 2호점(관악구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562231_0_su_5_로향양꼬치 2호점_1_002.png",
+      "mapx": 37.4775840970125,
+      "mapy": 126.95907955492,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "로향양꼬치 2호점(관악구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562231_0_su_5_로향양꼬치 2호점_1_003.png",
+      "mapx": 37.4775840970125,
+      "mapy": 126.95907955492,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "로향양꼬치 2호점(관악구)",
+        "등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562231_0_su_5_로향양꼬치 2호점_1_004.png",
+      "mapx": 37.4775840970125,
+      "mapy": 126.95907955492,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "로향양꼬치 2호점(관악구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562231_0_su_5_로향양꼬치 2호점_1_005.png",
+      "mapx": 37.4775840970125,
+      "mapy": 126.95907955492,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "로향양꼬치 2호점(관악구)",
+        "꼬치 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 낙성대로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "로향양꼬치 2호점,주소,서울 관악구 낙성대로 12"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향",
+          "answer_wordNum": 6,
+          "fact": [
+            "로향양꼬치 2호점,인접,낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향",
+          "answer_wordNum": 6,
+          "fact": [
+            "로향양꼬치 2호점,인접,낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 낙성대로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "로향양꼬치 2호점,주소,서울 관악구 낙성대로 12"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "양꼬치, 가지볶음밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "로향양꼬치 2호점,메뉴,양꼬치, 가지볶음밥"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "양꼬치, 가지볶음밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "로향양꼬치 2호점,메뉴,양꼬치, 가지볶음밥"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1304-1812",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,연락처,0507-1304-1812"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "로향양꼬치 2호점,영업시간,12:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 낙성대로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "로향양꼬치 2호점,주소,서울 관악구 낙성대로 12"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1304-1812",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,연락처,0507-1304-1812"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향",
+          "answer_wordNum": 6,
+          "fact": [
+            "로향양꼬치 2호점,인접,낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "로향양꼬치 2호점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향",
+          "answer_wordNum": 6,
+          "fact": [
+            "로향양꼬치 2호점,인접,낙성대역 4번 출구, 모힝 낙성대점, 향라선촨촨향"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "로향양꼬치 2호점,영업시간,12:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 관악구 낙성대로 12",
+          "answer_wordNum": 4,
+          "fact": [
+            "로향양꼬치 2호점,주소,서울 관악구 낙성대로 12"
+          ]
+        }
+      ]
+    }
+  ]
+}

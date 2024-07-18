@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "559716",
+    "travelType": "음식점",
+    "place": "KFC 코엑스Mall",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "559716_0_su_5_KFC 코엑스Mall_2_001.png",
+      "mapx": 37.5109823973192,
+      "mapy": 127.058205573267,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 코엑스Mall(삼성동)",
+        "간판, 여닫이문, 의자, 테이블, 포스터"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "559716_0_su_5_KFC 코엑스Mall_2_002.png",
+      "mapx": 37.5109823973192,
+      "mapy": 127.058205573267,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 코엑스Mall(삼성동)",
+        "간판, 여닫이문, 의자, 배너, 간판, 동상"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "559716_0_su_5_KFC 코엑스Mall_2_003.png",
+      "mapx": 37.5109823973192,
+      "mapy": 127.058205573267,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 코엑스Mall(삼성동)",
+        "등받이 의자, 테이블, 키오스크, 조명, 음료수, 카운터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "559716_0_su_5_KFC 코엑스Mall_2_004.png",
+      "mapx": 37.5109823973192,
+      "mapy": 127.058205573267,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 코엑스Mall(삼성동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "559716_0_su_5_KFC 코엑스Mall_2_005.png",
+      "mapx": 37.5109823973192,
+      "mapy": 127.058205573267,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "KFC 코엑스Mall(삼성동)",
+        "콜라, 햄버거, 감자튀김, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-501-7295",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,연락처,02-501-7295"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로87길 46",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 코엑스Mall,주소,서울 강남구 테헤란로87길 46"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 코엑스Mall,영업시간,10:30 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 코엑스Mall,영업시간,10:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "오리지널치킨, 핫크리스피치킨",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 코엑스Mall,메뉴,오리지널치킨, 핫크리스피치킨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼성역 6번 출구, 시코르, 사보텐",
+          "answer_wordNum": 5,
+          "fact": [
+            "KFC 코엑스Mall,인접,삼성역 6번 출구, 시코르, 사보텐"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로87길 46",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 코엑스Mall,주소,서울 강남구 테헤란로87길 46"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로87길 46",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 코엑스Mall,주소,서울 강남구 테헤란로87길 46"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "오리지널치킨, 핫크리스피치킨",
+          "answer_wordNum": 2,
+          "fact": [
+            "KFC 코엑스Mall,메뉴,오리지널치킨, 핫크리스피치킨"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 코엑스Mall,영업시간,10:30 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:30 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "KFC 코엑스Mall,영업시간,10:30 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로87길 46",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 코엑스Mall,주소,서울 강남구 테헤란로87길 46"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "삼성역 6번 출구, 시코르, 사보텐",
+          "answer_wordNum": 5,
+          "fact": [
+            "KFC 코엑스Mall,인접,삼성역 6번 출구, 시코르, 사보텐"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강남구 테헤란로87길 46",
+          "answer_wordNum": 4,
+          "fact": [
+            "KFC 코엑스Mall,주소,서울 강남구 테헤란로87길 46"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-501-7295",
+          "answer_wordNum": 1,
+          "fact": [
+            "KFC 코엑스Mall,연락처,02-501-7295"
+          ]
+        }
+      ]
+    }
+  ]
+}

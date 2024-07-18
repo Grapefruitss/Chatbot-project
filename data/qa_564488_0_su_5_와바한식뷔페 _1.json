@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564488",
+    "travelType": "음식점",
+    "place": "와바한식뷔페 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564488_0_su_5_와바한식뷔페 _1_001.png",
+      "mapx": 37.4819130872905,
+      "mapy": 126.881581110867,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와바한식뷔페(가산동)",
+        "배너"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564488_0_su_5_와바한식뷔페 _1_002.png",
+      "mapx": 37.4819130872905,
+      "mapy": 126.881581110867,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와바한식뷔페(가산동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564488_0_su_5_와바한식뷔페 _1_003.png",
+      "mapx": 37.4819130872905,
+      "mapy": 126.881581110867,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와바한식뷔페(가산동)",
+        "테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564488_0_su_5_와바한식뷔페 _1_004.png",
+      "mapx": 37.4819130872905,
+      "mapy": 126.881581110867,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와바한식뷔페(가산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564488_0_su_5_와바한식뷔페 _1_005.png",
+      "mapx": 37.4819130872905,
+      "mapy": 126.881581110867,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "와바한식뷔페(가산동)",
+        "벡반"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 14:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와바한식뷔페,영업시간,11:00 - 14:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "가산디지털단지역 6번 출구, 신한은행, 나뚜루",
+          "answer_wordNum": 5,
+          "fact": [
+            "와바한식뷔페,인접,가산디지털단지역 6번 출구, 신한은행, 나뚜루"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "백반",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,메뉴,백반"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "백반",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,메뉴,백반"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 14:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와바한식뷔페,영업시간,11:00 - 14:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-862-6626",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,연락처,02-862-6626"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "가산디지털단지역 6번 출구, 신한은행, 나뚜루",
+          "answer_wordNum": 5,
+          "fact": [
+            "와바한식뷔페,인접,가산디지털단지역 6번 출구, 신한은행, 나뚜루"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-862-6626",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,연락처,02-862-6626"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 14:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "와바한식뷔페,영업시간,11:00 - 14:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 가산디지털1로 186",
+          "answer_wordNum": 4,
+          "fact": [
+            "와바한식뷔페,주소,서울 금천구 가산디지털1로 186"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "가산디지털단지역 6번 출구, 신한은행, 나뚜루",
+          "answer_wordNum": 5,
+          "fact": [
+            "와바한식뷔페,인접,가산디지털단지역 6번 출구, 신한은행, 나뚜루"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-862-6626",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,연락처,02-862-6626"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 가산디지털1로 186",
+          "answer_wordNum": 4,
+          "fact": [
+            "와바한식뷔페,주소,서울 금천구 가산디지털1로 186"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "백반",
+          "answer_wordNum": 1,
+          "fact": [
+            "와바한식뷔페,메뉴,백반"
+          ]
+        }
+      ]
+    }
+  ]
+}

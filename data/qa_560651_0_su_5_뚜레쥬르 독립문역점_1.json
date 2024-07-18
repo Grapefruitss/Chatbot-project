@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560651",
+    "travelType": "음식점",
+    "place": "뚜레쥬르 독립문역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560651_0_su_5_뚜레쥬르 독립문역점_1_001.png",
+      "mapx": 37.5747294742294,
+      "mapy": 126.957954995331,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 독립문역점(무악동)",
+        "신호등, 간판, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560651_0_su_5_뚜레쥬르 독립문역점_1_002.png",
+      "mapx": 37.5747294742294,
+      "mapy": 126.957954995331,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 독립문역점(무악동)",
+        "건물, 간판, 신호등"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560651_0_su_5_뚜레쥬르 독립문역점_1_003.png",
+      "mapx": 37.5747294742294,
+      "mapy": 126.957954995331,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 독립문역점(무악동)",
+        "빵, 가격표, 쟁반"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560651_0_su_5_뚜레쥬르 독립문역점_1_004.png",
+      "mapx": 37.5747294742294,
+      "mapy": 126.957954995331,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 독립문역점(무악동)",
+        "가격, 샌드위치, 포장용기"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560651_0_su_5_뚜레쥬르 독립문역점_1_005.png",
+      "mapx": 37.5747294742294,
+      "mapy": 126.957954995331,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "뚜레쥬르 독립문역점(무악동)",
+        "포장용기, 빵, 토마토"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "뚜레쥬르 독립문역점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-734-0606",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,연락처,02-734-0606"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 종로구 통일로 250",
+          "answer_wordNum": 4,
+          "fact": [
+            "뚜레쥬르 독립문역점,주소,서울 종로구 통일로 250"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "독립문역 2번 출구, 서대문독립공원, 독립문극동아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "뚜레쥬르 독립문역점,인접,독립문역 2번 출구, 서대문독립공원, 독립문극동아파트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-734-0606",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,연락처,02-734-0606"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "뚜레쥬르 독립문역점,영업시간,07:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-734-0606",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,연락처,02-734-0606"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "독립문역 2번 출구, 서대문독립공원, 독립문극동아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "뚜레쥬르 독립문역점,인접,독립문역 2번 출구, 서대문독립공원, 독립문극동아파트"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "뚜레쥬르 독립문역점,메뉴,아메리카노, 카페라떼"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 카페라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "뚜레쥬르 독립문역점,메뉴,아메리카노, 카페라떼"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 종로구 통일로 250",
+          "answer_wordNum": 4,
+          "fact": [
+            "뚜레쥬르 독립문역점,주소,서울 종로구 통일로 250"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-734-0606",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,연락처,02-734-0606"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "독립문역 2번 출구, 서대문독립공원, 독립문극동아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "뚜레쥬르 독립문역점,인접,독립문역 2번 출구, 서대문독립공원, 독립문극동아파트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "뚜레쥬르 독립문역점,영업시간,07:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-734-0606",
+          "answer_wordNum": 1,
+          "fact": [
+            "뚜레쥬르 독립문역점,연락처,02-734-0606"
+          ]
+        }
+      ]
+    }
+  ]
+}

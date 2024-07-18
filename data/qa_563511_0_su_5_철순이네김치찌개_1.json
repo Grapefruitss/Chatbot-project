@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563511",
+    "travelType": "음식점",
+    "place": "철순이네김치찌개",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563511_0_su_5_철순이네김치찌개_1_001.png",
+      "mapx": 37.5484457321993,
+      "mapy": 127.069745720123,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "철순이네김치찌개(군자동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563511_0_su_5_철순이네김치찌개_1_002.png",
+      "mapx": 37.5484457321993,
+      "mapy": 127.069745720123,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "철순이네김치찌개(군자동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563511_0_su_5_철순이네김치찌개_1_003.png",
+      "mapx": 37.5484457321993,
+      "mapy": 127.069745720123,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "철순이네김치찌개(군자동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563511_0_su_5_철순이네김치찌개_1_004.png",
+      "mapx": 37.5484457321993,
+      "mapy": 127.069745720123,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "철순이네김치찌개(군자동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563511_0_su_5_철순이네김치찌개_1_005.png",
+      "mapx": 37.5484457321993,
+      "mapy": 127.069745720123,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "철순이네김치찌개(군자동)",
+        "어묵, 콩나물, 생채"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치돼지볶음, 양푼동태탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "철순이네김치찌개,메뉴,김치돼지볶음, 양푼동태탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "어린이대공원역 5번 출구, 본래순대, 두배한의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "철순이네김치찌개,인접,어린이대공원역 5번 출구, 본래순대, 두배한의원"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치돼지볶음, 양푼동태탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "철순이네김치찌개,메뉴,김치돼지볶음, 양푼동태탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어린이대공원역 5번 출구, 본래순대, 두배한의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "철순이네김치찌개,인접,어린이대공원역 5번 출구, 본래순대, 두배한의원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "00:00 - 22:00/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "철순이네김치찌개,영업시간,00:00 - 22:00/24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 광나루로 361",
+          "answer_wordNum": 4,
+          "fact": [
+            "철순이네김치찌개,주소,서울 광진구 광나루로 361"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김치돼지볶음, 양푼동태탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "철순이네김치찌개,메뉴,김치돼지볶음, 양푼동태탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "어린이대공원역 5번 출구, 본래순대, 두배한의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "철순이네김치찌개,인접,어린이대공원역 5번 출구, 본래순대, 두배한의원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-466-9066",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,연락처,02-466-9066"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-466-9066",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,연락처,02-466-9066"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "어린이대공원역 5번 출구, 본래순대, 두배한의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "철순이네김치찌개,인접,어린이대공원역 5번 출구, 본래순대, 두배한의원"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "00:00 - 22:00/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "철순이네김치찌개,영업시간,00:00 - 22:00/24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치돼지볶음, 양푼동태탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "철순이네김치찌개,메뉴,김치돼지볶음, 양푼동태탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어린이대공원역 5번 출구, 본래순대, 두배한의원",
+          "answer_wordNum": 5,
+          "fact": [
+            "철순이네김치찌개,인접,어린이대공원역 5번 출구, 본래순대, 두배한의원"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "철순이네김치찌개,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

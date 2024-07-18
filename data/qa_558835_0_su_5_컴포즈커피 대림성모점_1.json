@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558835",
+    "travelType": "음식점",
+    "place": "컴포즈커피 대림성모점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558835_0_su_5_컴포즈커피 대림성모점_1_001.png",
+      "mapx": 37.4905466142209,
+      "mapy": 126.908309569171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 대림성모점(신대방동)",
+        "간판, 여닫이문, 배너"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558835_0_su_5_컴포즈커피 대림성모점_1_002.png",
+      "mapx": 37.4905466142209,
+      "mapy": 126.908309569171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 대림성모점(신대방동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558835_0_su_5_컴포즈커피 대림성모점_1_003.png",
+      "mapx": 37.4905466142209,
+      "mapy": 126.908309569171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 대림성모점(신대방동)",
+        "키오스기, 액자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558835_0_su_5_컴포즈커피 대림성모점_1_004.png",
+      "mapx": 37.4905466142209,
+      "mapy": 126.908309569171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 대림성모점(신대방동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558835_0_su_5_컴포즈커피 대림성모점_1_005.png",
+      "mapx": 37.4905466142209,
+      "mapy": 126.908309569171,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "컴포즈커피 대림성모점(신대방동)",
+        "음료"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신대방역 4번 출구, 옛날짜장우동, 맑은눈안경",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 대림성모점,인접,신대방역 4번 출구, 옛날짜장우동, 맑은눈안경"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동작구 신대방길 116",
+          "answer_wordNum": 4,
+          "fact": [
+            "컴포즈커피 대림성모점,주소,서울 동작구 신대방길 116"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-832-9628",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,연락처,02-832-9628"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동작구 신대방길 116",
+          "answer_wordNum": 4,
+          "fact": [
+            "컴포즈커피 대림성모점,주소,서울 동작구 신대방길 116"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-832-9628",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,연락처,02-832-9628"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "아메리카노, 카푸치노",
+          "answer_wordNum": 2,
+          "fact": [
+            "컴포즈커피 대림성모점,메뉴,아메리카노, 카푸치노"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신대방역 4번 출구, 옛날짜장우동, 맑은눈안경",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 대림성모점,인접,신대방역 4번 출구, 옛날짜장우동, 맑은눈안경"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-832-9628",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,연락처,02-832-9628"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신대방역 4번 출구, 옛날짜장우동, 맑은눈안경",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 대림성모점,인접,신대방역 4번 출구, 옛날짜장우동, 맑은눈안경"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 카푸치노",
+          "answer_wordNum": 2,
+          "fact": [
+            "컴포즈커피 대림성모점,메뉴,아메리카노, 카푸치노"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신대방역 4번 출구, 옛날짜장우동, 맑은눈안경",
+          "answer_wordNum": 5,
+          "fact": [
+            "컴포즈커피 대림성모점,인접,신대방역 4번 출구, 옛날짜장우동, 맑은눈안경"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-832-9628",
+          "answer_wordNum": 1,
+          "fact": [
+            "컴포즈커피 대림성모점,연락처,02-832-9628"
+          ]
+        }
+      ]
+    }
+  ]
+}

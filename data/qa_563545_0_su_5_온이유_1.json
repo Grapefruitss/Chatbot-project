@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563545",
+    "travelType": "음식점",
+    "place": "온이유",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563545_0_su_5_온이유_1_001.png",
+      "mapx": 37.5492315534857,
+      "mapy": 127.071750019847,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "온이유(군자동)",
+        "건물, 간판, 여닫이 문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563545_0_su_5_온이유_1_002.png",
+      "mapx": 37.5492315534857,
+      "mapy": 127.071750019847,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "온이유(군자동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563545_0_su_5_온이유_1_003.png",
+      "mapx": 37.5492315534857,
+      "mapy": 127.071750019847,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "온이유(군자동)",
+        "쇼케이스"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563545_0_su_5_온이유_1_004.png",
+      "mapx": 37.5492315534857,
+      "mapy": 127.071750019847,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "온이유(군자동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563545_0_su_5_온이유_1_005.png",
+      "mapx": 37.5492315534857,
+      "mapy": 127.071750019847,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "온이유(군자동)",
+        "마카롱"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:30/11:00 - 16:00/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "온이유,영업시간,08:30/11:00 - 16:00/19:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "아메리카노, 모카라떼",
+          "answer_wordNum": 2,
+          "fact": [
+            "온이유,메뉴,아메리카노, 모카라떼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 광진구 군자로10길 17 102동 1층 온이유",
+          "answer_wordNum": 7,
+          "fact": [
+            "온이유,주소,서울 광진구 군자로10길 17 102동 1층 온이유"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 군자로10길 17 102동 1층 온이유",
+          "answer_wordNum": 7,
+          "fact": [
+            "온이유,주소,서울 광진구 군자로10길 17 102동 1층 온이유"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "온이유,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-8808-5108",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,연락처,070-8808-5108"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-8808-5108",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,연락처,070-8808-5108"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어린이대공원역 5번 출구, 대명이튼캐슬, 미식반점",
+          "answer_wordNum": 5,
+          "fact": [
+            "온이유,인접,어린이대공원역 5번 출구, 대명이튼캐슬, 미식반점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "온이유,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-8808-5108",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,연락처,070-8808-5108"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:30/11:00 - 16:00/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "온이유,영업시간,08:30/11:00 - 16:00/19:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 군자로10길 17 102동 1층 온이유",
+          "answer_wordNum": 7,
+          "fact": [
+            "온이유,주소,서울 광진구 군자로10길 17 102동 1층 온이유"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 곳인가요?",
+          "question_wordNum": 4,
+          "answer": "수제 마카롱 카페, 디저트 카페",
+          "answer_wordNum": 5,
+          "fact": [
+            "온이유,이다,수제 마카롱 카페, 디저트 카페"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "온이유,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "어린이대공원역 5번 출구, 대명이튼캐슬, 미식반점",
+          "answer_wordNum": 5,
+          "fact": [
+            "온이유,인접,어린이대공원역 5번 출구, 대명이튼캐슬, 미식반점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-8808-5108",
+          "answer_wordNum": 1,
+          "fact": [
+            "온이유,연락처,070-8808-5108"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:30/11:00 - 16:00/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "온이유,영업시간,08:30/11:00 - 16:00/19:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

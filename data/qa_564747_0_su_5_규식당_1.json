@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564747",
+    "travelType": "음식점",
+    "place": "규식당",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564747_0_su_5_규식당_1_001.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "규식당(독산동)",
+        "간판, 여닫이문, 테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564747_0_su_5_규식당_1_002.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "규식당(독산동)",
+        "간판, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564747_0_su_5_규식당_1_003.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "규식당(독산동)",
+        "테이블, 등받이 의자, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564747_0_su_5_규식당_1_004.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "규식당(독산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564747_0_su_5_규식당_1_005.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "규식당(독산동)",
+        "삼겹구이, 밥, 단무지, 김치, 숟가락, 젓가락"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "삼겹구이, 삼겹 김치찌개",
+          "answer_wordNum": 3,
+          "fact": [
+            "규식당,메뉴,삼겹구이, 삼겹 김치찌개"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "금천구청역 1번 출구, 롯데마트, 고기극찬, 하나투어",
+          "answer_wordNum": 6,
+          "fact": [
+            "규식당,인접,금천구청역 1번 출구, 롯데마트, 고기극찬, 하나투어"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-5904-0224",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,연락처,010-5904-0224"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹구이, 삼겹 김치찌개",
+          "answer_wordNum": 3,
+          "fact": [
+            "규식당,메뉴,삼겹구이, 삼겹 김치찌개"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "규식당,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬상가 3차 110호",
+          "answer_wordNum": 7,
+          "fact": [
+            "규식당,주소,서울 금천구 시흥대로 291 금천롯데캐슬상가 3차 110호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "규식당,영업시간,11:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬상가 3차 110호",
+          "answer_wordNum": 7,
+          "fact": [
+            "규식당,주소,서울 금천구 시흥대로 291 금천롯데캐슬상가 3차 110호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "삼겹구이, 삼겹 김치찌개",
+          "answer_wordNum": 3,
+          "fact": [
+            "규식당,메뉴,삼겹구이, 삼겹 김치찌개"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-5904-0224",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,연락처,010-5904-0224"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬상가 3차 110호",
+          "answer_wordNum": 7,
+          "fact": [
+            "규식당,주소,서울 금천구 시흥대로 291 금천롯데캐슬상가 3차 110호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "삼겹구이, 삼겹 김치찌개",
+          "answer_wordNum": 3,
+          "fact": [
+            "규식당,메뉴,삼겹구이, 삼겹 김치찌개"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "010-5904-0224",
+          "answer_wordNum": 1,
+          "fact": [
+            "규식당,연락처,010-5904-0224"
+          ]
+        }
+      ]
+    }
+  ]
+}

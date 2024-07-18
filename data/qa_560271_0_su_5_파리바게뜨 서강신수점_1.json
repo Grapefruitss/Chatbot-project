@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "560271",
+    "travelType": "음식점",
+    "place": "파리바게뜨 서강신수점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "560271_0_su_5_파리바게뜨 서강신수점_1_001.png",
+      "mapx": 37.5495638879498,
+      "mapy": 126.937867281239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 서강신수점(신수동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "560271_0_su_5_파리바게뜨 서강신수점_1_002.png",
+      "mapx": 37.5495638879498,
+      "mapy": 126.937867281239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 서강신수점(신수동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "560271_0_su_5_파리바게뜨 서강신수점_1_003.png",
+      "mapx": 37.5495638879498,
+      "mapy": 126.937867281239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 서강신수점(신수동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "560271_0_su_5_파리바게뜨 서강신수점_1_004.png",
+      "mapx": 37.5495638879498,
+      "mapy": 126.937867281239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 서강신수점(신수동)",
+        "냉장고, 진열대, 빵"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "560271_0_su_5_파리바게뜨 서강신수점_1_005.png",
+      "mapx": 37.5495638879498,
+      "mapy": 126.937867281239,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "파리바게뜨 서강신수점(신수동)",
+        "샌드위치, 커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,영업시간,07:00~23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "실키롤케익, 오리지널 콤부차",
+          "answer_wordNum": 3,
+          "fact": [
+            "파리바게뜨 서강신수점,메뉴,실키롤케익, 오리지널 콤부차"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-716-1447",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,연락처,02-716-1447"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,영업시간,07:00~23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "실키롤케익, 오리지널 콤부차",
+          "answer_wordNum": 3,
+          "fact": [
+            "파리바게뜨 서강신수점,메뉴,실키롤케익, 오리지널 콤부차"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 마포구 광성로 44 서강대학교 정문 건너편",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 서강신수점,주소,서울 마포구 광성로 44 서강대학교 정문 건너편"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "대흥역 4번 출구, 광성고등학교, 신촌삼익 아파트",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 서강신수점,인접,대흥역 4번 출구, 광성고등학교, 신촌삼익 아파트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "실키롤케익, 오리지널 콤부차",
+          "answer_wordNum": 3,
+          "fact": [
+            "파리바게뜨 서강신수점,메뉴,실키롤케익, 오리지널 콤부차"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 마포구 광성로 44 서강대학교 정문 건너편",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 서강신수점,주소,서울 마포구 광성로 44 서강대학교 정문 건너편"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 마포구 광성로 44 서강대학교 정문 건너편",
+          "answer_wordNum": 7,
+          "fact": [
+            "파리바게뜨 서강신수점,주소,서울 마포구 광성로 44 서강대학교 정문 건너편"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-716-1447",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,연락처,02-716-1447"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:00~23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,영업시간,07:00~23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-716-1447",
+          "answer_wordNum": 1,
+          "fact": [
+            "파리바게뜨 서강신수점,연락처,02-716-1447"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "대흥역 4번 출구, 광성고등학교, 신촌삼익 아파트",
+          "answer_wordNum": 6,
+          "fact": [
+            "파리바게뜨 서강신수점,인접,대흥역 4번 출구, 광성고등학교, 신촌삼익 아파트"
+          ]
+        }
+      ]
+    }
+  ]
+}

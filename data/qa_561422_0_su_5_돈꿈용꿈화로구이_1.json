@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561422",
+    "travelType": "음식점",
+    "place": "돈꿈용꿈화로구이",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561422_0_su_5_돈꿈용꿈화로구이_1_001.png",
+      "mapx": 37.5636699569707,
+      "mapy": 126.851764453544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈꿈용꿈화로구이(가양동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561422_0_su_5_돈꿈용꿈화로구이_1_002.png",
+      "mapx": 37.5636699569707,
+      "mapy": 126.851764453544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈꿈용꿈화로구이(가양동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561422_0_su_5_돈꿈용꿈화로구이_1_003.png",
+      "mapx": 37.5636699569707,
+      "mapy": 126.851764453544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈꿈용꿈화로구이(가양동)",
+        "소주,컵,의자,탁자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561422_0_su_5_돈꿈용꿈화로구이_1_004.png",
+      "mapx": 37.5636699569707,
+      "mapy": 126.851764453544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈꿈용꿈화로구이(가양동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561422_0_su_5_돈꿈용꿈화로구이_1_005.png",
+      "mapx": 37.5636699569707,
+      "mapy": 126.851764453544,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "돈꿈용꿈화로구이(가양동)",
+        "고기,상추,고추,된장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 양천로57길 9-8 태민빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "돈꿈용꿈화로구이,주소,서울 강서구 양천로57길 9-8 태민빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "알로에 돼지갈비, 토종삼겹살",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,메뉴,알로에 돼지갈비, 토종삼겹살"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,영업시간,11:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "알로에 돼지갈비, 토종삼겹살",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,메뉴,알로에 돼지갈비, 토종삼겹살"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2668-6688",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,연락처,02-2668-6688"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "가양역 1번 출구, 제일식당, 굽네치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "돈꿈용꿈화로구이,인접,가양역 1번 출구, 제일식당, 굽네치킨"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,영업시간,11:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "알로에 돼지갈비, 토종삼겹살",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,메뉴,알로에 돼지갈비, 토종삼겹살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "가양역 1번 출구, 제일식당, 굽네치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "돈꿈용꿈화로구이,인접,가양역 1번 출구, 제일식당, 굽네치킨"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,영업시간,11:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "알로에 돼지갈비, 토종삼겹살",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,메뉴,알로에 돼지갈비, 토종삼겹살"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 양천로57길 9-8 태민빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "돈꿈용꿈화로구이,주소,서울 강서구 양천로57길 9-8 태민빌딩"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:30 - 23:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "돈꿈용꿈화로구이,영업시간,11:30 - 23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2668-6688",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,연락처,02-2668-6688"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "가양역 1번 출구, 제일식당, 굽네치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "돈꿈용꿈화로구이,인접,가양역 1번 출구, 제일식당, 굽네치킨"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "돈꿈용꿈화로구이,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

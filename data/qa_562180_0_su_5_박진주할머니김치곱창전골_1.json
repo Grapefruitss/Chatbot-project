@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562180",
+    "travelType": "음식점",
+    "place": "박진주할머니김치곱창전골",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562180_0_su_5_박진주할머니김치곱창전골_1_001.png",
+      "mapx": 37.4785358692204,
+      "mapy": 126.957147678773,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박진주할머니김치곱창전골(봉천동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562180_0_su_5_박진주할머니김치곱창전골_1_002.png",
+      "mapx": 37.4785358692204,
+      "mapy": 126.957147678773,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박진주할머니김치곱창전골(봉천동)",
+        "간판, 여닫이문, 배너간판, 테이블"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562180_0_su_5_박진주할머니김치곱창전골_1_003.png",
+      "mapx": 37.4785358692204,
+      "mapy": 126.957147678773,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박진주할머니김치곱창전골(봉천동)",
+        "테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562180_0_su_5_박진주할머니김치곱창전골_1_004.png",
+      "mapx": 37.4785358692204,
+      "mapy": 126.957147678773,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박진주할머니김치곱창전골(봉천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562180_0_su_5_박진주할머니김치곱창전골_1_005.png",
+      "mapx": 37.4785358692204,
+      "mapy": 126.957147678773,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "박진주할머니김치곱창전골(봉천동)",
+        "김치곱창전골"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "겉절이",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,사용,겉절이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 1번 출구, 정성공인중개사사무소, 온돌 서울대입구점",
+          "answer_wordNum": 6,
+          "fact": [
+            "박진주할머니김치곱창전골,인접,서울대입구역 1번 출구, 정성공인중개사사무소, 온돌 서울대입구점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로234길 19",
+          "answer_wordNum": 4,
+          "fact": [
+            "박진주할머니김치곱창전골,주소,서울 관악구 남부순환로234길 19"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1355-4833",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,연락처,0507-1355-4833"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남부순환로234길 19",
+          "answer_wordNum": 4,
+          "fact": [
+            "박진주할머니김치곱창전골,주소,서울 관악구 남부순환로234길 19"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1355-4833",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,연락처,0507-1355-4833"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "박진주할머니김치곱창전골,영업시간,17:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "박진주할머니김치곱창전골,영업시간,17:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치곱창전골, 들깨김치곱창전골",
+          "answer_wordNum": 2,
+          "fact": [
+            "박진주할머니김치곱창전골,메뉴,김치곱창전골, 들깨김치곱창전골"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "김치곱창전골, 들깨김치곱창전골",
+          "answer_wordNum": 2,
+          "fact": [
+            "박진주할머니김치곱창전골,메뉴,김치곱창전골, 들깨김치곱창전골"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "겉절이",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,사용,겉절이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 1번 출구, 정성공인중개사사무소, 온돌 서울대입구점",
+          "answer_wordNum": 6,
+          "fact": [
+            "박진주할머니김치곱창전골,인접,서울대입구역 1번 출구, 정성공인중개사사무소, 온돌 서울대입구점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 1번 출구, 정성공인중개사사무소, 온돌 서울대입구점",
+          "answer_wordNum": 6,
+          "fact": [
+            "박진주할머니김치곱창전골,인접,서울대입구역 1번 출구, 정성공인중개사사무소, 온돌 서울대입구점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1355-4833",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,연락처,0507-1355-4833"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "박진주할머니김치곱창전골,주차시설,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

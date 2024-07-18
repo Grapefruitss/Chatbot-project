@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563251",
+    "travelType": "음식점",
+    "place": "트라타 건국대점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563251_0_su_5_트라타 건국대점_1_001.png",
+      "mapx": 37.5385484727146,
+      "mapy": 127.076244195728,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "트라타 건국대점(자양동)",
+        "간판, 여닫이문, 배너, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563251_0_su_5_트라타 건국대점_1_002.png",
+      "mapx": 37.5385484727146,
+      "mapy": 127.076244195728,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "트라타 건국대점(자양동)",
+        "간판, 여닫이문, 테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563251_0_su_5_트라타 건국대점_1_003.png",
+      "mapx": 37.5385484727146,
+      "mapy": 127.076244195728,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "트라타 건국대점(자양동)",
+        "테이블, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563251_0_su_5_트라타 건국대점_1_004.png",
+      "mapx": 37.5385484727146,
+      "mapy": 127.076244195728,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "트라타 건국대점(자양동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563251_0_su_5_트라타 건국대점_1_005.png",
+      "mapx": 37.5385484727146,
+      "mapy": 127.076244195728,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "트라타 건국대점(자양동)",
+        "트라타"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-9612",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,연락처,02-444-9612"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "화이타, 치킨 부리또 볼",
+          "answer_wordNum": 4,
+          "fact": [
+            "트라타 건국대점,메뉴,화이타, 치킨 부리또 볼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 297 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "트라타 건국대점,주소,서울 광진구 아차산로 297 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-9612",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,연락처,02-444-9612"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "건대입구역 4번 출구, 야밤또주, 한양공구",
+          "answer_wordNum": 5,
+          "fact": [
+            "트라타 건국대점,인접,건대입구역 4번 출구, 야밤또주, 한양공구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 297 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "트라타 건국대점,주소,서울 광진구 아차산로 297 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "화이타, 치킨 부리또 볼",
+          "answer_wordNum": 4,
+          "fact": [
+            "트라타 건국대점,메뉴,화이타, 치킨 부리또 볼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 297 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "트라타 건국대점,주소,서울 광진구 아차산로 297 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 01:00/23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "트라타 건국대점,영업시간,11:00 - 01:00/23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "화이타, 치킨 부리또 볼",
+          "answer_wordNum": 4,
+          "fact": [
+            "트라타 건국대점,메뉴,화이타, 치킨 부리또 볼"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 297 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "트라타 건국대점,주소,서울 광진구 아차산로 297 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 01:00/23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "트라타 건국대점,영업시간,11:00 - 01:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "화이타, 치킨 부리또 볼",
+          "answer_wordNum": 4,
+          "fact": [
+            "트라타 건국대점,메뉴,화이타, 치킨 부리또 볼"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-9612",
+          "answer_wordNum": 1,
+          "fact": [
+            "트라타 건국대점,연락처,02-444-9612"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로 297 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "트라타 건국대점,주소,서울 광진구 아차산로 297 1층"
+          ]
+        }
+      ]
+    }
+  ]
+}

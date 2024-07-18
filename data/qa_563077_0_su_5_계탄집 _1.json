@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563077",
+    "travelType": "음식점",
+    "place": "계탄집 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563077_0_su_5_계탄집 _1_001.png",
+      "mapx": 37.5342776949491,
+      "mapy": 127.067730487671,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄집(자양동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563077_0_su_5_계탄집 _1_002.png",
+      "mapx": 37.5342776949491,
+      "mapy": 127.067730487671,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄집(자양동)",
+        "간판, 건물, 화분, 배너"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563077_0_su_5_계탄집 _1_003.png",
+      "mapx": 37.5342776949491,
+      "mapy": 127.067730487671,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄집(자양동)",
+        "테이블, 의자, 플라스틱 박스, 연기 흡입기, 쓰레기통"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563077_0_su_5_계탄집 _1_004.png",
+      "mapx": 37.5342776949491,
+      "mapy": 127.067730487671,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄집(자양동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563077_0_su_5_계탄집 _1_005.png",
+      "mapx": 37.5342776949491,
+      "mapy": 127.067730487671,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "계탄집(자양동)",
+        "고기, 컵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "소금구이, 간장양념",
+          "answer_wordNum": 2,
+          "fact": [
+            "계탄집,메뉴,소금구이, 간장양념"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뚝섬유원지역 1번 출구, 자양고등학교, 신지초등학교가",
+          "answer_wordNum": 5,
+          "fact": [
+            "계탄집,인접,뚝섬유원지역 1번 출구, 자양고등학교, 신지초등학교가"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 31 뚝섬유원지맛집 계탄집 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "계탄집,주소,서울 광진구 능동로 31 뚝섬유원지맛집 계탄집 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "13:00/14:30 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "계탄집,영업시간,13:00/14:30 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1414-6804",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,연락처,0507-1414-6804"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1414-6804",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,연락처,0507-1414-6804"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 능동로 31 뚝섬유원지맛집 계탄집 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "계탄집,주소,서울 광진구 능동로 31 뚝섬유원지맛집 계탄집 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금구이, 간장양념",
+          "answer_wordNum": 2,
+          "fact": [
+            "계탄집,메뉴,소금구이, 간장양념"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1414-6804",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,연락처,0507-1414-6804"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "13:00/14:30 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "계탄집,영업시간,13:00/14:30 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뚝섬유원지역 1번 출구, 자양고등학교, 신지초등학교가",
+          "answer_wordNum": 5,
+          "fact": [
+            "계탄집,인접,뚝섬유원지역 1번 출구, 자양고등학교, 신지초등학교가"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "소금구이, 간장양념",
+          "answer_wordNum": 2,
+          "fact": [
+            "계탄집,메뉴,소금구이, 간장양념"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1414-6804",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,연락처,0507-1414-6804"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "계탄집,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 31 뚝섬유원지맛집 계탄집 1층",
+          "answer_wordNum": 7,
+          "fact": [
+            "계탄집,주소,서울 광진구 능동로 31 뚝섬유원지맛집 계탄집 1층"
+          ]
+        }
+      ]
+    }
+  ]
+}

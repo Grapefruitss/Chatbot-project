@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561236",
+    "travelType": "음식점",
+    "place": "공차 개롱역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561236_0_su_5_공차 개롱역점_2_001.png",
+      "mapx": 37.4977336406425,
+      "mapy": 127.133826860024,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 개롱역점(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561236_0_su_5_공차 개롱역점_2_002.png",
+      "mapx": 37.4977336406425,
+      "mapy": 127.133826860024,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 개롱역점(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561236_0_su_5_공차 개롱역점_2_003.png",
+      "mapx": 37.4977336406425,
+      "mapy": 127.133826860024,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 개롱역점(강서구)",
+        "카운터, 에어컨 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561236_0_su_5_공차 개롱역점_2_004.png",
+      "mapx": 37.4977336406425,
+      "mapy": 127.133826860024,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 개롱역점(강서구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561236_0_su_5_공차 개롱역점_2_005.png",
+      "mapx": 37.4977336406425,
+      "mapy": 127.133826860024,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 개롱역점(강서구)",
+        "버블티 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 송파구 동남로 240-6",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 개롱역점,주소,서울 송파구 동남로 240-6"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-443-0679",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,연락처,02-443-0679"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 개롱역점,영업시간,09:00 - 22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "개롱역 4번 출구, 삼성래미안파크팰리스아파트, 가동초등학교",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 개롱역점,인접,개롱역 4번 출구, 삼성래미안파크팰리스아파트, 가동초등학교"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "블랙티, 얼그레니",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 개롱역점,메뉴,블랙티, 얼그레니"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙티, 얼그레니",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 개롱역점,메뉴,블랙티, 얼그레니"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 개롱역점,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-443-0679",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,연락처,02-443-0679"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "개롱역 4번 출구, 삼성래미안파크팰리스아파트, 가동초등학교",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 개롱역점,인접,개롱역 4번 출구, 삼성래미안파크팰리스아파트, 가동초등학교"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 개롱역점,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "블랙티, 얼그레니",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 개롱역점,메뉴,블랙티, 얼그레니"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "09:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 개롱역점,영업시간,09:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "블랙티, 얼그레니",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 개롱역점,메뉴,블랙티, 얼그레니"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 개롱역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "개롱역 4번 출구, 삼성래미안파크팰리스아파트, 가동초등학교",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 개롱역점,인접,개롱역 4번 출구, 삼성래미안파크팰리스아파트, 가동초등학교"
+          ]
+        }
+      ]
+    }
+  ]
+}

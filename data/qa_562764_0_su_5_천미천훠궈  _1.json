@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562764",
+    "travelType": "음식점",
+    "place": "천미천훠궈  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562764_0_su_5_천미천훠궈  _1_001.png",
+      "mapx": 37.5564856023715,
+      "mapy": 127.079851017238,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천미천훠궈(광진구)  ",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562764_0_su_5_천미천훠궈  _1_002.png",
+      "mapx": 37.5564856023715,
+      "mapy": 127.079851017238,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천미천훠궈(광진구)  ",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562764_0_su_5_천미천훠궈  _1_003.png",
+      "mapx": 37.5564856023715,
+      "mapy": 127.079851017238,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천미천훠궈(광진구)  ",
+        "등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562764_0_su_5_천미천훠궈  _1_004.png",
+      "mapx": 37.5564856023715,
+      "mapy": 127.079851017238,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천미천훠궈(광진구)  ",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562764_0_su_5_천미천훠궈  _1_005.png",
+      "mapx": 37.5564856023715,
+      "mapy": 127.079851017238,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천미천훠궈(광진구)  ",
+        "접시 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "마라탕, 소고기 샤브샤브",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,메뉴,마라탕, 소고기 샤브샤브"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-429-3826",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,연락처,02-429-3826"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 6번 출구, 찜마을, 부티크나인호텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "천미천훠궈,인접,군자역 6번 출구, 찜마을, 부티크나인호텔"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,영업시간,11:00-23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로110길 8-10",
+          "answer_wordNum": 4,
+          "fact": [
+            "천미천훠궈,주소,서울 광진구 천호대로110길 8-10"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 6번 출구, 찜마을, 부티크나인호텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "천미천훠궈,인접,군자역 6번 출구, 찜마을, 부티크나인호텔"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 월요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,휴무일,첫째, 셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 6번 출구, 찜마을, 부티크나인호텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "천미천훠궈,인접,군자역 6번 출구, 찜마을, 부티크나인호텔"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로110길 8-10",
+          "answer_wordNum": 4,
+          "fact": [
+            "천미천훠궈,주소,서울 광진구 천호대로110길 8-10"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-429-3826",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,연락처,02-429-3826"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "마라탕, 소고기 샤브샤브",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,메뉴,마라탕, 소고기 샤브샤브"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "첫째, 셋째 월요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,휴무일,첫째, 셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-429-3826",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,연락처,02-429-3826"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "마라탕, 소고기 샤브샤브",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,메뉴,마라탕, 소고기 샤브샤브"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,영업시간,11:00-23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,영업시간,11:00-23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "첫째, 셋째 월요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,휴무일,첫째, 셋째 월요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "마라탕, 소고기 샤브샤브",
+          "answer_wordNum": 3,
+          "fact": [
+            "천미천훠궈,메뉴,마라탕, 소고기 샤브샤브"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천미천훠궈,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

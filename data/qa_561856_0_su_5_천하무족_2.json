@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561856",
+    "travelType": "음식점",
+    "place": "천하무족",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561856_0_su_5_천하무족_2_001.png",
+      "mapx": 37.560071074175,
+      "mapy": 126.809920253434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천하무족(공항동)",
+        "간판, 미닫이문, 전등, 현수막, 풍선간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561856_0_su_5_천하무족_2_002.png",
+      "mapx": 37.560071074175,
+      "mapy": 126.809920253434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천하무족(공항동)",
+        "간판, 여닫이문, 건물, 현수막, 전신주"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561856_0_su_5_천하무족_2_003.png",
+      "mapx": 37.560071074175,
+      "mapy": 126.809920253434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천하무족(공항동)",
+        "테이블, 등받이의자, 조명"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561856_0_su_5_천하무족_2_004.png",
+      "mapx": 37.560071074175,
+      "mapy": 126.809920253434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천하무족(공항동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561856_0_su_5_천하무족_2_005.png",
+      "mapx": 37.560071074175,
+      "mapy": 126.809920253434,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "천하무족(공항동)",
+        "족발"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "송정역 4번 출구, 양푼매운갈비찜, 커피메이드 송정역점",
+          "answer_wordNum": 6,
+          "fact": [
+            "천하무족,인접,송정역 4번 출구, 양푼매운갈비찜, 커피메이드 송정역점"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천하무족,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천하무족,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 송정로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "천하무족,주소,서울 강서구 송정로 59"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2064-3379",
+          "answer_wordNum": 1,
+          "fact": [
+            "천하무족,연락처,02-2064-3379"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "송정역 4번 출구, 양푼매운갈비찜, 커피메이드 송정역점",
+          "answer_wordNum": 6,
+          "fact": [
+            "천하무족,인접,송정역 4번 출구, 양푼매운갈비찜, 커피메이드 송정역점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "천하무족,영업시간,17:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 송정로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "천하무족,주소,서울 강서구 송정로 59"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천하무족,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "족발, 비빔소면",
+          "answer_wordNum": 2,
+          "fact": [
+            "천하무족,메뉴,족발, 비빔소면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "17:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "천하무족,영업시간,17:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 송정로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "천하무족,주소,서울 강서구 송정로 59"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천하무족,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "족발, 비빔소면",
+          "answer_wordNum": 2,
+          "fact": [
+            "천하무족,메뉴,족발, 비빔소면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "송정역 4번 출구, 양푼매운갈비찜, 커피메이드 송정역점",
+          "answer_wordNum": 6,
+          "fact": [
+            "천하무족,인접,송정역 4번 출구, 양푼매운갈비찜, 커피메이드 송정역점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 송정로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "천하무족,주소,서울 강서구 송정로 59"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "17:00 - 24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "천하무족,영업시간,17:00 - 24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "족발, 비빔소면",
+          "answer_wordNum": 2,
+          "fact": [
+            "천하무족,메뉴,족발, 비빔소면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "천하무족,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 송정로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "천하무족,주소,서울 강서구 송정로 59"
+          ]
+        }
+      ]
+    }
+  ]
+}

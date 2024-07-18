@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558520",
+    "travelType": "음식점",
+    "place": "쥬씨 역촌역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558520_0_su_5_쥬씨 역촌역점_1_001.png",
+      "mapx": 37.6070075809917,
+      "mapy": 126.921952781175,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 역촌역점(역촌동)",
+        "간판, 어닝, 조명"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558520_0_su_5_쥬씨 역촌역점_1_002.png",
+      "mapx": 37.6070075809917,
+      "mapy": 126.921952781175,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 역촌역점(역촌동)",
+        "간판, 어닝, 창문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558520_0_su_5_쥬씨 역촌역점_1_003.png",
+      "mapx": 37.6070075809917,
+      "mapy": 126.921952781175,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 역촌역점(역촌동)",
+        "테이블, 등받이의자, 액자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558520_0_su_5_쥬씨 역촌역점_1_004.png",
+      "mapx": 37.6070075809917,
+      "mapy": 126.921952781175,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 역촌역점(역촌동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558520_0_su_5_쥬씨 역촌역점_1_005.png",
+      "mapx": 37.6070075809917,
+      "mapy": 126.921952781175,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 역촌역점(역촌동)",
+        "음료, 플라스틱컵, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "역촌역 1번 출구, 가마치통닭, 노랑통닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 역촌역점,인접,역촌역 1번 출구, 가마치통닭, 노랑통닭"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 은평구 서오릉로 71",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 역촌역점,주소,서울 은평구 서오릉로 71"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 은평구 서오릉로 71",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 역촌역점,주소,서울 은평구 서오릉로 71"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "딸기, 수박",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 역촌역점,메뉴,딸기, 수박"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-355-1600",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,연락처,02-355-1600"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 은평구 서오릉로 71",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 역촌역점,주소,서울 은평구 서오릉로 71"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-355-1600",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,연락처,02-355-1600"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "역촌역 1번 출구, 가마치통닭, 노랑통닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 역촌역점,인접,역촌역 1번 출구, 가마치통닭, 노랑통닭"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-355-1600",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,연락처,02-355-1600"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 은평구 서오릉로 71",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 역촌역점,주소,서울 은평구 서오릉로 71"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "역촌역 1번 출구, 가마치통닭, 노랑통닭",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 역촌역점,인접,역촌역 1번 출구, 가마치통닭, 노랑통닭"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 역촌역점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "딸기, 수박",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 역촌역점,메뉴,딸기, 수박"
+          ]
+        }
+      ]
+    }
+  ]
+}

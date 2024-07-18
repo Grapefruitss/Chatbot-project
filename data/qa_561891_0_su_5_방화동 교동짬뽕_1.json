@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561891",
+    "travelType": "음식점",
+    "place": "방화동 교동짬뽕",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561891_0_su_5_방화동 교동짬뽕_1_001.png",
+      "mapx": 37.5773240954771,
+      "mapy": 126.815755208466,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "방화동 교동짬뽕(강서구)",
+        "냉장고 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561891_0_su_5_방화동 교동짬뽕_1_002.png",
+      "mapx": 37.5773240954771,
+      "mapy": 126.815755208466,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "방화동 교동짬뽕(강서구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561891_0_su_5_방화동 교동짬뽕_1_003.png",
+      "mapx": 37.5773240954771,
+      "mapy": 126.815755208466,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "방화동 교동짬뽕(강서구)",
+        "등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561891_0_su_5_방화동 교동짬뽕_1_004.png",
+      "mapx": 37.5773240954771,
+      "mapy": 126.815755208466,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "방화동 교동짬뽕(강서구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561891_0_su_5_방화동 교동짬뽕_1_005.png",
+      "mapx": 37.5773240954771,
+      "mapy": 126.815755208466,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "방화동 교동짬뽕(강서구)",
+        "그릇 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,영업시간,11:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2665-5778",
+          "answer_wordNum": 1,
+          "fact": [
+            "방화동 교동짬뽕,연락처,02-2665-5778"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "방화역 3번 출구, 이루미팰리스, 단앤반",
+          "answer_wordNum": 5,
+          "fact": [
+            "방화동 교동짬뽕,인접,방화역 3번 출구, 이루미팰리스, 단앤반"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "교동짬뽕, 순두부 짬뽕밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,메뉴,교동짬뽕, 순두부 짬뽕밥"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2665-5778",
+          "answer_wordNum": 1,
+          "fact": [
+            "방화동 교동짬뽕,연락처,02-2665-5778"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "교동짬뽕, 순두부 짬뽕밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,메뉴,교동짬뽕, 순두부 짬뽕밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "방화역 3번 출구, 이루미팰리스, 단앤반",
+          "answer_wordNum": 5,
+          "fact": [
+            "방화동 교동짬뽕,인접,방화역 3번 출구, 이루미팰리스, 단앤반"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,영업시간,11:00 - 20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2665-5778",
+          "answer_wordNum": 1,
+          "fact": [
+            "방화동 교동짬뽕,연락처,02-2665-5778"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 금낭화로24나길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "방화동 교동짬뽕,주소,서울 강서구 금낭화로24나길 21"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "방화동 교동짬뽕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,영업시간,11:00 - 20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "방화동 교동짬뽕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "교동짬뽕, 순두부 짬뽕밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,메뉴,교동짬뽕, 순두부 짬뽕밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 금낭화로24나길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "방화동 교동짬뽕,주소,서울 강서구 금낭화로24나길 21"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,영업시간,11:00 - 20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,영업시간,11:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "방화역 3번 출구, 이루미팰리스, 단앤반",
+          "answer_wordNum": 5,
+          "fact": [
+            "방화동 교동짬뽕,인접,방화역 3번 출구, 이루미팰리스, 단앤반"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "교동짬뽕, 순두부 짬뽕밥",
+          "answer_wordNum": 3,
+          "fact": [
+            "방화동 교동짬뽕,메뉴,교동짬뽕, 순두부 짬뽕밥"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 금낭화로24나길 21",
+          "answer_wordNum": 4,
+          "fact": [
+            "방화동 교동짬뽕,주소,서울 강서구 금낭화로24나길 21"
+          ]
+        }
+      ]
+    }
+  ]
+}

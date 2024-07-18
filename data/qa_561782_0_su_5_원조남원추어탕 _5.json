@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561782",
+    "travelType": "음식점",
+    "place": "원조남원추어탕 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561782_0_su_5_원조남원추어탕 _5_001.png",
+      "mapx": 37.5577276461993,
+      "mapy": 126.843955263022,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "원조남원추어탕(내발산동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561782_0_su_5_원조남원추어탕 _5_002.png",
+      "mapx": 37.5577276461993,
+      "mapy": 126.843955263022,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "원조남원추어탕(내발산동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561782_0_su_5_원조남원추어탕 _5_003.png",
+      "mapx": 37.5577276461993,
+      "mapy": 126.843955263022,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "원조남원추어탕(내발산동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561782_0_su_5_원조남원추어탕 _5_004.png",
+      "mapx": 37.5577276461993,
+      "mapy": 126.843955263022,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "원조남원추어탕(내발산동)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561782_0_su_5_원조남원추어탕 _5_005.png",
+      "mapx": 37.5577276461993,
+      "mapy": 126.843955263022,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "원조남원추어탕(내발산동)",
+        "추어탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "발산역 5번 출구, 교촌치킨, 마키아",
+          "answer_wordNum": 5,
+          "fact": [
+            "원조남원추어탕,인접,발산역 5번 출구, 교촌치킨, 마키아"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00~20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,영업시간,11:00~20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "남원추어탕, 수제추어튀김",
+          "answer_wordNum": 2,
+          "fact": [
+            "원조남원추어탕,메뉴,남원추어탕, 수제추어튀김"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3665-3771",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,연락처,02-3665-3771"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,휴무일,공휴일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 공항대로42길 4",
+          "answer_wordNum": 4,
+          "fact": [
+            "원조남원추어탕,주소,서울 강서구 공항대로42길 4"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "된장, 고추장, 간장, 미꾸라지",
+          "answer_wordNum": 4,
+          "fact": [
+            "원조남원추어탕,사용,된장, 고추장, 간장, 미꾸라지"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "된장, 고추장, 간장, 미꾸라지",
+          "answer_wordNum": 4,
+          "fact": [
+            "원조남원추어탕,사용,된장, 고추장, 간장, 미꾸라지"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "작은방 이용, 방문 포장",
+          "answer_wordNum": 4,
+          "fact": [
+            "원조남원추어탕,가능,작은방 이용, 방문 포장"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,영업시간,11:00~20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": " 이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 6,
+          "answer": "추어탕",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,전문,추어탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "남원추어탕, 수제추어튀김",
+          "answer_wordNum": 2,
+          "fact": [
+            "원조남원추어탕,메뉴,남원추어탕, 수제추어튀김"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "발산역 5번 출구, 교촌치킨, 마키아",
+          "answer_wordNum": 5,
+          "fact": [
+            "원조남원추어탕,인접,발산역 5번 출구, 교촌치킨, 마키아"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3665-3771",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,연락처,02-3665-3771"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 공항대로42길 4",
+          "answer_wordNum": 4,
+          "fact": [
+            "원조남원추어탕,주소,서울 강서구 공항대로42길 4"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00~20:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,영업시간,11:00~20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "공휴일",
+          "answer_wordNum": 1,
+          "fact": [
+            "원조남원추어탕,휴무일,공휴일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능하나요?",
+          "question_wordNum": 4,
+          "answer": "작은방 이용, 방문 포장",
+          "answer_wordNum": 4,
+          "fact": [
+            "원조남원추어탕,가능,작은방 이용, 방문 포장"
+          ]
+        }
+      ]
+    }
+  ]
+}

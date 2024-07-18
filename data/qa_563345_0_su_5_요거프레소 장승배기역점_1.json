@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563345",
+    "travelType": "음식점",
+    "place": "요거프레소 장승배기역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563345_0_su_5_요거프레소 장승배기역점_1_001.png",
+      "mapx": 37.504803193551,
+      "mapy": 126.938547350594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요거프레소 장승배기역점(동작구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563345_0_su_5_요거프레소 장승배기역점_1_002.png",
+      "mapx": 37.504803193551,
+      "mapy": 126.938547350594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요거프레소 장승배기역점(동작구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563345_0_su_5_요거프레소 장승배기역점_1_003.png",
+      "mapx": 37.504803193551,
+      "mapy": 126.938547350594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요거프레소 장승배기역점(동작구)",
+        "사각 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563345_0_su_5_요거프레소 장승배기역점_1_004.png",
+      "mapx": 37.504803193551,
+      "mapy": 126.938547350594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요거프레소 장승배기역점(동작구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563345_0_su_5_요거프레소 장승배기역점_1_005.png",
+      "mapx": 37.504803193551,
+      "mapy": 126.938547350594,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요거프레소 장승배기역점(동작구)",
+        "음료수 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "커피, 요거트아이스크림",
+          "answer_wordNum": 2,
+          "fact": [
+            "요거프레소 장승배기역점,메뉴,커피, 요거트아이스크림"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6212-0380",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,연락처,02-6212-0380"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "장승배기역 4번 출구, 요란, 더벤티",
+          "answer_wordNum": 5,
+          "fact": [
+            "요거프레소 장승배기역점,인접,장승배기역 4번 출구, 요란, 더벤티"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "장승배기역 4번 출구, 요란, 더벤티",
+          "answer_wordNum": 5,
+          "fact": [
+            "요거프레소 장승배기역점,인접,장승배기역 4번 출구, 요란, 더벤티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "커피, 요거트아이스크림",
+          "answer_wordNum": 2,
+          "fact": [
+            "요거프레소 장승배기역점,메뉴,커피, 요거트아이스크림"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동작구 상도로 179",
+          "answer_wordNum": 4,
+          "fact": [
+            "요거프레소 장승배기역점,주소,서울 동작구 상도로 179"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동작구 상도로 179",
+          "answer_wordNum": 4,
+          "fact": [
+            "요거프레소 장승배기역점,주소,서울 동작구 상도로 179"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "장승배기역 4번 출구, 요란, 더벤티",
+          "answer_wordNum": 5,
+          "fact": [
+            "요거프레소 장승배기역점,인접,장승배기역 4번 출구, 요란, 더벤티"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6212-0380",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,연락처,02-6212-0380"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "커피, 요거트아이스크림",
+          "answer_wordNum": 2,
+          "fact": [
+            "요거프레소 장승배기역점,메뉴,커피, 요거트아이스크림"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "장승배기역 4번 출구, 요란, 더벤티",
+          "answer_wordNum": 5,
+          "fact": [
+            "요거프레소 장승배기역점,인접,장승배기역 4번 출구, 요란, 더벤티"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동작구 상도로 179",
+          "answer_wordNum": 4,
+          "fact": [
+            "요거프레소 장승배기역점,주소,서울 동작구 상도로 179"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6212-0380",
+          "answer_wordNum": 1,
+          "fact": [
+            "요거프레소 장승배기역점,연락처,02-6212-0380"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 22:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "요거프레소 장승배기역점,영업시간,12:00 - 22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "장승배기역 4번 출구, 요란, 더벤티",
+          "answer_wordNum": 5,
+          "fact": [
+            "요거프레소 장승배기역점,인접,장승배기역 4번 출구, 요란, 더벤티"
+          ]
+        }
+      ]
+    }
+  ]
+}

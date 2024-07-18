@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "556019",
+    "travelType": "음식점",
+    "place": "매머드익스프레스 행당무학점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "556019_0_su_5_매머드익스프레스 행당무학점_1_001.png",
+      "mapx": 37.5585014527443,
+      "mapy": 127.033306354413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 행당무학점(행당동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "556019_0_su_5_매머드익스프레스 행당무학점_1_002.png",
+      "mapx": 37.5585014527443,
+      "mapy": 127.033306354413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 행당무학점(행당동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "556019_0_su_5_매머드익스프레스 행당무학점_1_003.png",
+      "mapx": 37.5585014527443,
+      "mapy": 127.033306354413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 행당무학점(행당동)",
+        "키오스크, 메뉴판, 카운터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "556019_0_su_5_매머드익스프레스 행당무학점_1_004.png",
+      "mapx": 37.5585014527443,
+      "mapy": 127.033306354413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 행당무학점(행당동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "556019_0_su_5_매머드익스프레스 행당무학점_1_005.png",
+      "mapx": 37.5585014527443,
+      "mapy": 127.033306354413,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "매머드익스프레스 행당무학점(행당동)",
+        "커피"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "돌체 콜드브루 라떼, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "매머드익스프레스 행당무학점,메뉴,돌체 콜드브루 라떼, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "왕십리역 10번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,인접,왕십리역 10번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 행당무학점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1315-3211",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 행당무학점,연락처,0507-1315-3211"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 행당무학점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:40/08:00 - 18:40/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,영업시간,07:40/08:00 - 18:40/19:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "돌체 콜드브루 라떼, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "매머드익스프레스 행당무학점,메뉴,돌체 콜드브루 라떼, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 성동구 행당로 129 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "매머드익스프레스 행당무학점,주소,서울 성동구 행당로 129 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성동구 행당로 129 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "매머드익스프레스 행당무학점,주소,서울 성동구 행당로 129 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1315-3211",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 행당무학점,연락처,0507-1315-3211"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "왕십리역 10번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,인접,왕십리역 10번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "07:40/08:00 - 18:40/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,영업시간,07:40/08:00 - 18:40/19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:40/08:00 - 18:40/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,영업시간,07:40/08:00 - 18:40/19:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 성동구 행당로 129 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "매머드익스프레스 행당무학점,주소,서울 성동구 행당로 129 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 행당무학점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "왕십리역 10번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,인접,왕십리역 10번 출구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:40/08:00 - 18:40/19:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,영업시간,07:40/08:00 - 18:40/19:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "매머드익스프레스 행당무학점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "왕십리역 10번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "매머드익스프레스 행당무학점,인접,왕십리역 10번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "돌체 콜드브루 라떼, 아메리카노",
+          "answer_wordNum": 4,
+          "fact": [
+            "매머드익스프레스 행당무학점,메뉴,돌체 콜드브루 라떼, 아메리카노"
+          ]
+        }
+      ]
+    }
+  ]
+}

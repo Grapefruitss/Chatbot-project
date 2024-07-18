@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564910",
+    "travelType": "음식점",
+    "place": "일곱평  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564910_0_su_5_일곱평  _1_001.png",
+      "mapx": 37.5876337060374,
+      "mapy": 127.035087859545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일곱평(제기동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564910_0_su_5_일곱평  _1_002.png",
+      "mapx": 37.5876337060374,
+      "mapy": 127.035087859545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일곱평(제기동)",
+        "건물, 간판, 전선, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564910_0_su_5_일곱평  _1_003.png",
+      "mapx": 37.5876337060374,
+      "mapy": 127.035087859545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일곱평(제기동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564910_0_su_5_일곱평  _1_004.png",
+      "mapx": 37.5876337060374,
+      "mapy": 127.035087859545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일곱평(제기동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564910_0_su_5_일곱평  _1_005.png",
+      "mapx": 37.5876337060374,
+      "mapy": 127.035087859545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일곱평(제기동)",
+        "파스타"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 제기로5길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "일곱평,주소,서울 동대문구 제기로5길 28"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1421-9979",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,연락처,0507-1421-9979"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "통마늘베이컨 오일파스타, 날치알 로제파스타",
+          "answer_wordNum": 4,
+          "fact": [
+            "일곱평,메뉴,통마늘베이컨 오일파스타, 날치알 로제파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 제기로5길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "일곱평,주소,서울 동대문구 제기로5길 28"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "일곱평,영업시간,11:00 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1421-9979",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,연락처,0507-1421-9979"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "일곱평,영업시간,11:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "통마늘베이컨 오일파스타, 날치알 로제파스타",
+          "answer_wordNum": 4,
+          "fact": [
+            "일곱평,메뉴,통마늘베이컨 오일파스타, 날치알 로제파스타"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "통마늘베이컨 오일파스타, 날치알 로제파스타",
+          "answer_wordNum": 4,
+          "fact": [
+            "일곱평,메뉴,통마늘베이컨 오일파스타, 날치알 로제파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고려대역 6번 출구, 류본점, 금복식당",
+          "answer_wordNum": 5,
+          "fact": [
+            "일곱평,인접,고려대역 6번 출구, 류본점, 금복식당"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1421-9979",
+          "answer_wordNum": 1,
+          "fact": [
+            "일곱평,연락처,0507-1421-9979"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "일곱평,영업시간,11:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고려대역 6번 출구, 류본점, 금복식당",
+          "answer_wordNum": 5,
+          "fact": [
+            "일곱평,인접,고려대역 6번 출구, 류본점, 금복식당"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 제기로5길 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "일곱평,주소,서울 동대문구 제기로5길 28"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561710",
+    "travelType": "음식점",
+    "place": "왕십리순대국",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561710_0_su_5_왕십리순대국_1_001.png",
+      "mapx": 37.5491782382615,
+      "mapy": 126.83383203023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "왕십리순대국(내발산동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561710_0_su_5_왕십리순대국_1_002.png",
+      "mapx": 37.5491782382615,
+      "mapy": 126.83383203023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "왕십리순대국(내발산동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561710_0_su_5_왕십리순대국_1_003.png",
+      "mapx": 37.5491782382615,
+      "mapy": 126.83383203023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "왕십리순대국(내발산동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561710_0_su_5_왕십리순대국_1_004.png",
+      "mapx": 37.5491782382615,
+      "mapy": 126.83383203023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "왕십리순대국(내발산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561710_0_su_5_왕십리순대국_1_005.png",
+      "mapx": 37.5491782382615,
+      "mapy": 126.83383203023,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "왕십리순대국(내발산동)",
+        "순대국"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "첫째, 셋째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "왕십리순대국,휴무일,첫째, 셋째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "우장산역 4번 출구, 만나분식, 카페그룩",
+          "answer_wordNum": 5,
+          "fact": [
+            "왕십리순대국,인접,우장산역 4번 출구, 만나분식, 카페그룩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1486-0272",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,연락처,0507-1486-0272"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "순대국, 내장탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "왕십리순대국,메뉴,순대국, 내장탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "우장산역 4번 출구, 만나분식, 카페그룩",
+          "answer_wordNum": 5,
+          "fact": [
+            "왕십리순대국,인접,우장산역 4번 출구, 만나분식, 카페그룩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,영업시간,10:00~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "첫째, 셋째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "왕십리순대국,휴무일,첫째, 셋째 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1486-0272",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,연락처,0507-1486-0272"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "순대국, 내장탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "왕십리순대국,메뉴,순대국, 내장탕"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,영업시간,10:00~22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 강서로45길 92-32",
+          "answer_wordNum": 4,
+          "fact": [
+            "왕십리순대국,주소,서울 강서구 강서로45길 92-32"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "순대국, 내장탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "왕십리순대국,메뉴,순대국, 내장탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "우장산역 4번 출구, 만나분식, 카페그룩",
+          "answer_wordNum": 5,
+          "fact": [
+            "왕십리순대국,인접,우장산역 4번 출구, 만나분식, 카페그룩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "돼지머리, 사골뼈",
+          "answer_wordNum": 2,
+          "fact": [
+            "왕십리순대국,사용,돼지머리, 사골뼈"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 강서구 강서로45길 92-32",
+          "answer_wordNum": 4,
+          "fact": [
+            "왕십리순대국,주소,서울 강서구 강서로45길 92-32"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,영업시간,10:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳은 무엇을 사용하나요?",
+          "question_wordNum": 4,
+          "answer": "돼지머리, 사골뼈",
+          "answer_wordNum": 2,
+          "fact": [
+            "왕십리순대국,사용,돼지머리, 사골뼈"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "왕십리순대국,주차시설,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

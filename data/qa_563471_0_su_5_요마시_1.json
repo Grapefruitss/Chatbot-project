@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563471",
+    "travelType": "음식점",
+    "place": "요마시",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563471_0_su_5_요마시_1_001.png",
+      "mapx": 37.5586027073815,
+      "mapy": 127.07428027339,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요마시(군자동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563471_0_su_5_요마시_1_002.png",
+      "mapx": 37.5586027073815,
+      "mapy": 127.07428027339,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요마시(군자동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563471_0_su_5_요마시_1_003.png",
+      "mapx": 37.5586027073815,
+      "mapy": 127.07428027339,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요마시(군자동)",
+        "테이블, 등받이 의자, 에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563471_0_su_5_요마시_1_004.png",
+      "mapx": 37.5586027073815,
+      "mapy": 127.07428027339,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요마시(군자동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563471_0_su_5_요마시_1_005.png",
+      "mapx": 37.5586027073815,
+      "mapy": 127.07428027339,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요마시(군자동)",
+        "돈카츠"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 8번 출구, 서울교차로, 태영빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,인접,군자역 8번 출구, 서울교차로, 태영빌딩"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요마시,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 천호대로102길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,주소,서울 광진구 천호대로102길 7 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "함박카츠, 치즈카츠",
+          "answer_wordNum": 2,
+          "fact": [
+            "요마시,메뉴,함박카츠, 치즈카츠"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "함박카츠, 치즈카츠",
+          "answer_wordNum": 2,
+          "fact": [
+            "요마시,메뉴,함박카츠, 치즈카츠"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요마시,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 8번 출구, 서울교차로, 태영빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,인접,군자역 8번 출구, 서울교차로, 태영빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로102길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,주소,서울 광진구 천호대로102길 7 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로102길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,주소,서울 광진구 천호대로102길 7 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "함박카츠, 치즈카츠",
+          "answer_wordNum": 2,
+          "fact": [
+            "요마시,메뉴,함박카츠, 치즈카츠"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 8번 출구, 서울교차로, 태영빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,인접,군자역 8번 출구, 서울교차로, 태영빌딩"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 토요일, 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "요마시,휴무일,매주 토요일, 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로102길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,주소,서울 광진구 천호대로102길 7 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요마시,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "함박카츠, 치즈카츠",
+          "answer_wordNum": 2,
+          "fact": [
+            "요마시,메뉴,함박카츠, 치즈카츠"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-468-8788",
+          "answer_wordNum": 1,
+          "fact": [
+            "요마시,연락처,02-468-8788"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "함박카츠, 치즈카츠",
+          "answer_wordNum": 2,
+          "fact": [
+            "요마시,메뉴,함박카츠, 치즈카츠"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 8번 출구, 서울교차로, 태영빌딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,인접,군자역 8번 출구, 서울교차로, 태영빌딩"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로102길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "요마시,주소,서울 광진구 천호대로102길 7 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-468-8788",
+          "answer_wordNum": 1,
+          "fact": [
+            "요마시,연락처,02-468-8788"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "554095",
+    "travelType": "음식점",
+    "place": "투썸플레이스 신촌연세로점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "554095_0_su_5_투썸플레이스 신촌연세로점_2_001.png",
+      "mapx": 37.5580890923682,
+      "mapy": 126.937117872985,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 신촌연세로점(창천동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "554095_0_su_5_투썸플레이스 신촌연세로점_2_002.png",
+      "mapx": 37.5580890923682,
+      "mapy": 126.937117872985,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 신촌연세로점(창천동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "554095_0_su_5_투썸플레이스 신촌연세로점_2_003.png",
+      "mapx": 37.5580890923682,
+      "mapy": 126.937117872985,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 신촌연세로점(창천동)",
+        "테이블, 등받이 의자, 쿠션, 꽃, 화분"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "554095_0_su_5_투썸플레이스 신촌연세로점_2_004.png",
+      "mapx": 37.5580890923682,
+      "mapy": 126.937117872985,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 신촌연세로점(창천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "554095_0_su_5_투썸플레이스 신촌연세로점_2_005.png",
+      "mapx": 37.5580890923682,
+      "mapy": 126.937117872985,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "투썸플레이스 신촌연세로점(창천동)",
+        "스트로베리 초콜릿 프라페, 커피, 냅킨"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00-23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,영업시간,08:00-23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "스페니쉬연유카페라떼 L, 떠먹는아이스박스",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 신촌연세로점,메뉴,스페니쉬연유카페라떼 L, 떠먹는아이스박스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "신촌역 3번 출구, 메종드 시크릿",
+          "answer_wordNum": 5,
+          "fact": [
+            "투썸플레이스 신촌연세로점,인접,신촌역 3번 출구, 메종드 시크릿"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00-23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,영업시간,08:00-23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신촌역 3번 출구, 메종드 시크릿",
+          "answer_wordNum": 5,
+          "fact": [
+            "투썸플레이스 신촌연세로점,인접,신촌역 3번 출구, 메종드 시크릿"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "스페니쉬연유카페라떼 L, 떠먹는아이스박스",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 신촌연세로점,메뉴,스페니쉬연유카페라떼 L, 떠먹는아이스박스"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "스페니쉬연유카페라떼 L, 떠먹는아이스박스",
+          "answer_wordNum": 3,
+          "fact": [
+            "투썸플레이스 신촌연세로점,메뉴,스페니쉬연유카페라떼 L, 떠먹는아이스박스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6959-0262",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,연락처,02-6959-0262"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신촌역 3번 출구, 메종드 시크릿",
+          "answer_wordNum": 5,
+          "fact": [
+            "투썸플레이스 신촌연세로점,인접,신촌역 3번 출구, 메종드 시크릿"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00-23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,영업시간,08:00-23:00/24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00-23:00/24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,영업시간,08:00-23:00/24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 서대문구 연세로 28",
+          "answer_wordNum": 4,
+          "fact": [
+            "투썸플레이스 신촌연세로점,주소,서울 서대문구 연세로 28"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-6959-0262",
+          "answer_wordNum": 1,
+          "fact": [
+            "투썸플레이스 신촌연세로점,연락처,02-6959-0262"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "신촌역 3번 출구, 메종드 시크릿",
+          "answer_wordNum": 5,
+          "fact": [
+            "투썸플레이스 신촌연세로점,인접,신촌역 3번 출구, 메종드 시크릿"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562568",
+    "travelType": "음식점",
+    "place": "마우로아",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562568_0_su_5_마우로아_1_001.png",
+      "mapx": 37.5581552132895,
+      "mapy": 127.080289211042,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마우로아(중곡동)",
+        "등받이 의자, 여닫이문, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562568_0_su_5_마우로아_1_002.png",
+      "mapx": 37.5581552132895,
+      "mapy": 127.080289211042,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마우로아(중곡동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562568_0_su_5_마우로아_1_003.png",
+      "mapx": 37.5581552132895,
+      "mapy": 127.080289211042,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마우로아(중곡동)",
+        "탁자, 의자, 전등"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562568_0_su_5_마우로아_1_004.png",
+      "mapx": 37.5581552132895,
+      "mapy": 127.080289211042,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마우로아(중곡동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562568_0_su_5_마우로아_1_005.png",
+      "mapx": 37.5581552132895,
+      "mapy": 127.080289211042,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마우로아(중곡동)",
+        "스파게티, 마늘빵"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "12:30/17:00~22:00/23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,영업시간,12:30/17:00~22:00/23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "내츄럴와인, 와인",
+          "answer_wordNum": 2,
+          "fact": [
+            "마우로아,메뉴,내츄럴와인, 와인"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "내츄럴와인, 와인",
+          "answer_wordNum": 2,
+          "fact": [
+            "마우로아,메뉴,내츄럴와인, 와인"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1401-0635",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,연락처,0507-1401-0635"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 능동로 320 1층 mau loa",
+          "answer_wordNum": 7,
+          "fact": [
+            "마우로아,주소,서울 광진구 능동로 320 1층 mau loa"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1401-0635",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,연락처,0507-1401-0635"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "내츄럴와인, 와인",
+          "answer_wordNum": 2,
+          "fact": [
+            "마우로아,메뉴,내츄럴와인, 와인"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1401-0635",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,연락처,0507-1401-0635"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 320 1층 mau loa",
+          "answer_wordNum": 7,
+          "fact": [
+            "마우로아,주소,서울 광진구 능동로 320 1층 mau loa"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 3번 출구, 영미오리탕, 하루",
+          "answer_wordNum": 5,
+          "fact": [
+            "마우로아,인접,군자역 3번 출구, 영미오리탕, 하루"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:30/17:00~22:00/23:30",
+          "answer_wordNum": 1,
+          "fact": [
+            "마우로아,영업시간,12:30/17:00~22:00/23:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "내츄럴와인, 와인",
+          "answer_wordNum": 2,
+          "fact": [
+            "마우로아,메뉴,내츄럴와인, 와인"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로 320 1층 mau loa",
+          "answer_wordNum": 7,
+          "fact": [
+            "마우로아,주소,서울 광진구 능동로 320 1층 mau loa"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 3번 출구, 영미오리탕, 하루",
+          "answer_wordNum": 5,
+          "fact": [
+            "마우로아,인접,군자역 3번 출구, 영미오리탕, 하루"
+          ]
+        }
+      ]
+    }
+  ]
+}

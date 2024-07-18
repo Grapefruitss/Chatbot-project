@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558097",
+    "travelType": "음식점",
+    "place": "던킨 강남스퀘어점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558097_0_su_5_던킨 강남스퀘어점_1_001.png",
+      "mapx": 37.4989624212744,
+      "mapy": 127.028227457162,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 강남스퀘어점(역삼동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558097_0_su_5_던킨 강남스퀘어점_1_002.png",
+      "mapx": 37.4989624212744,
+      "mapy": 127.028227457162,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 강남스퀘어점(역삼동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558097_0_su_5_던킨 강남스퀘어점_1_003.png",
+      "mapx": 37.4989624212744,
+      "mapy": 127.028227457162,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 강남스퀘어점(역삼동)",
+        "테이블, 등받이 의자, 진열대"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558097_0_su_5_던킨 강남스퀘어점_1_004.png",
+      "mapx": 37.4989624212744,
+      "mapy": 127.028227457162,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 강남스퀘어점(역삼동)",
+        "메뉴판, 진열대"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558097_0_su_5_던킨 강남스퀘어점_1_005.png",
+      "mapx": 37.4989624212744,
+      "mapy": 127.028227457162,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "던킨 강남스퀘어점(역삼동)",
+        "도넛, 음료수, 포크, 나이프"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00-21:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,영업시간,08:00/09:00-21:00/23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "강남역 12번 출구, 펠리스스페인어학원강남캠퍼스, 빌리엔젤, 오즈PC방강남역점, 케이스퀘어강남",
+          "answer_wordNum": 7,
+          "fact": [
+            "던킨 강남스퀘어점,인접,강남역 12번 출구, 펠리스스페인어학원강남캠퍼스, 빌리엔젤, 오즈PC방강남역점, 케이스퀘어강남"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로1길 10 역삼동",
+          "answer_wordNum": 5,
+          "fact": [
+            "던킨 강남스퀘어점,주소,서울 강남구 테헤란로1길 10 역삼동"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-567-0616",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,연락처,02-567-0616"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로1길 10 역삼동",
+          "answer_wordNum": 5,
+          "fact": [
+            "던킨 강남스퀘어점,주소,서울 강남구 테헤란로1길 10 역삼동"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "그린티라떼, 밀크티",
+          "answer_wordNum": 2,
+          "fact": [
+            "던킨 강남스퀘어점,메뉴,그린티라떼, 밀크티"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "강남역 12번 출구, 펠리스스페인어학원강남캠퍼스, 빌리엔젤, 오즈PC방강남역점, 케이스퀘어강남",
+          "answer_wordNum": 7,
+          "fact": [
+            "던킨 강남스퀘어점,인접,강남역 12번 출구, 펠리스스페인어학원강남캠퍼스, 빌리엔젤, 오즈PC방강남역점, 케이스퀘어강남"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "그린티라떼, 밀크티",
+          "answer_wordNum": 2,
+          "fact": [
+            "던킨 강남스퀘어점,메뉴,그린티라떼, 밀크티"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00-21:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,영업시간,08:00/09:00-21:00/23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-567-0616",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,연락처,02-567-0616"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강남구 테헤란로1길 10 역삼동",
+          "answer_wordNum": 5,
+          "fact": [
+            "던킨 강남스퀘어점,주소,서울 강남구 테헤란로1길 10 역삼동"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00/09:00-21:00/23:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,영업시간,08:00/09:00-21:00/23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "그린티라떼, 밀크티",
+          "answer_wordNum": 2,
+          "fact": [
+            "던킨 강남스퀘어점,메뉴,그린티라떼, 밀크티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "던킨 강남스퀘어점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "강남역 12번 출구, 펠리스스페인어학원강남캠퍼스, 빌리엔젤, 오즈PC방강남역점, 케이스퀘어강남",
+          "answer_wordNum": 7,
+          "fact": [
+            "던킨 강남스퀘어점,인접,강남역 12번 출구, 펠리스스페인어학원강남캠퍼스, 빌리엔젤, 오즈PC방강남역점, 케이스퀘어강남"
+          ]
+        }
+      ]
+    }
+  ]
+}

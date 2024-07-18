@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563178",
+    "travelType": "음식점",
+    "place": "자양동손칼국수",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563178_0_su_5_자양동손칼국수_1_001.png",
+      "mapx": 37.5320656836779,
+      "mapy": 127.078986396674,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "자양동손칼국수(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563178_0_su_5_자양동손칼국수_1_002.png",
+      "mapx": 37.5320656836779,
+      "mapy": 127.078986396674,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "자양동손칼국수(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563178_0_su_5_자양동손칼국수_1_003.png",
+      "mapx": 37.5320656836779,
+      "mapy": 127.078986396674,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "자양동손칼국수(광진구)",
+        "등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563178_0_su_5_자양동손칼국수_1_004.png",
+      "mapx": 37.5320656836779,
+      "mapy": 127.078986396674,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "자양동손칼국수(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563178_0_su_5_자양동손칼국수_1_005.png",
+      "mapx": 37.5320656836779,
+      "mapy": 127.078986396674,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "자양동손칼국수(광진구)",
+        "칼국수, 김치, 물컵 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "자양동손칼국수,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 4번 출구, 고공, 파리바게뜨",
+          "answer_wordNum": 5,
+          "fact": [
+            "자양동손칼국수,인접,구의역 4번 출구, 고공, 파리바게뜨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "자양동손칼국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "칼국수, 수제비",
+          "answer_wordNum": 2,
+          "fact": [
+            "자양동손칼국수,메뉴,칼국수, 수제비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "칼국수, 수제비",
+          "answer_wordNum": 2,
+          "fact": [
+            "자양동손칼국수,메뉴,칼국수, 수제비"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 4번 출구, 고공, 파리바게뜨",
+          "answer_wordNum": 5,
+          "fact": [
+            "자양동손칼국수,인접,구의역 4번 출구, 고공, 파리바게뜨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 뚝섬로 624",
+          "answer_wordNum": 4,
+          "fact": [
+            "자양동손칼국수,주소,서울 광진구 뚝섬로 624"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "자양동손칼국수,영업시간,11:00 - 20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 4번 출구, 고공, 파리바게뜨",
+          "answer_wordNum": 5,
+          "fact": [
+            "자양동손칼국수,인접,구의역 4번 출구, 고공, 파리바게뜨"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-447-0052",
+          "answer_wordNum": 1,
+          "fact": [
+            "자양동손칼국수,연락처,02-447-0052"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "자양동손칼국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 뚝섬로 624",
+          "answer_wordNum": 4,
+          "fact": [
+            "자양동손칼국수,주소,서울 광진구 뚝섬로 624"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "자양동손칼국수,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "자양동손칼국수,영업시간,11:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "칼국수, 수제비",
+          "answer_wordNum": 2,
+          "fact": [
+            "자양동손칼국수,메뉴,칼국수, 수제비"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-447-0052",
+          "answer_wordNum": 1,
+          "fact": [
+            "자양동손칼국수,연락처,02-447-0052"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 4번 출구, 고공, 파리바게뜨",
+          "answer_wordNum": 5,
+          "fact": [
+            "자양동손칼국수,인접,구의역 4번 출구, 고공, 파리바게뜨"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "자양동손칼국수,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-447-0052",
+          "answer_wordNum": 1,
+          "fact": [
+            "자양동손칼국수,연락처,02-447-0052"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "자양동손칼국수,영업시간,11:00 - 20:00"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562762",
+    "travelType": "음식점",
+    "place": "맛닭꼬 군자점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562762_0_su_5_맛닭꼬 군자점_1_001.png",
+      "mapx": 37.5560308316584,
+      "mapy": 127.080569188225,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛닭꼬 군자점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562762_0_su_5_맛닭꼬 군자점_1_002.png",
+      "mapx": 37.5560308316584,
+      "mapy": 127.080569188225,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛닭꼬 군자점(광진구)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562762_0_su_5_맛닭꼬 군자점_1_003.png",
+      "mapx": 37.5560308316584,
+      "mapy": 127.080569188225,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛닭꼬 군자점(광진구)",
+        "등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562762_0_su_5_맛닭꼬 군자점_1_004.png",
+      "mapx": 37.5560308316584,
+      "mapy": 127.080569188225,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛닭꼬 군자점(광진구)",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562762_0_su_5_맛닭꼬 군자점_1_005.png",
+      "mapx": 37.5560308316584,
+      "mapy": 127.080569188225,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "맛닭꼬 군자점(광진구)",
+        "치킨 "
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로36길 25",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛닭꼬 군자점,주소,서울 광진구 능동로36길 25"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 5번 출구, 세븐일레븐, 베아투스",
+          "answer_wordNum": 5,
+          "fact": [
+            "맛닭꼬 군자점,인접,군자역 5번 출구, 세븐일레븐, 베아투스"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "13:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,영업시간,13:00-01:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 5번 출구, 세븐일레븐, 베아투스",
+          "answer_wordNum": 5,
+          "fact": [
+            "맛닭꼬 군자점,인접,군자역 5번 출구, 세븐일레븐, 베아투스"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "13:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,영업시간,13:00-01:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 화요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "맛닭꼬 군자점,휴무일,매주 화요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 능동로36길 25",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛닭꼬 군자점,주소,서울 광진구 능동로36길 25"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "13:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,영업시간,13:00-01:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "군자역 5번 출구, 세븐일레븐, 베아투스",
+          "answer_wordNum": 5,
+          "fact": [
+            "맛닭꼬 군자점,인접,군자역 5번 출구, 세븐일레븐, 베아투스"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-2201-9792",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,연락처,02-2201-9792"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2201-9792",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,연락처,02-2201-9792"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "오리지날 로스트, 오리지널 현미베이크",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛닭꼬 군자점,메뉴,오리지날 로스트, 오리지널 현미베이크"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 능동로36길 25",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛닭꼬 군자점,주소,서울 광진구 능동로36길 25"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "13:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,영업시간,13:00-01:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "오리지날 로스트, 오리지널 현미베이크",
+          "answer_wordNum": 4,
+          "fact": [
+            "맛닭꼬 군자점,메뉴,오리지날 로스트, 오리지널 현미베이크"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2201-9792",
+          "answer_wordNum": 1,
+          "fact": [
+            "맛닭꼬 군자점,연락처,02-2201-9792"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562759",
+    "travelType": "음식점",
+    "place": "다래나무 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562759_0_su_5_다래나무 _1_001.png",
+      "mapx": 37.5523328932726,
+      "mapy": 127.087859603654,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다래나무(능동)",
+        "간판, LED 간판, 천막"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562759_0_su_5_다래나무 _1_002.png",
+      "mapx": 37.5523328932726,
+      "mapy": 127.087859603654,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다래나무(능동)",
+        "간판, 건물, 파라솔, 등받이 의자, 현수막"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562759_0_su_5_다래나무 _1_003.png",
+      "mapx": 37.5523328932726,
+      "mapy": 127.087859603654,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다래나무(능동)",
+        "테이블, 등받이 의자, 물통, 냉장고, 김치 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562759_0_su_5_다래나무 _1_004.png",
+      "mapx": 37.5523328932726,
+      "mapy": 127.087859603654,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다래나무(능동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562759_0_su_5_다래나무 _1_005.png",
+      "mapx": 37.5523328932726,
+      "mapy": 127.087859603654,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "다래나무(능동)",
+        "탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25",
+          "answer_wordNum": 7,
+          "fact": [
+            "다래나무,인접,펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 21:20",
+          "answer_wordNum": 3,
+          "fact": [
+            "다래나무,영업시간,10:00 - 21:20"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "영광보리굴비정식, 연평도꽃게간장정식",
+          "answer_wordNum": 2,
+          "fact": [
+            "다래나무,메뉴,영광보리굴비정식, 연평도꽃게간장정식"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 21:20",
+          "answer_wordNum": 3,
+          "fact": [
+            "다래나무,영업시간,10:00 - 21:20"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 천호대로124길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "다래나무,주소,서울 광진구 천호대로124길 24"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 천호대로124길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "다래나무,주소,서울 광진구 천호대로124길 24"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25",
+          "answer_wordNum": 7,
+          "fact": [
+            "다래나무,인접,펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-452-6717",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,연락처,02-452-6717"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25",
+          "answer_wordNum": 7,
+          "fact": [
+            "다래나무,인접,펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "영광보리굴비정식, 연평도꽃게간장정식",
+          "answer_wordNum": 2,
+          "fact": [
+            "다래나무,메뉴,영광보리굴비정식, 연평도꽃게간장정식"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25",
+          "answer_wordNum": 7,
+          "fact": [
+            "다래나무,인접,펫티켓은 필수입니다 아차산역 5번 출구, 어린이대공원후문, GS25"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "영광보리굴비정식, 연평도꽃게간장정식",
+          "answer_wordNum": 2,
+          "fact": [
+            "다래나무,메뉴,영광보리굴비정식, 연평도꽃게간장정식"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "다래나무,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 천호대로124길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "다래나무,주소,서울 광진구 천호대로124길 24"
+          ]
+        }
+      ]
+    }
+  ]
+}

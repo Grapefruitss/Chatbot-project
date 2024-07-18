@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564105",
+    "travelType": "음식점",
+    "place": "메이로드",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564105_0_su_5_메이로드_2_001.png",
+      "mapx": 37.4883003236646,
+      "mapy": 126.839580085373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메이로드(오류동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564105_0_su_5_메이로드_2_002.png",
+      "mapx": 37.4883003236646,
+      "mapy": 126.839580085373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메이로드(오류동)",
+        "건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564105_0_su_5_메이로드_2_003.png",
+      "mapx": 37.4883003236646,
+      "mapy": 126.839580085373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메이로드(오류동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564105_0_su_5_메이로드_2_004.png",
+      "mapx": 37.4883003236646,
+      "mapy": 126.839580085373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메이로드(오류동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564105_0_su_5_메이로드_2_005.png",
+      "mapx": 37.4883003236646,
+      "mapy": 126.839580085373,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메이로드(오류동)",
+        "컬러밤"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "천왕역 3번 출구, 병천순대, 식탐",
+          "answer_wordNum": 5,
+          "fact": [
+            "메이로드,인접,천왕역 3번 출구, 병천순대, 식탐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:30/11:30~21:00/22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,영업시간,10:30/11:30~21:00/22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 오류로 37",
+          "answer_wordNum": 4,
+          "fact": [
+            "메이로드,주소,서울 구로구 오류로 37"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 오류로 37",
+          "answer_wordNum": 4,
+          "fact": [
+            "메이로드,주소,서울 구로구 오류로 37"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "천왕역 3번 출구, 병천순대, 식탐",
+          "answer_wordNum": 5,
+          "fact": [
+            "메이로드,인접,천왕역 3번 출구, 병천순대, 식탐"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2060-7466",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,연락처,02-2060-7466"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "천왕역 3번 출구, 병천순대, 식탐",
+          "answer_wordNum": 5,
+          "fact": [
+            "메이로드,인접,천왕역 3번 출구, 병천순대, 식탐"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천왕역 3번 출구, 병천순대, 식탐",
+          "answer_wordNum": 5,
+          "fact": [
+            "메이로드,인접,천왕역 3번 출구, 병천순대, 식탐"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2060-7466",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,연락처,02-2060-7466"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-2060-7466",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,연락처,02-2060-7466"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "미니케이크, 컬러밤",
+          "answer_wordNum": 2,
+          "fact": [
+            "메이로드,메뉴,미니케이크, 컬러밤"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메이로드,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

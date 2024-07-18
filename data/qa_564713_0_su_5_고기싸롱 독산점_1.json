@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564713",
+    "travelType": "음식점",
+    "place": "고기싸롱 독산점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564713_0_su_5_고기싸롱 독산점_1_001.png",
+      "mapx": 37.4629594660195,
+      "mapy": 126.904167121542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고기싸롱 독산점(독산동)",
+        "간판, 화환, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564713_0_su_5_고기싸롱 독산점_1_002.png",
+      "mapx": 37.4629594660195,
+      "mapy": 126.904167121542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고기싸롱 독산점(독산동)",
+        "간판, 화분, 소화기"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564713_0_su_5_고기싸롱 독산점_1_003.png",
+      "mapx": 37.4629594660195,
+      "mapy": 126.904167121542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고기싸롱 독산점(독산동)",
+        "거울, 환풍기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564713_0_su_5_고기싸롱 독산점_1_004.png",
+      "mapx": 37.4629594660195,
+      "mapy": 126.904167121542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고기싸롱 독산점(독산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564713_0_su_5_고기싸롱 독산점_1_005.png",
+      "mapx": 37.4629594660195,
+      "mapy": 126.904167121542,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고기싸롱 독산점(독산동)",
+        "돼지갈비"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김내과의원, 금약국",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,인접,김내과의원, 금약국"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "숯불고기, 물냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,메뉴,숯불고기, 물냉면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "숯불고기, 물냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,메뉴,숯불고기, 물냉면"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 독산로 176 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "고기싸롱 독산점,주소,서울 금천구 독산로 176 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "숯불고기, 물냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,메뉴,숯불고기, 물냉면"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 독산로 176 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "고기싸롱 독산점,주소,서울 금천구 독산로 176 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김내과의원, 금약국",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,인접,김내과의원, 금약국"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "숯불고기, 물냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,메뉴,숯불고기, 물냉면"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 독산로 176 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "고기싸롱 독산점,주소,서울 금천구 독산로 176 1층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "숯불고기, 물냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,메뉴,숯불고기, 물냉면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-807-8890",
+          "answer_wordNum": 1,
+          "fact": [
+            "고기싸롱 독산점,연락처,02-807-8890"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "김내과의원, 금약국",
+          "answer_wordNum": 2,
+          "fact": [
+            "고기싸롱 독산점,인접,김내과의원, 금약국"
+          ]
+        }
+      ]
+    }
+  ]
+}

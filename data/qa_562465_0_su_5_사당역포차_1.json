@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562465",
+    "travelType": "음식점",
+    "place": "사당역포차",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562465_0_su_5_사당역포차_1_001.png",
+      "mapx": 37.4757106733343,
+      "mapy": 126.98089901545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역포차(남현동)",
+        "간판, 계단"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562465_0_su_5_사당역포차_1_002.png",
+      "mapx": 37.4757106733343,
+      "mapy": 126.98089901545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역포차(남현동)",
+        "건물, 간판, 계단, 자동차"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562465_0_su_5_사당역포차_1_003.png",
+      "mapx": 37.4757106733343,
+      "mapy": 126.98089901545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역포차(남현동)",
+        "탁자, 등받이 의자, 수저통, 맥자상자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562465_0_su_5_사당역포차_1_004.png",
+      "mapx": 37.4757106733343,
+      "mapy": 126.98089901545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역포차(남현동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562465_0_su_5_사당역포차_1_005.png",
+      "mapx": 37.4757106733343,
+      "mapy": 126.98089901545,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "사당역포차(남현동)",
+        "찌개"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 5번 출구, 다이소, 남현동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역포차,인접,사당역 5번 출구, 다이소, 남현동주민센터"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "광주애호박고추장찌개, 육새반반전",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역포차,메뉴,광주애호박고추장찌개, 육새반반전"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "광주애호박고추장찌개, 육새반반전",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역포차,메뉴,광주애호박고추장찌개, 육새반반전"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00~05:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,영업시간,16:00~05:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 5번 출구, 다이소, 남현동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역포차,인접,사당역 5번 출구, 다이소, 남현동주민센터"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광주애호박고추장찌개, 육새반반전",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역포차,메뉴,광주애호박고추장찌개, 육새반반전"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 승방2길 39 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역포차,주소,서울 관악구 승방2길 39 2층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "광주애호박고추장찌개, 육새반반전",
+          "answer_wordNum": 2,
+          "fact": [
+            "사당역포차,메뉴,광주애호박고추장찌개, 육새반반전"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00~05:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,영업시간,16:00~05:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "사당역 5번 출구, 다이소, 남현동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역포차,인접,사당역 5번 출구, 다이소, 남현동주민센터"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1389-7878",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,연락처,0507-1389-7878"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 관악구 승방2길 39 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "사당역포차,주소,서울 관악구 승방2길 39 2층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "사당역포차,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

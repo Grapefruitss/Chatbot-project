@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564148",
+    "travelType": "음식점",
+    "place": "일경추어탕",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564148_0_su_5_일경추어탕_1_001.png",
+      "mapx": 37.4900302831953,
+      "mapy": 126.839931665816,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일경추어탕(오류동)",
+        "여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564148_0_su_5_일경추어탕_1_002.png",
+      "mapx": 37.4900302831953,
+      "mapy": 126.839931665816,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일경추어탕(오류동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564148_0_su_5_일경추어탕_1_003.png",
+      "mapx": 37.4900302831953,
+      "mapy": 126.839931665816,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일경추어탕(오류동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564148_0_su_5_일경추어탕_1_004.png",
+      "mapx": 37.4900302831953,
+      "mapy": 126.839931665816,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일경추어탕(오류동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564148_0_su_5_일경추어탕_1_005.png",
+      "mapx": 37.4900302831953,
+      "mapy": 126.839931665816,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "일경추어탕(오류동)",
+        "매운추어닭발무침"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1397-3570",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,연락처,0507-1397-3570"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천왕역 3번 출구, GS25, BHC치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "일경추어탕,인접,천왕역 3번 출구, GS25, BHC치킨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "일경 추어탕, 매운추어 닭발무침",
+          "answer_wordNum": 4,
+          "fact": [
+            "일경추어탕,메뉴,일경 추어탕, 매운추어 닭발무침"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "천왕역 3번 출구, GS25, BHC치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "일경추어탕,인접,천왕역 3번 출구, GS25, BHC치킨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "일경 추어탕, 매운추어 닭발무침",
+          "answer_wordNum": 4,
+          "fact": [
+            "일경추어탕,메뉴,일경 추어탕, 매운추어 닭발무침"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1397-3570",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,연락처,0507-1397-3570"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "천왕역 3번 출구, GS25, BHC치킨",
+          "answer_wordNum": 5,
+          "fact": [
+            "일경추어탕,인접,천왕역 3번 출구, GS25, BHC치킨"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,영업시간,11:00~21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1397-3570",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,연락처,0507-1397-3570"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "일경 추어탕, 매운추어 닭발무침",
+          "answer_wordNum": 4,
+          "fact": [
+            "일경추어탕,메뉴,일경 추어탕, 매운추어 닭발무침"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 오류로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "일경추어탕,주소,서울 구로구 오류로 59"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1397-3570",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,연락처,0507-1397-3570"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00~21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "일경추어탕,영업시간,11:00~21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 구로구 오류로 59",
+          "answer_wordNum": 4,
+          "fact": [
+            "일경추어탕,주소,서울 구로구 오류로 59"
+          ]
+        }
+      ]
+    }
+  ]
+}

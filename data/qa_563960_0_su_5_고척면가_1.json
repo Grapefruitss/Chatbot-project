@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563960",
+    "travelType": "음식점",
+    "place": "고척면가",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563960_0_su_5_고척면가_1_001.png",
+      "mapx": 37.5039912023065,
+      "mapy": 126.865608255469,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고척면가(고척동)",
+        "차양막, 여닫이문, 메뉴판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563960_0_su_5_고척면가_1_002.png",
+      "mapx": 37.5039912023065,
+      "mapy": 126.865608255469,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고척면가(고척동)",
+        "차양막, 화분, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563960_0_su_5_고척면가_1_003.png",
+      "mapx": 37.5039912023065,
+      "mapy": 126.865608255469,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고척면가(고척동)",
+        "테이블, 종이컵, 버너, 가위, 집게"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563960_0_su_5_고척면가_1_004.png",
+      "mapx": 37.5039912023065,
+      "mapy": 126.865608255469,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고척면가(고척동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563960_0_su_5_고척면가_1_005.png",
+      "mapx": 37.5039912023065,
+      "mapy": 126.865608255469,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "고척면가(고척동)",
+        "만두, 간장, 숟가락"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,영업시간,11:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "재성빌라, 민피부관리샵",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,인접,재성빌라, 민피부관리샵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 경인로47다길 31-2 1층 101호",
+          "answer_wordNum": 6,
+          "fact": [
+            "고척면가,주소,서울 구로구 경인로47다길 31-2 1층 101호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 경인로47다길 31-2 1층 101호",
+          "answer_wordNum": 6,
+          "fact": [
+            "고척면가,주소,서울 구로구 경인로47다길 31-2 1층 101호"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,영업시간,11:00~22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째, 넷째 일요일, 공휴일",
+          "answer_wordNum": 4,
+          "fact": [
+            "고척면가,휴무일,둘째, 넷째 일요일, 공휴일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "왕만둣국, 잔치국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,메뉴,왕만둣국, 잔치국수"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "왕만둣국, 잔치국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,메뉴,왕만둣국, 잔치국수"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "둘째, 넷째 일요일, 공휴일",
+          "answer_wordNum": 4,
+          "fact": [
+            "고척면가,휴무일,둘째, 넷째 일요일, 공휴일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 경인로47다길 31-2 1층 101호",
+          "answer_wordNum": 6,
+          "fact": [
+            "고척면가,주소,서울 구로구 경인로47다길 31-2 1층 101호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00~22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,영업시간,11:00~22:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "왕만둣국, 잔치국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,메뉴,왕만둣국, 잔치국수"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳과 인접한 곳은 어디인가요?",
+          "question_wordNum": 5,
+          "answer": "재성빌라, 민피부관리샵",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,인접,재성빌라, 민피부관리샵"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "고척면가,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "왕만둣국, 잔치국수",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,메뉴,왕만둣국, 잔치국수"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "재성빌라, 민피부관리샵",
+          "answer_wordNum": 2,
+          "fact": [
+            "고척면가,인접,재성빌라, 민피부관리샵"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 구로구 경인로47다길 31-2 1층 101호",
+          "answer_wordNum": 6,
+          "fact": [
+            "고척면가,주소,서울 구로구 경인로47다길 31-2 1층 101호"
+          ]
+        }
+      ]
+    }
+  ]
+}

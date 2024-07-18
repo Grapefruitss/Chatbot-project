@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562824",
+    "travelType": "음식점",
+    "place": "정성육회 서울직영점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562824_0_su_5_정성육회 서울직영점_2_001.png",
+      "mapx": 37.5509756187534,
+      "mapy": 127.091084841725,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "정성육회 서울직영점(구의동)",
+        "여닫이문, 의자, 등받이의자"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562824_0_su_5_정성육회 서울직영점_2_002.png",
+      "mapx": 37.5509756187534,
+      "mapy": 127.091084841725,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "정성육회 서울직영점(구의동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562824_0_su_5_정성육회 서울직영점_2_003.png",
+      "mapx": 37.5509756187534,
+      "mapy": 127.091084841725,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "정성육회 서울직영점(구의동)",
+        "등받이의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562824_0_su_5_정성육회 서울직영점_2_004.png",
+      "mapx": 37.5509756187534,
+      "mapy": 127.091084841725,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "정성육회 서울직영점(구의동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562824_0_su_5_정성육회 서울직영점_2_005.png",
+      "mapx": 37.5509756187534,
+      "mapy": 127.091084841725,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "정성육회 서울직영점(구의동)",
+        "육회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "아차산역 2번 출구, 어린이대공원후문, 아차산설렁탕",
+          "answer_wordNum": 5,
+          "fact": [
+            "정성육회 서울직영점,인접,아차산역 2번 출구, 어린이대공원후문, 아차산설렁탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 자양로43길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "정성육회 서울직영점,주소,서울 광진구 자양로43길 7 1층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무슨 요리 전문인가요?",
+          "question_wordNum": 3,
+          "answer": "한우육회",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,전문,한우육회"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한우뭉티기, 육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "정성육회 서울직영점,메뉴,한우뭉티기, 육회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "16:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,영업시간,16:00-01:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무엇을 맛볼 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "뭉티기",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,맛볼수있다,뭉티기"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,영업시간,16:00-01:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우뭉티기, 육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "정성육회 서울직영점,메뉴,한우뭉티기, 육회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 자양로43길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "정성육회 서울직영점,주소,서울 광진구 자양로43길 7 1층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 자양로43길 7 1층",
+          "answer_wordNum": 5,
+          "fact": [
+            "정성육회 서울직영점,주소,서울 광진구 자양로43길 7 1층"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "한우뭉티기, 육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "정성육회 서울직영점,메뉴,한우뭉티기, 육회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "아차산역 2번 출구, 어린이대공원후문, 아차산설렁탕",
+          "answer_wordNum": 5,
+          "fact": [
+            "정성육회 서울직영점,인접,아차산역 2번 출구, 어린이대공원후문, 아차산설렁탕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-6397-0221",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,연락처,02-6397-0221"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:00-01:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "정성육회 서울직영점,영업시간,16:00-01:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "한우뭉티기, 육회",
+          "answer_wordNum": 2,
+          "fact": [
+            "정성육회 서울직영점,메뉴,한우뭉티기, 육회"
+          ]
+        }
+      ]
+    }
+  ]
+}

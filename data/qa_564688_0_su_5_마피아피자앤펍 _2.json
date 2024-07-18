@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564688",
+    "travelType": "음식점",
+    "place": "마피아피자앤펍 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564688_0_su_5_마피아피자앤펍 _2_001.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마피아피자앤펍(독산동)",
+        "간판, 사진, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564688_0_su_5_마피아피자앤펍 _2_002.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마피아피자앤펍(독산동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564688_0_su_5_마피아피자앤펍 _2_003.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마피아피자앤펍(독산동)",
+        "테이블, 등받이의자, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564688_0_su_5_마피아피자앤펍 _2_004.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마피아피자앤펍(독산동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564688_0_su_5_마피아피자앤펍 _2_005.png",
+      "mapx": 37.4599560487863,
+      "mapy": 126.896699156299,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "마피아피자앤펍(독산동)",
+        "피자, 접시"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마피아피자앤펍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "마피아피자 콤비네이션, 마피아크림치즈피자",
+          "answer_wordNum": 3,
+          "fact": [
+            "마피아피자앤펍,메뉴,마피아피자 콤비네이션, 마피아크림치즈피자"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호",
+          "answer_wordNum": 8,
+          "fact": [
+            "마피아피자앤펍,주소,서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디와 인접해 있나요?",
+          "question_wordNum": 5,
+          "answer": "금천구청역 1번 출구, 롯데마트, 샌드리아",
+          "answer_wordNum": 5,
+          "fact": [
+            "마피아피자앤펍,인접,금천구청역 1번 출구, 롯데마트, 샌드리아"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "금천구청역 1번 출구, 롯데마트, 샌드리아",
+          "answer_wordNum": 5,
+          "fact": [
+            "마피아피자앤펍,인접,금천구청역 1번 출구, 롯데마트, 샌드리아"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "마피아피자 콤비네이션, 마피아크림치즈피자",
+          "answer_wordNum": 3,
+          "fact": [
+            "마피아피자앤펍,메뉴,마피아피자 콤비네이션, 마피아크림치즈피자"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마피아피자앤펍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호",
+          "answer_wordNum": 8,
+          "fact": [
+            "마피아피자앤펍,주소,서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호",
+          "answer_wordNum": 8,
+          "fact": [
+            "마피아피자앤펍,주소,서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 01:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "마피아피자앤펍,영업시간,16:00 - 01:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "둘째 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "마피아피자앤펍,휴무일,둘째 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1339-9565",
+          "answer_wordNum": 1,
+          "fact": [
+            "마피아피자앤펍,연락처,0507-1339-9565"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1339-9565",
+          "answer_wordNum": 1,
+          "fact": [
+            "마피아피자앤펍,연락처,0507-1339-9565"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마피아피자앤펍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "마피아피자 콤비네이션, 마피아크림치즈피자",
+          "answer_wordNum": 3,
+          "fact": [
+            "마피아피자앤펍,메뉴,마피아피자 콤비네이션, 마피아크림치즈피자"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:00 - 01:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "마피아피자앤펍,영업시간,16:00 - 01:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호",
+          "answer_wordNum": 8,
+          "fact": [
+            "마피아피자앤펍,주소,서울 금천구 시흥대로 291 금천롯데캐슬골드파크 3차상가 2층 218호"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "금천구청역 1번 출구, 롯데마트, 샌드리아",
+          "answer_wordNum": 5,
+          "fact": [
+            "마피아피자앤펍,인접,금천구청역 1번 출구, 롯데마트, 샌드리아"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "마피아피자앤펍,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 언제인가요?",
+          "question_wordNum": 2,
+          "answer": "둘째 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "마피아피자앤펍,휴무일,둘째 일요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

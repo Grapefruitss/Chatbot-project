@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594470",
+    "travelType": "음식점",
+    "place": "가위바위보떡볶이",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594470_0_su_5_가위바위보떡볶이_2_001.png",
+      "mapx": 37.5839388978562,
+      "mapy": 127.053599055745,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가위바위보떡볶이(전농동)",
+        "간판, 자동문, 실외기"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594470_0_su_5_가위바위보떡볶이_2_002.png",
+      "mapx": 37.5839388978562,
+      "mapy": 127.053599055745,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가위바위보떡볶이(전농동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594470_0_su_5_가위바위보떡볶이_2_003.png",
+      "mapx": 37.5839388978562,
+      "mapy": 127.053599055745,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가위바위보떡볶이(전농동)",
+        "테이블, 의자, 벽걸이선풍기, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594470_0_su_5_가위바위보떡볶이_2_004.png",
+      "mapx": 37.5839388978562,
+      "mapy": 127.053599055745,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가위바위보떡볶이(전농동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594470_0_su_5_가위바위보떡볶이_2_005.png",
+      "mapx": 37.5839388978562,
+      "mapy": 127.053599055745,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "가위바위보떡볶이(전농동)",
+        "치즈떡볶이, 라면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 전농로 222",
+          "answer_wordNum": 4,
+          "fact": [
+            "가위바위보떡볶이,주소,서울 동대문구 전농로 222"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "참치떡, 쫄면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가위바위보떡볶이,메뉴,참치떡, 쫄면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-02:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,영업시간,11:00-02:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "참치떡, 쫄면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가위바위보떡볶이,메뉴,참치떡, 쫄면"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-8742-0006",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,연락처,070-8742-0006"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-02:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,영업시간,11:00-02:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00-02:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,영업시간,11:00-02:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 전농로 222",
+          "answer_wordNum": 4,
+          "fact": [
+            "가위바위보떡볶이,주소,서울 동대문구 전농로 222"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "참치떡, 쫄면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가위바위보떡볶이,메뉴,참치떡, 쫄면"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-8742-0006",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,연락처,070-8742-0006"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-02:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,영업시간,11:00-02:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "참치떡, 쫄면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가위바위보떡볶이,메뉴,참치떡, 쫄면"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "청량리역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "가위바위보떡볶이,인접,청량리역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-8742-0006",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,연락처,070-8742-0006"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-02:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "가위바위보떡볶이,영업시간,11:00-02:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "참치떡, 쫄면",
+          "answer_wordNum": 2,
+          "fact": [
+            "가위바위보떡볶이,메뉴,참치떡, 쫄면"
+          ]
+        }
+      ]
+    }
+  ]
+}

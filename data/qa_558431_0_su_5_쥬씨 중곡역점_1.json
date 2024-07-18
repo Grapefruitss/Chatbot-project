@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "558431",
+    "travelType": "음식점",
+    "place": "쥬씨 중곡역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "558431_0_su_5_쥬씨 중곡역점_1_001.png",
+      "mapx": 37.5650580830652,
+      "mapy": 127.08445683899,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 중곡역점(광진구)",
+        "간판, 어닝, 키오스크"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "558431_0_su_5_쥬씨 중곡역점_1_002.png",
+      "mapx": 37.5650580830652,
+      "mapy": 127.08445683899,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 중곡역점(광진구)",
+        "간판, 키오스크, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "558431_0_su_5_쥬씨 중곡역점_1_003.png",
+      "mapx": 37.5650580830652,
+      "mapy": 127.08445683899,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 중곡역점(광진구)",
+        "메뉴판, 조명, 에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "558431_0_su_5_쥬씨 중곡역점_1_004.png",
+      "mapx": 37.5650580830652,
+      "mapy": 127.08445683899,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 중곡역점(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "558431_0_su_5_쥬씨 중곡역점_1_005.png",
+      "mapx": 37.5650580830652,
+      "mapy": 127.08445683899,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "쥬씨 중곡역점(광진구)",
+        "음료, 컵, 빨대"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중곡역 2번 출구, 서울광진구육아종합지원센터, 국립정신건강센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 중곡역점,인접,중곡역 2번 출구, 서울광진구육아종합지원센터, 국립정신건강센터"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "070-4282-2200",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,연락처,070-4282-2200"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "딸기바나나주스, 아메리카노",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 중곡역점,메뉴,딸기바나나주스, 아메리카노"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "딸기바나나주스, 아메리카노",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 중곡역점,메뉴,딸기바나나주스, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 능동로 400",
+          "answer_wordNum": 4,
+          "fact": [
+            "쥬씨 중곡역점,주소,서울 광진구 능동로 400"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "07:30 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 중곡역점,영업시간,07:30 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:30 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 중곡역점,영업시간,07:30 - 21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-4282-2200",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,연락처,070-4282-2200"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "딸기바나나주스, 아메리카노",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 중곡역점,메뉴,딸기바나나주스, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "중곡역 2번 출구, 서울광진구육아종합지원센터, 국립정신건강센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 중곡역점,인접,중곡역 2번 출구, 서울광진구육아종합지원센터, 국립정신건강센터"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:30 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 중곡역점,영업시간,07:30 - 21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "중곡역 2번 출구, 서울광진구육아종합지원센터, 국립정신건강센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "쥬씨 중곡역점,인접,중곡역 2번 출구, 서울광진구육아종합지원센터, 국립정신건강센터"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "07:30 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "쥬씨 중곡역점,영업시간,07:30 - 21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "딸기바나나주스, 아메리카노",
+          "answer_wordNum": 2,
+          "fact": [
+            "쥬씨 중곡역점,메뉴,딸기바나나주스, 아메리카노"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "070-4282-2200",
+          "answer_wordNum": 1,
+          "fact": [
+            "쥬씨 중곡역점,연락처,070-4282-2200"
+          ]
+        }
+      ]
+    }
+  ]
+}

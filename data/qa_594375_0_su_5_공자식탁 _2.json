@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "594375",
+    "travelType": "음식점",
+    "place": "공자식탁 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "594375_0_su_5_공자식탁 _2_001.png",
+      "mapx": 37.5909153165362,
+      "mapy": 127.039862146204,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공자식탁(제기동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "594375_0_su_5_공자식탁 _2_002.png",
+      "mapx": 37.5909153165362,
+      "mapy": 127.039862146204,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공자식탁(제기동)",
+        "간판, 건물"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "594375_0_su_5_공자식탁 _2_003.png",
+      "mapx": 37.5909153165362,
+      "mapy": 127.039862146204,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공자식탁(제기동)",
+        "테이블, 등받이의자, 선풍기"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "594375_0_su_5_공자식탁 _2_004.png",
+      "mapx": 37.5909153165362,
+      "mapy": 127.039862146204,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공자식탁(제기동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "594375_0_su_5_공자식탁 _2_005.png",
+      "mapx": 37.5909153165362,
+      "mapy": 127.039862146204,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공자식탁(제기동)",
+        "면, 간짜장"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-966-7789",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,연락처,02-966-7789"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 회기로8길 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "공자식탁,주소,서울 동대문구 회기로8길 11"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "자장면, 탕수육",
+          "answer_wordNum": 2,
+          "fact": [
+            "공자식탁,메뉴,자장면, 탕수육"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "고려대역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "공자식탁,인접,고려대역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "자장면, 탕수육",
+          "answer_wordNum": 2,
+          "fact": [
+            "공자식탁,메뉴,자장면, 탕수육"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 회기로8길 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "공자식탁,주소,서울 동대문구 회기로8길 11"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇이 가능한가요",
+          "question_wordNum": 4,
+          "answer": "배달 주문",
+          "answer_wordNum": 2,
+          "fact": [
+            "공자식탁,가능,배달 주문"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-966-7789",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,연락처,02-966-7789"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "자장면, 탕수육",
+          "answer_wordNum": 2,
+          "fact": [
+            "공자식탁,메뉴,자장면, 탕수육"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동대문구 회기로8길 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "공자식탁,주소,서울 동대문구 회기로8길 11"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00-21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,영업시간,11:00-21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "자장면, 탕수육",
+          "answer_wordNum": 2,
+          "fact": [
+            "공자식탁,메뉴,자장면, 탕수육"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00-21:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,영업시간,11:00-21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "고려대역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "공자식탁,인접,고려대역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "정통중화요리",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,전문,정통중화요리"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "고려대역 3번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "공자식탁,인접,고려대역 3번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "자장면, 탕수육",
+          "answer_wordNum": 2,
+          "fact": [
+            "공자식탁,메뉴,자장면, 탕수육"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공자식탁,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 회기로8길 11",
+          "answer_wordNum": 4,
+          "fact": [
+            "공자식탁,주소,서울 동대문구 회기로8길 11"
+          ]
+        }
+      ]
+    }
+  ]
+}

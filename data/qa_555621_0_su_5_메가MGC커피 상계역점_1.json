@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "555621",
+    "travelType": "음식점",
+    "place": "메가MGC커피 상계역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "555621_0_su_5_메가MGC커피 상계역점_1_001.png",
+      "mapx": 37.6601375252328,
+      "mapy": 127.074419173589,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메가MGC커피 상계역점(중계동)",
+        "건물, 배너, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "555621_0_su_5_메가MGC커피 상계역점_1_002.png",
+      "mapx": 37.6601375252328,
+      "mapy": 127.074419173589,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메가MGC커피 상계역점(중계동)",
+        "건물, 간판, 배너, 여닫이문, 유리창, 테이블, 의자"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "555621_0_su_5_메가MGC커피 상계역점_1_003.png",
+      "mapx": 37.6601375252328,
+      "mapy": 127.074419173589,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메가MGC커피 상계역점(중계동)",
+        "테이블, 의자, 조명, 유리창, 포스터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "555621_0_su_5_메가MGC커피 상계역점_1_004.png",
+      "mapx": 37.6601375252328,
+      "mapy": 127.074419173589,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메가MGC커피 상계역점(중계동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "555621_0_su_5_메가MGC커피 상계역점_1_005.png",
+      "mapx": 37.6601375252328,
+      "mapy": 127.074419173589,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "메가MGC커피 상계역점(중계동)",
+        "망고스무디, 티"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "상계역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "메가MGC커피 상계역점,인접,상계역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "상세한 주소를 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 덕릉로83길 18 1층 102호",
+          "answer_wordNum": 6,
+          "fact": [
+            "메가MGC커피 상계역점,주소,서울 노원구 덕릉로83길 18 1층 102호"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-934-7134",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,연락처,02-934-7134"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 덕릉로83길 18 1층 102호",
+          "answer_wordNum": 6,
+          "fact": [
+            "메가MGC커피 상계역점,주소,서울 노원구 덕릉로83길 18 1층 102호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "상계역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "메가MGC커피 상계역점,인접,상계역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 영업시간은 언제인가요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 덕릉로83길 18 1층 102호",
+          "answer_wordNum": 6,
+          "fact": [
+            "메가MGC커피 상계역점,주소,서울 노원구 덕릉로83길 18 1층 102호"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "추천할 만한 메뉴가 있나요?",
+          "question_wordNum": 4,
+          "answer": "자몽 에이드, 청포도 에이드",
+          "answer_wordNum": 4,
+          "fact": [
+            "메가MGC커피 상계역점,메뉴,자몽 에이드, 청포도 에이드"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "자몽 에이드, 청포도 에이드",
+          "answer_wordNum": 4,
+          "fact": [
+            "메가MGC커피 상계역점,메뉴,자몽 에이드, 청포도 에이드"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 노원구 덕릉로83길 18 1층 102호",
+          "answer_wordNum": 6,
+          "fact": [
+            "메가MGC커피 상계역점,주소,서울 노원구 덕릉로83길 18 1층 102호"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "어디에 인접한지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "상계역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "메가MGC커피 상계역점,인접,상계역 1번 출구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "상계역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "메가MGC커피 상계역점,인접,상계역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표번호인 연락처를 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "02-934-7134",
+          "answer_wordNum": 1,
+          "fact": [
+            "메가MGC커피 상계역점,연락처,02-934-7134"
+          ]
+        }
+      ]
+    }
+  ]
+}

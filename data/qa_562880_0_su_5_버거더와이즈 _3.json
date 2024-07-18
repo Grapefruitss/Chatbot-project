@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562880",
+    "travelType": "음식점",
+    "place": "버거더와이즈 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562880_0_su_5_버거더와이즈 _3_001.png",
+      "mapx": 37.5384268009902,
+      "mapy": 127.087353582064,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거더와이즈(구의동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562880_0_su_5_버거더와이즈 _3_002.png",
+      "mapx": 37.5384268009902,
+      "mapy": 127.087353582064,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거더와이즈(구의동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562880_0_su_5_버거더와이즈 _3_003.png",
+      "mapx": 37.5384268009902,
+      "mapy": 127.087353582064,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거더와이즈(구의동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562880_0_su_5_버거더와이즈 _3_004.png",
+      "mapx": 37.5384268009902,
+      "mapy": 127.087353582064,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거더와이즈(구의동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562880_0_su_5_버거더와이즈 _3_005.png",
+      "mapx": 37.5384268009902,
+      "mapy": 127.087353582064,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "버거더와이즈(구의동)",
+        "물갈비, 접시, 수저"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "수제버거, 파스타",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거더와이즈,전문,수제버거, 파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 2번 출구, 법무사이기걸, GS25",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거더와이즈,인접,구의역 2번 출구, 법무사이기걸, GS25"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 자양로18길 67 1층 버거더와이즈",
+          "answer_wordNum": 6,
+          "fact": [
+            "버거더와이즈,주소,서울 광진구 자양로18길 67 1층 버거더와이즈"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1331-2126",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,연락처,0507-1331-2126"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 자양로18길 67 1층 버거더와이즈",
+          "answer_wordNum": 6,
+          "fact": [
+            "버거더와이즈,주소,서울 광진구 자양로18길 67 1층 버거더와이즈"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1331-2126",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,연락처,0507-1331-2126"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,영업시간,10:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,영업시간,10:00-24:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "더 와이즈 버거, 올스파이스 청양버거",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거더와이즈,메뉴,더 와이즈 버거, 올스파이스 청양버거"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,주차시설,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "수제버거, 파스타",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거더와이즈,전문,수제버거, 파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 자양로18길 67 1층 버거더와이즈",
+          "answer_wordNum": 6,
+          "fact": [
+            "버거더와이즈,주소,서울 광진구 자양로18길 67 1층 버거더와이즈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,영업시간,10:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "더 와이즈 버거, 올스파이스 청양버거",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거더와이즈,메뉴,더 와이즈 버거, 올스파이스 청양버거"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "수제버거, 파스타",
+          "answer_wordNum": 2,
+          "fact": [
+            "버거더와이즈,전문,수제버거, 파스타"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 자양로18길 67 1층 버거더와이즈",
+          "answer_wordNum": 6,
+          "fact": [
+            "버거더와이즈,주소,서울 광진구 자양로18길 67 1층 버거더와이즈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00-24:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "버거더와이즈,영업시간,10:00-24:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "더 와이즈 버거, 올스파이스 청양버거",
+          "answer_wordNum": 5,
+          "fact": [
+            "버거더와이즈,메뉴,더 와이즈 버거, 올스파이스 청양버거"
+          ]
+        }
+      ]
+    }
+  ]
+}

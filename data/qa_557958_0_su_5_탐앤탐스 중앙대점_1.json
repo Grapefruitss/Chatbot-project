@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "557958",
+    "travelType": "음식점",
+    "place": "탐앤탐스 중앙대점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "557958_0_su_5_탐앤탐스 중앙대점_1_001.png",
+      "mapx": 37.5080056116351,
+      "mapy": 126.960938746172,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 중앙대점(흑석동)",
+        "간판, 계단, 배너"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "557958_0_su_5_탐앤탐스 중앙대점_1_002.png",
+      "mapx": 37.5080056116351,
+      "mapy": 126.960938746172,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 중앙대점(흑석동)",
+        "건물, 간판, 자동차"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "557958_0_su_5_탐앤탐스 중앙대점_1_003.png",
+      "mapx": 37.5080056116351,
+      "mapy": 126.960938746172,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 중앙대점(흑석동)",
+        "테이블, 등받이의자, 시스템에어컨"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "557958_0_su_5_탐앤탐스 중앙대점_1_004.png",
+      "mapx": 37.5080056116351,
+      "mapy": 126.960938746172,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 중앙대점(흑석동)",
+        "배너"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "557958_0_su_5_탐앤탐스 중앙대점_1_005.png",
+      "mapx": 37.5080056116351,
+      "mapy": 126.960938746172,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "탐앤탐스 중앙대점(흑석동)",
+        "빵, 음료, 케찹, 포크"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 중앙대점,영업시간,08:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-814-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,연락처,02-814-4565"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동작구 흑석로 105 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 중앙대점,주소,서울 동작구 흑석로 105 2층"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "흑석역 4번 출구, 현대사진관, 몬스터PC방 1호점, 진상천본점, 거구장",
+          "answer_wordNum": 8,
+          "fact": [
+            "탐앤탐스 중앙대점,인접,흑석역 4번 출구, 현대사진관, 몬스터PC방 1호점, 진상천본점, 거구장"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "꼰대라떼, 탐의보감 3종",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 중앙대점,메뉴,꼰대라떼, 탐의보감 3종"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "흑석역 4번 출구, 현대사진관, 몬스터PC방 1호점, 진상천본점, 거구장",
+          "answer_wordNum": 8,
+          "fact": [
+            "탐앤탐스 중앙대점,인접,흑석역 4번 출구, 현대사진관, 몬스터PC방 1호점, 진상천본점, 거구장"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-814-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,연락처,02-814-4565"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동작구 흑석로 105 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 중앙대점,주소,서울 동작구 흑석로 105 2층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 중앙대점,영업시간,08:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-814-4565",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,연락처,02-814-4565"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "꼰대라떼, 탐의보감 3종",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 중앙대점,메뉴,꼰대라떼, 탐의보감 3종"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "탐앤탐스 중앙대점,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 동작구 흑석로 105 2층",
+          "answer_wordNum": 5,
+          "fact": [
+            "탐앤탐스 중앙대점,주소,서울 동작구 흑석로 105 2층"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "08:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "탐앤탐스 중앙대점,영업시간,08:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "흑석역 4번 출구, 현대사진관, 몬스터PC방 1호점, 진상천본점, 거구장",
+          "answer_wordNum": 8,
+          "fact": [
+            "탐앤탐스 중앙대점,인접,흑석역 4번 출구, 현대사진관, 몬스터PC방 1호점, 진상천본점, 거구장"
+          ]
+        }
+      ]
+    }
+  ]
+}

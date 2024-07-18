@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562917",
+    "travelType": "음식점",
+    "place": "황제참치 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562917_0_su_5_황제참치 _4_001.png",
+      "mapx": 37.5386404170168,
+      "mapy": 127.085148238872,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황제참치(광진구) ",
+        "간판, 여닫이문, 화분"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562917_0_su_5_황제참치 _4_002.png",
+      "mapx": 37.5386404170168,
+      "mapy": 127.085148238872,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황제참치(광진구) ",
+        "간판, 건물, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562917_0_su_5_황제참치 _4_003.png",
+      "mapx": 37.5386404170168,
+      "mapy": 127.085148238872,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황제참치(광진구)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562917_0_su_5_황제참치 _4_004.png",
+      "mapx": 37.5386404170168,
+      "mapy": 127.085148238872,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황제참치(광진구)",
+        "조리대, 냉장고, 정수기, 컵"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562917_0_su_5_황제참치 _4_005.png",
+      "mapx": 37.5386404170168,
+      "mapy": 127.085148238872,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "황제참치(광진구)",
+        "회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 1번 출구, 뚜레쥬르, 신도브래뉴오피스텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "황제참치,인접,구의역 1번 출구, 뚜레쥬르, 신도브래뉴오피스텔"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "초밥, 참치회",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,메뉴,초밥, 참치회"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-453-7678",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,연락처,02-453-7678"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "구의역 1번 출구, 뚜레쥬르, 신도브래뉴오피스텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "황제참치,인접,구의역 1번 출구, 뚜레쥬르, 신도브래뉴오피스텔"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "16:30-23:20",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,영업시간,16:30-23:20"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "초밥, 참치회",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,메뉴,초밥, 참치회"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-453-7678",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,연락처,02-453-7678"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 아차산로51길 36-1 성지빌딩1층 황제참치",
+          "answer_wordNum": 6,
+          "fact": [
+            "황제참치,주소,서울 광진구 아차산로51길 36-1 성지빌딩1층 황제참치"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,휴무일,매주 일요일"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "16:30-23:20",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,영업시간,16:30-23:20"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "초밥, 참치회",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,메뉴,초밥, 참치회"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "초밥, 참치회",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,메뉴,초밥, 참치회"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "황제참치,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "구의역 1번 출구, 뚜레쥬르, 신도브래뉴오피스텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "황제참치,인접,구의역 1번 출구, 뚜레쥬르, 신도브래뉴오피스텔"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "매주 일요일",
+          "answer_wordNum": 2,
+          "fact": [
+            "황제참치,휴무일,매주 일요일"
+          ]
+        }
+      ]
+    }
+  ]
+}

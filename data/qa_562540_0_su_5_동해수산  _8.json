@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562540",
+    "travelType": "음식점",
+    "place": "동해수산  ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562540_0_su_5_동해수산  _8_001.png",
+      "mapx": 37.4757309378486,
+      "mapy": 126.978740714698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동해수산(관악구)  ",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562540_0_su_5_동해수산  _8_002.png",
+      "mapx": 37.4757309378486,
+      "mapy": 126.978740714698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동해수산(관악구) ",
+        "간판 "
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562540_0_su_5_동해수산  _8_003.png",
+      "mapx": 37.4757309378486,
+      "mapy": 126.978740714698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동해수산(관악구)  ",
+        "사각테이블 "
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562540_0_su_5_동해수산  _8_004.png",
+      "mapx": 37.4757309378486,
+      "mapy": 126.978740714698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동해수산(관악구) ",
+        "메뉴판 "
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562540_0_su_5_동해수산  _8_005.png",
+      "mapx": 37.4757309378486,
+      "mapy": 126.978740714698,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "동해수산(관악구)  ",
+        "회"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3471-3555",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,연락처,02-3471-3555"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남현1길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "동해수산,주소,서울 관악구 남현1길 24"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "생우럭매운탕, 산낙지연포탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "동해수산,메뉴,생우럭매운탕, 산낙지연포탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "사당역 6번 출구, 노가의리, 아트웨딩",
+          "answer_wordNum": 5,
+          "fact": [
+            "동해수산,인접,사당역 6번 출구, 노가의리, 아트웨딩"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남현1길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "동해수산,주소,서울 관악구 남현1길 24"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3471-3555",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,연락처,02-3471-3555"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "생우럭매운탕, 산낙지연포탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "동해수산,메뉴,생우럭매운탕, 산낙지연포탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-3471-3555",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,연락처,02-3471-3555"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 남현1길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "동해수산,주소,서울 관악구 남현1길 24"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 02:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "동해수산,영업시간,11:00 - 02:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-3471-3555",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,연락처,02-3471-3555"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "생우럭매운탕, 산낙지연포탕",
+          "answer_wordNum": 2,
+          "fact": [
+            "동해수산,메뉴,생우럭매운탕, 산낙지연포탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 관악구 남현1길 24",
+          "answer_wordNum": 4,
+          "fact": [
+            "동해수산,주소,서울 관악구 남현1길 24"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "동해수산,휴무일,없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

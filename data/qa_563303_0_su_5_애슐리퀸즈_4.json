@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563303",
+    "travelType": "음식점",
+    "place": "애슐리퀸즈",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563303_0_su_5_애슐리퀸즈_4_001.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "애슐리퀸즈(미아동)",
+        "간판, 쇼파"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563303_0_su_5_애슐리퀸즈_4_002.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "애슐리퀸즈(미아동)",
+        "건물, 간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563303_0_su_5_애슐리퀸즈_4_003.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "애슐리퀸즈(미아동)",
+        "진열대, 그릇, 액자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563303_0_su_5_애슐리퀸즈_4_004.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "애슐리퀸즈(미아동)",
+        "요금표"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563303_0_su_5_애슐리퀸즈_4_005.png",
+      "mapx": 37.613699372646,
+      "mapy": 127.03052852605,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "애슐리퀸즈(미아동)",
+        "초밥, 연어, 새우, 스프, 알밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'",
+          "answer_wordNum": 11,
+          "fact": [
+            "애슐리퀸즈,메뉴,'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "'월': '11:00 - 21:00', '화': '11:00 - 21:00', '수': '11:00 - 21:00', '목': '11:00 - 21:00', '금': '11:00 - 21:00', '토': '11:00 - 21:00', '일': '11:00 - 21:00'",
+          "answer_wordNum": 28,
+          "fact": [
+            "애슐리퀸즈,영업시간,'월': '11:00 - 21:00', '화': '11:00 - 21:00', '수': '11:00 - 21:00', '목': '11:00 - 21:00', '금': '11:00 - 21:00', '토': '11:00 - 21:00', '일': '11:00 - 21:00'"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,휴무일,없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1413-0041",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,연락처,0507-1413-0041"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "공차, 폴더",
+          "answer_wordNum": 2,
+          "fact": [
+            "애슐리퀸즈,인접,공차, 폴더"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'",
+          "answer_wordNum": 11,
+          "fact": [
+            "애슐리퀸즈,메뉴,'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "'월': '11:00 - 21:00', '화': '11:00 - 21:00', '수': '11:00 - 21:00', '목': '11:00 - 21:00', '금': '11:00 - 21:00', '토': '11:00 - 21:00', '일': '11:00 - 21:00'",
+          "answer_wordNum": 28,
+          "fact": [
+            "애슐리퀸즈,영업시간,'월': '11:00 - 21:00', '화': '11:00 - 21:00', '수': '11:00 - 21:00', '목': '11:00 - 21:00', '금': '11:00 - 21:00', '토': '11:00 - 21:00', '일': '11:00 - 21:00'"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "공차, 폴더",
+          "answer_wordNum": 2,
+          "fact": [
+            "애슐리퀸즈,인접,공차, 폴더"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1413-0041",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,연락처,0507-1413-0041"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'",
+          "answer_wordNum": 11,
+          "fact": [
+            "애슐리퀸즈,메뉴,'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "대표 메뉴가 무엇인가요?",
+          "question_wordNum": 3,
+          "answer": "'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'",
+          "answer_wordNum": 11,
+          "fact": [
+            "애슐리퀸즈,메뉴,'애슐리퀸즈 평일런치', '애슐리퀸즈 평일 디너', '애슐리퀸즈 주말 공휴일', '애슐리퀸즈 초등학생 평일런치'"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강북구 도봉로 52 Y스퀘어 5층",
+          "answer_wordNum": 6,
+          "fact": [
+            "애슐리퀸즈,주소,서울 강북구 도봉로 52 Y스퀘어 5층"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "0507-1413-0041",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,연락처,0507-1413-0041"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1413-0041",
+          "answer_wordNum": 1,
+          "fact": [
+            "애슐리퀸즈,연락처,0507-1413-0041"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "공차, 폴더",
+          "answer_wordNum": 2,
+          "fact": [
+            "애슐리퀸즈,인접,공차, 폴더"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강북구 도봉로 52 Y스퀘어 5층",
+          "answer_wordNum": 6,
+          "fact": [
+            "애슐리퀸즈,주소,서울 강북구 도봉로 52 Y스퀘어 5층"
+          ]
+        }
+      ]
+    }
+  ]
+}

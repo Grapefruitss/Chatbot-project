@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562661",
+    "travelType": "음식점",
+    "place": "모두랑 군자 즉석떡볶이 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562661_0_su_5_모두랑 군자 즉석떡볶이 _1_001.png",
+      "mapx": 37.5581476764103,
+      "mapy": 127.082980222306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "모두랑 군자 즉석떡볶이(중곡동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562661_0_su_5_모두랑 군자 즉석떡볶이 _1_002.png",
+      "mapx": 37.5581476764103,
+      "mapy": 127.082980222306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "모두랑 군자 즉석떡볶이(중곡동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562661_0_su_5_모두랑 군자 즉석떡볶이 _1_003.png",
+      "mapx": 37.5581476764103,
+      "mapy": 127.082980222306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "모두랑 군자 즉석떡볶이(중곡동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562661_0_su_5_모두랑 군자 즉석떡볶이 _1_004.png",
+      "mapx": 37.5581476764103,
+      "mapy": 127.082980222306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "모두랑 군자 즉석떡볶이(중곡동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562661_0_su_5_모두랑 군자 즉석떡볶이 _1_005.png",
+      "mapx": 37.5581476764103,
+      "mapy": 127.082980222306,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "모두랑 군자 즉석떡볶이(중곡동)",
+        "떡볶이"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 4번 출구, 하나은행, 중곡1동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,인접,군자역 4번 출구, 하나은행, 중곡1동주민센터"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "구의동 모두랑 분점",
+          "answer_wordNum": 3,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,이다,구의동 모두랑 분점"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 천호대로111길 42 1층 모두랑",
+          "answer_wordNum": 6,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,주소,서울 광진구 천호대로111길 42 1층 모두랑"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-6452-6300",
+          "answer_wordNum": 1,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,연락처,010-6452-6300"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 천호대로111길 42 1층 모두랑",
+          "answer_wordNum": 6,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,주소,서울 광진구 천호대로111길 42 1층 모두랑"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "010-6452-6300",
+          "answer_wordNum": 1,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,연락처,010-6452-6300"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,영업시간,11:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,휴무일,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,영업시간,11:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "치즈떡볶이, 떡볶이",
+          "answer_wordNum": 2,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,메뉴,치즈떡볶이, 떡볶이"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "치즈떡볶이, 떡볶이",
+          "answer_wordNum": 2,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,메뉴,치즈떡볶이, 떡볶이"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 4번 출구, 하나은행, 중곡1동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,인접,군자역 4번 출구, 하나은행, 중곡1동주민센터"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "구의동 모두랑 분점",
+          "answer_wordNum": 3,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,이다,구의동 모두랑 분점"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "군자역 4번 출구, 하나은행, 중곡1동주민센터",
+          "answer_wordNum": 5,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,인접,군자역 4번 출구, 하나은행, 중곡1동주민센터"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 광진구 천호대로111길 42 1층 모두랑",
+          "answer_wordNum": 6,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,주소,서울 광진구 천호대로111길 42 1층 모두랑"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00 - 20:30",
+          "answer_wordNum": 3,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,영업시간,11:00 - 20:30"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "치즈떡볶이, 떡볶이",
+          "answer_wordNum": 2,
+          "fact": [
+            "모두랑 군자 즉석떡볶이,메뉴,치즈떡볶이, 떡볶이"
+          ]
+        }
+      ]
+    }
+  ]
+}

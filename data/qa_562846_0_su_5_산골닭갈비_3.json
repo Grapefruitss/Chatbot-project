@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562846",
+    "travelType": "음식점",
+    "place": "산골닭갈비",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562846_0_su_5_산골닭갈비_3_001.png",
+      "mapx": 37.5381848102594,
+      "mapy": 127.093222472755,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "산골닭갈비(구의동)",
+        "간판, 여닫이문, 건물"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562846_0_su_5_산골닭갈비_3_002.png",
+      "mapx": 37.5381848102594,
+      "mapy": 127.093222472755,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "산골닭갈비(구의동)",
+        "간판, 여닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562846_0_su_5_산골닭갈비_3_003.png",
+      "mapx": 37.5381848102594,
+      "mapy": 127.093222472755,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "산골닭갈비(구의동)",
+        "의자, 테이블, 냉장고"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562846_0_su_5_산골닭갈비_3_004.png",
+      "mapx": 37.5381848102594,
+      "mapy": 127.093222472755,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "산골닭갈비(구의동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562846_0_su_5_산골닭갈비_3_005.png",
+      "mapx": 37.5381848102594,
+      "mapy": 127.093222472755,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "산골닭갈비(구의동)",
+        "볶음밥"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,영업시간,11:00-22:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "무슨 요리 전문인가요?",
+          "question_wordNum": 3,
+          "answer": "춘천식 닭갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "산골닭갈비,전문,춘천식 닭갈비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "닭갈비, 볶음밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "산골닭갈비,메뉴,닭갈비, 볶음밥"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,영업시간,11:00-22:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-444-7985",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,연락처,02-444-7985"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,주차시설,있음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "닭갈비, 볶음밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "산골닭갈비,메뉴,닭갈비, 볶음밥"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-444-7985",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,연락처,02-444-7985"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의강변로7길 5",
+          "answer_wordNum": 4,
+          "fact": [
+            "산골닭갈비,주소,서울 광진구 구의강변로7길 5"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "강변역 1번 출구, 도치피자, 다성리버텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "산골닭갈비,인접,강변역 1번 출구, 도치피자, 다성리버텔"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 구의강변로7길 5",
+          "answer_wordNum": 4,
+          "fact": [
+            "산골닭갈비,주소,서울 광진구 구의강변로7길 5"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "11:00-22:00",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,영업시간,11:00-22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-7985",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,연락처,02-444-7985"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "닭갈비, 볶음밥",
+          "answer_wordNum": 2,
+          "fact": [
+            "산골닭갈비,메뉴,닭갈비, 볶음밥"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "강변역 1번 출구, 도치피자, 다성리버텔",
+          "answer_wordNum": 5,
+          "fact": [
+            "산골닭갈비,인접,강변역 1번 출구, 도치피자, 다성리버텔"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "산골닭갈비,주차시설,있음"
+          ]
+        }
+      ]
+    }
+  ]
+}

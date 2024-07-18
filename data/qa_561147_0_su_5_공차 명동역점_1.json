@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561147",
+    "travelType": "음식점",
+    "place": "공차 명동역점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561147_0_su_5_공차 명동역점_1_001.png",
+      "mapx": 37.5609512544879,
+      "mapy": 126.98386278197,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동역점(충무로1가)",
+        "간판, 여닫이문, 입간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561147_0_su_5_공차 명동역점_1_002.png",
+      "mapx": 37.5609512544879,
+      "mapy": 126.98386278197,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동역점(충무로1가)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561147_0_su_5_공차 명동역점_1_003.png",
+      "mapx": 37.5609512544879,
+      "mapy": 126.98386278197,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동역점(충무로1가)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561147_0_su_5_공차 명동역점_1_004.png",
+      "mapx": 37.5609512544879,
+      "mapy": 126.98386278197,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동역점(충무로1가)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561147_0_su_5_공차 명동역점_1_005.png",
+      "mapx": 37.5609512544879,
+      "mapy": 126.98386278197,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 명동역점(충무로1가)",
+        "밀크티"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00/09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 명동역점,영업시간,08:00/09:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-754-7770",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,연락처,02-754-7770"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 중구 퇴계로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,주소,서울 중구 퇴계로 109"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "하우스 스페셜 그린티, 블랙밀크티",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,메뉴,하우스 스페셜 그린티, 블랙밀크티"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 명동역점,영업시간,08:00/09:00 - 23:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 중구 퇴계로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,주소,서울 중구 퇴계로 109"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-754-7770",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,연락처,02-754-7770"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-754-7770",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,연락처,02-754-7770"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 중구 퇴계로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,주소,서울 중구 퇴계로 109"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00/09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 명동역점,영업시간,08:00/09:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 중구 퇴계로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,주소,서울 중구 퇴계로 109"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-754-7770",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,연락처,02-754-7770"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "08:00/09:00 - 23:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 명동역점,영업시간,08:00/09:00 - 23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 중구 퇴계로 109",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,주소,서울 중구 퇴계로 109"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 명동역점,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "명동역 5번 출구, 파리바게뜨, 신세계백화점",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 명동역점,인접,명동역 5번 출구, 파리바게뜨, 신세계백화점"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 메뉴를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "하우스 스페셜 그린티, 블랙밀크티",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 명동역점,메뉴,하우스 스페셜 그린티, 블랙밀크티"
+          ]
+        }
+      ]
+    }
+  ]
+}

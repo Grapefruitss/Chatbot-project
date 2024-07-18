@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "561138",
+    "travelType": "음식점",
+    "place": "공차 이대서울병원점",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "561138_0_su_5_공차 이대서울병원점_1_001.png",
+      "mapx": 37.5572628621214,
+      "mapy": 126.836266829117,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 이대서울병원점(마곡동)",
+        "간판\n"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "561138_0_su_5_공차 이대서울병원점_1_002.png",
+      "mapx": 37.5572628621214,
+      "mapy": 126.836266829117,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 이대서울병원점(마곡동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "561138_0_su_5_공차 이대서울병원점_1_003.png",
+      "mapx": 37.5572628621214,
+      "mapy": 126.836266829117,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 이대서울병원점(마곡동)",
+        "의자, 테이블\n"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "561138_0_su_5_공차 이대서울병원점_1_004.png",
+      "mapx": 37.5572628621214,
+      "mapy": 126.836266829117,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 이대서울병원점(마곡동)",
+        "메뉴판\n"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "561138_0_su_5_공차 이대서울병원점_1_005.png",
+      "mapx": 37.5572628621214,
+      "mapy": 126.836266829117,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "공차 이대서울병원점(마곡동)",
+        "버블티"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 이대서울병원점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1346-2022",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 이대서울병원점,연락처,0507-1346-2022"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "백두한우곱창, 탄탄면공방, 발산역 8번 출구",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 이대서울병원점,인접,백두한우곱창, 탄탄면공방, 발산역 8번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어떤 게 가능한가요?",
+          "question_wordNum": 5,
+          "answer": "배달가능 문의",
+          "answer_wordNum": 2,
+          "fact": [
+            "공차 이대서울병원점,가능,배달가능 문의"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/10:00 - 18:00/21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,영업시간,08:00/10:00 - 18:00/21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "넷째, 다섯째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,휴무일,넷째, 다섯째 일요일"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 강서구 공항대로 260",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 이대서울병원점,주소,서울 강서구 공항대로 260"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 4,
+          "answer": "백두한우곱창, 탄탄면공방, 발산역 8번 출구",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 이대서울병원점,인접,백두한우곱창, 탄탄면공방, 발산역 8번 출구"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1346-2022",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 이대서울병원점,연락처,0507-1346-2022"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "백두한우곱창, 탄탄면공방, 발산역 8번 출구",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 이대서울병원점,인접,백두한우곱창, 탄탄면공방, 발산역 8번 출구"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "08:00/10:00 - 18:00/21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,영업시간,08:00/10:00 - 18:00/21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "넷째, 다섯째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,휴무일,넷째, 다섯째 일요일"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 이대서울병원점,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "쟈스민 그린티, 우롱티",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,메뉴,쟈스민 그린티, 우롱티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "넷째, 다섯째 일요일",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,휴무일,넷째, 다섯째 일요일"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 강서구 공항대로 260",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 이대서울병원점,주소,서울 강서구 공항대로 260"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "백두한우곱창, 탄탄면공방, 발산역 8번 출구",
+          "answer_wordNum": 5,
+          "fact": [
+            "공차 이대서울병원점,인접,백두한우곱창, 탄탄면공방, 발산역 8번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "쟈스민 그린티, 우롱티",
+          "answer_wordNum": 3,
+          "fact": [
+            "공차 이대서울병원점,메뉴,쟈스민 그린티, 우롱티"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "0507-1346-2022",
+          "answer_wordNum": 1,
+          "fact": [
+            "공차 이대서울병원점,연락처,0507-1346-2022"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 강서구 공항대로 260",
+          "answer_wordNum": 4,
+          "fact": [
+            "공차 이대서울병원점,주소,서울 강서구 공항대로 260"
+          ]
+        }
+      ]
+    }
+  ]
+}

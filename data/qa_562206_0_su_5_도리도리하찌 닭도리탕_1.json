@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "562206",
+    "travelType": "음식점",
+    "place": "도리도리하찌 닭도리탕",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "562206_0_su_5_도리도리하찌 닭도리탕_1_001.png",
+      "mapx": 37.4783921913908,
+      "mapy": 126.956744147173,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도리도리하찌 닭도리탕(봉천동)",
+        "등받이 의자, 간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "562206_0_su_5_도리도리하찌 닭도리탕_1_002.png",
+      "mapx": 37.4783921913908,
+      "mapy": 126.956744147173,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도리도리하찌 닭도리탕(봉천동)",
+        "의자, 입간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "562206_0_su_5_도리도리하찌 닭도리탕_1_003.png",
+      "mapx": 37.4783921913908,
+      "mapy": 126.956744147173,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도리도리하찌 닭도리탕(봉천동)",
+        "테이블, 등받이 의자"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "562206_0_su_5_도리도리하찌 닭도리탕_1_004.png",
+      "mapx": 37.4783921913908,
+      "mapy": 126.956744147173,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도리도리하찌 닭도리탕(봉천동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "562206_0_su_5_도리도리하찌 닭도리탕_1_005.png",
+      "mapx": 37.4783921913908,
+      "mapy": 126.956744147173,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "도리도리하찌 닭도리탕(봉천동)",
+        "닭도리탕"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "샤로수 길",
+          "answer_wordNum": 2,
+          "fact": [
+            "도리도리하찌 닭도리탕,위치,샤로수 길"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 무엇을 전문으로 하나요?",
+          "question_wordNum": 5,
+          "answer": "닭도리탕",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,전문,닭도리탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 1번 출구, 일등정육점, 샤로수 흑돈",
+          "answer_wordNum": 6,
+          "fact": [
+            "도리도리하찌 닭도리탕,인접,서울대입구역 1번 출구, 일등정육점, 샤로수 흑돈"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 관악로14길 77",
+          "answer_wordNum": 4,
+          "fact": [
+            "도리도리하찌 닭도리탕,주소,서울 관악구 관악로14길 77"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 1번 출구, 일등정육점, 샤로수 흑돈",
+          "answer_wordNum": 6,
+          "fact": [
+            "도리도리하찌 닭도리탕,인접,서울대입구역 1번 출구, 일등정육점, 샤로수 흑돈"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 관악구 관악로14길 77",
+          "answer_wordNum": 4,
+          "fact": [
+            "도리도리하찌 닭도리탕,주소,서울 관악구 관악로14길 77"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-889-4490",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,연락처,02-889-4490"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 00:30/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "도리도리하찌 닭도리탕,영업시간,12:00 - 00:30/24:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-889-4490",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,연락처,02-889-4490"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "12:00 - 00:30/24:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "도리도리하찌 닭도리탕,영업시간,12:00 - 00:30/24:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "마늘 닭도리탕, 얼큰 닭도리탕",
+          "answer_wordNum": 4,
+          "fact": [
+            "도리도리하찌 닭도리탕,메뉴,마늘 닭도리탕, 얼큰 닭도리탕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일이 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴가 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "마늘 닭도리탕, 얼큰 닭도리탕",
+          "answer_wordNum": 4,
+          "fact": [
+            "도리도리하찌 닭도리탕,메뉴,마늘 닭도리탕, 얼큰 닭도리탕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "샤로수 길",
+          "answer_wordNum": 2,
+          "fact": [
+            "도리도리하찌 닭도리탕,위치,샤로수 길"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 위치는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "샤로수 길",
+          "answer_wordNum": 2,
+          "fact": [
+            "도리도리하찌 닭도리탕,위치,샤로수 길"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 어떻게 되나요?",
+          "question_wordNum": 6,
+          "answer": "서울대입구역 1번 출구, 일등정육점, 샤로수 흑돈",
+          "answer_wordNum": 6,
+          "fact": [
+            "도리도리하찌 닭도리탕,인접,서울대입구역 1번 출구, 일등정육점, 샤로수 흑돈"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-889-4490",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,연락처,02-889-4490"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "도리도리하찌 닭도리탕,휴무일,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "564951",
+    "travelType": "음식점",
+    "place": "청량리함흥냉면 ",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "564951_0_su_5_청량리함흥냉면 _1_001.png",
+      "mapx": 37.582428474181,
+      "mapy": 127.04352043914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "청량리함흥냉면(제기동)",
+        "간판, 미닫이문"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "564951_0_su_5_청량리함흥냉면 _1_002.png",
+      "mapx": 37.582428474181,
+      "mapy": 127.04352043914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "청량리함흥냉면(제기동)",
+        "미닫이문"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "564951_0_su_5_청량리함흥냉면 _1_003.png",
+      "mapx": 37.582428474181,
+      "mapy": 127.04352043914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "청량리함흥냉면(제기동)",
+        "테이블, 등받이 의자, 카운터"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "564951_0_su_5_청량리함흥냉면 _1_004.png",
+      "mapx": 37.582428474181,
+      "mapy": 127.04352043914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "청량리함흥냉면(제기동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "564951_0_su_5_청량리함흥냉면 _1_005.png",
+      "mapx": 37.582428474181,
+      "mapy": 127.04352043914,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "청량리함흥냉면(제기동)",
+        "냉면"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "냉면, 회냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "청량리함흥냉면,메뉴,냉면, 회냉면"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "청량리함흥냉면,영업시간,11:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 2번 출구, 할머니냉면, 신협",
+          "answer_wordNum": 5,
+          "fact": [
+            "청량리함흥냉면,인접,청량리역 2번 출구, 할머니냉면, 신협"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 홍릉로5길 15-3",
+          "answer_wordNum": 4,
+          "fact": [
+            "청량리함흥냉면,주소,서울 동대문구 홍릉로5길 15-3"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처가 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "02-960-6761",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,연락처,02-960-6761"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "함흥냉면집",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,이다,함흥냉면집"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 2번 출구, 할머니냉면, 신협",
+          "answer_wordNum": 5,
+          "fact": [
+            "청량리함흥냉면,인접,청량리역 2번 출구, 할머니냉면, 신협"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "냉면, 회냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "청량리함흥냉면,메뉴,냉면, 회냉면"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "청량리함흥냉면,영업시간,11:00 - 20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "11:00 - 20:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "청량리함흥냉면,영업시간,11:00 - 20:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "서울 동대문구 홍릉로5길 15-3",
+          "answer_wordNum": 4,
+          "fact": [
+            "청량리함흥냉면,주소,서울 동대문구 홍릉로5길 15-3"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-960-6761",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,연락처,02-960-6761"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-960-6761",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,연락처,02-960-6761"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳은 어디인가요?",
+          "question_wordNum": 3,
+          "answer": "함흥냉면집",
+          "answer_wordNum": 1,
+          "fact": [
+            "청량리함흥냉면,이다,함흥냉면집"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "냉면, 회냉면",
+          "answer_wordNum": 2,
+          "fact": [
+            "청량리함흥냉면,메뉴,냉면, 회냉면"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "청량리역 2번 출구, 할머니냉면, 신협",
+          "answer_wordNum": 5,
+          "fact": [
+            "청량리함흥냉면,인접,청량리역 2번 출구, 할머니냉면, 신협"
+          ]
+        }
+      ]
+    }
+  ]
+}

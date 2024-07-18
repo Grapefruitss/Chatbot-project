@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-219",
+    "POI_id": "563107",
+    "travelType": "음식점",
+    "place": "요리왕",
+    "area": "서울"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "563107_0_su_5_요리왕_6_001.png",
+      "mapx": 37.5332274134829,
+      "mapy": 127.060040899458,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요리왕(자양동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "563107_0_su_5_요리왕_6_002.png",
+      "mapx": 37.5332274134829,
+      "mapy": 127.060040899458,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요리왕(자양동)",
+        "간판"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "563107_0_su_5_요리왕_6_003.png",
+      "mapx": 37.5332274134829,
+      "mapy": 127.060040899458,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요리왕(자양동)",
+        "의자, 테이블"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "563107_0_su_5_요리왕_6_004.png",
+      "mapx": 37.5332274134829,
+      "mapy": 127.060040899458,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요리왕(자양동)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "563107_0_su_5_요리왕_6_005.png",
+      "mapx": 37.5332274134829,
+      "mapy": 127.060040899458,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "요리왕(자양동)",
+        "만두"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "요리왕,인접,뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "짜장면, 짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "요리왕,메뉴,짜장면, 짬뽕"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-6054",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,연락처,02-444-6054"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,영업시간,알수없음"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "짜장면, 짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "요리왕,메뉴,짜장면, 짬뽕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "요리왕,인접,뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있는지 알 수 있나요?",
+          "question_wordNum": 5,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,주차시설,없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주소는 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "서울 광진구 자양동 158-8",
+          "answer_wordNum": 4,
+          "fact": [
+            "요리왕,주소,서울 광진구 자양동 158-8"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "짜장면, 짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "요리왕,메뉴,짜장면, 짬뽕"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설을 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "요리왕,인접,뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-6054",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,연락처,02-444-6054"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "이 곳의 주소는 어떻게 되나요?",
+          "question_wordNum": 5,
+          "answer": "서울 광진구 자양동 158-8",
+          "answer_wordNum": 4,
+          "fact": [
+            "요리왕,주소,서울 광진구 자양동 158-8"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,영업시간,알수없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "주요  메뉴는 무엇이 있나요?",
+          "question_wordNum": 5,
+          "answer": "짜장면, 짬뽕",
+          "answer_wordNum": 2,
+          "fact": [
+            "요리왕,메뉴,짜장면, 짬뽕"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트",
+          "answer_wordNum": 5,
+          "fact": [
+            "요리왕,인접,뚝섬유원지역 4번 출구, 파크빌라, 삼익아파트"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "02-444-6054",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,연락처,02-444-6054"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,휴무일,알수없음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "알수없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "요리왕,영업시간,알수없음"
+          ]
+        }
+      ]
+    }
+  ]
+}
