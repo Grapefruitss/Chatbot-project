@@ -1,0 +1,27 @@
+<AI 챗봇 - 음식점 정보 / 맛집 추천 프로젝트>
+
+[팀 방향성]
+1. AI 허브에서 json 파일 형식으로 된 data 수집
+2. 스타벅스, 이디야 커피, 탐앤탐스 등 체인점이 많은 상호 삭제
+(+ 영어 및 특수문자이 상호명에 있으면 삭제)
+3. 랜덤으로 3천개의 상호 (맛집으로 가정)
+
+
+[개인 방향성]
+1. Tensorflow로 seq2seq 모델을 만들어서 작동하는지 확인
+ (4th_project_v0 , 4th_prj_v1)
+
+2. Tensorflow로 seq2seq with attention 모델을 만들어서 작동하는지 확인
+ (프로젝트4_pre)
+
+3. pyTorch로 seq2seq 모델링
+ (프로젝트4)
+
+4. pyTorch로 transformer 모델링 < GPT2
+ (프로젝트4_2)
+
+5. 배포: telegram을 활용하여 챗봇 제작
+ (프로젝트4_3)
+
+6. GPT-2 fine-tuning
+  (프로젝트4_2_v2) 
